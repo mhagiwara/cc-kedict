@@ -1,0 +1,108 @@
+- word: 것
+  romaja: geot
+  pos: n
+  senses:
+    - a thing; an object, one (impersonal pronoun)
+    - (used to create noun phrases) what; the thing which
+
+- word: 하다
+  romaja: hada
+  pos: v
+  senses:
+    - (…을 하다) to do; to make; to arrange; to cook
+  conj: 한다 해 해요 합니다
+
+- word: 하다
+  index: 2
+  romaja: hada
+  pos: a
+  senses:
+    - (in the form of "adjective stem + '—기' + semantic marker + ' 하다'") to be, with an emphasis
+    - (after adjective, in the form of '—고 하다') to be, as a cause
+
+- word: 있다
+  romaja: itda
+  pos: v
+  senses:
+    - to be (in a place); to exist
+    - to be (in a state)
+    - to have
+  conj: 있다 있어 있어요 있습니다
+
+- word: 되다
+  romaja: doeda
+  pos: v
+  senses:
+    - to become
+    - (of a time) to come, to arrive
+    - (as an auxiliary verb after a verb in its —어 (eo), —아 (a), or —해 (hae) form) to be permissible; to be OK; may
+
+- word: 수
+  romaja: su
+  pos: n
+  senses:
+    - way, means, possibility
+    - male (non-human)
+  notes: After a future determiner and before, 수 (su, “possibility”) with a form of 있다 (itda, “to exist”) or 없다 (eopda, “not to exist”) may translate as a form of “can” or “cannot”, respectively
+
+- word: 수
+  index: 2
+  romaja: su
+  pos: n
+  hanja: 數
+  senses:
+    - number
+
+- word: 수
+  index: 3
+  romaja: su
+  pos: n
+  hanja: 水
+  senses:
+    - water
+    - river
+    - (figuratively) north; winter; black
+    - Abbreviation of 수요일 (suyoil) - Wednesday
+
+- word: 나
+  romaja: na
+  pos: pron
+  senses:
+    - I, the first-person singular plain (non-polite) pronoun
+
+- word: 그
+  romaja: geu
+  pos: det
+  senses:
+    - (demonstrative) that (of what has been already said or known)
+  notes: 그 (geu) is used for items closer to the listener than to the speaker, and 저 (jeo) is used for items far from both the speaker and the listener
+
+- word: 그
+  index: 2
+  romaja: geu
+  pos: pron
+  senses:
+    - (demonstrative) that (of what has been already said or known) (see 그것 (geugeot, “that thing”))
+    - (literary) he; she
+
+- word: 없다
+  romaja: eopda
+  pos: a
+  senses:
+    - there are none; (to be) lacking; (to be) nonexistent
+  conj: 없다 없어 없어요 없습니다
+
+- word: 않다
+  romaja: anta
+  pos: a
+  senses:
+    - (adjective-지 않다) (auxiliary) not
+  conj: 않다 않아 않아요 않습니다
+
+- word: 않다
+  romaja: anta
+  pos: v
+  senses:
+    - (verb-지 않다) (auxiliary) not
+    - (를 않다) not to do something
+  conj: 않는다 않아 않아요 않습니다
