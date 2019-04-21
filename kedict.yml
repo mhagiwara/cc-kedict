@@ -1,9 +1,57 @@
+# ㄱ
+
 - word: 것
   romaja: geot
   pos: n
   senses:
     - a thing; an object, one (impersonal pronoun)
     - (used to create noun phrases) what; the thing which
+
+- word: 공책
+  romaja: gongchaek
+  pos: n
+  hanja: 空冊
+  senses:
+    - notebook, jotter
+  tags: topic1
+
+- word: 그
+  romaja: geu
+  pos: det
+  senses:
+    - (demonstrative) that (of what has been already said or known)
+  notes: 그 (geu) is used for items closer to the listener than to the speaker, and 저 (jeo) is used for items far from both the speaker and the listener
+
+- word: 그
+  index: 2
+  romaja: geu
+  pos: pron
+  senses:
+    - (demonstrative) that (of what has been already said or known) (see 그것 (geugeot, “that thing”))
+    - (literary) he; she
+
+
+# ㄴ
+
+- word: 나
+  romaja: na
+  pos: pron
+  senses:
+    - I, the first-person singular plain (non-polite) pronoun
+
+
+# ㄷ
+
+- word: 되다
+  romaja: doeda
+  pos: v
+  senses:
+    - to become
+    - (of a time) to come, to arrive
+    - (as an auxiliary verb after a verb in its —어 (eo), —아 (a), or —해 (hae) form) to be permissible; to be OK; may
+
+
+# etc
 
 - word: 하다
   romaja: hada
@@ -28,14 +76,6 @@
     - to be (in a state)
     - to have
   conj: 있다 있어 있어요 있습니다
-
-- word: 되다
-  romaja: doeda
-  pos: v
-  senses:
-    - to become
-    - (of a time) to come, to arrive
-    - (as an auxiliary verb after a verb in its —어 (eo), —아 (a), or —해 (hae) form) to be permissible; to be OK; may
 
 - word: 수
   romaja: su
@@ -63,27 +103,6 @@
     - river
     - (figuratively) north; winter; black
     - Abbreviation of 수요일 (suyoil) - Wednesday
-
-- word: 나
-  romaja: na
-  pos: pron
-  senses:
-    - I, the first-person singular plain (non-polite) pronoun
-
-- word: 그
-  romaja: geu
-  pos: det
-  senses:
-    - (demonstrative) that (of what has been already said or known)
-  notes: 그 (geu) is used for items closer to the listener than to the speaker, and 저 (jeo) is used for items far from both the speaker and the listener
-
-- word: 그
-  index: 2
-  romaja: geu
-  pos: pron
-  senses:
-    - (demonstrative) that (of what has been already said or known) (see 그것 (geugeot, “that thing”))
-    - (literary) he; she
 
 - word: 없다
   romaja: eopda
