@@ -13,7 +13,7 @@
   hanja: 空冊
   senses:
     - notebook, jotter
-  tags: topic1
+  tags: [topik1]
 
 - word: 그
   romaja: geu
@@ -39,6 +39,12 @@
   senses:
     - I, the first-person singular plain (non-polite) pronoun
 
+- word: 네
+  romaja: ne
+  pos: intj
+  senses:
+    - (polite) yes
+  tags: [topik1]
 
 # ㄷ
 
@@ -87,7 +93,7 @@
   pos: a
   senses:
     - (adjective-지 않다) (auxiliary) not
-  conj: 않다 않아 않아요 않습니다
+  conj: [않다, 않아, 않아요, 않습니다]
 
 - word: 않다
   romaja: anta
@@ -95,14 +101,22 @@
   senses:
     - (verb-지 않다) (auxiliary) not
     - (를 않다) not to do something
-  conj: 않는다 않아 않아요 않습니다
+  conj: [않는다, 않아, 않아요, 않습니다]
 
 - word: 없다
   romaja: eopda
   pos: a
   senses:
     - there are none; (to be) lacking; (to be) nonexistent
-  conj: 없다 없어 없어요 없습니다
+  conj: [없다, 없어, 없어요, 없습니다]
+
+- word: 이다
+  romaja: ida
+  pos: a
+  senses:
+    - To be (something); to equal
+  conj: [이다, 이야, 이에요/예요, 입니다]
+  tags: [topik1]
 
 - word: 있다
   romaja: itda
@@ -111,7 +125,7 @@
     - to be (in a place); to exist
     - to be (in a state)
     - to have
-  conj: 있다 있어 있어요 있습니다
+  conj: [있다, 있어, 있어요, 있습니다]
 
 
 # ㅎ
@@ -121,7 +135,7 @@
   pos: v
   senses:
     - (…을 하다) to do; to make; to arrange; to cook
-  conj: 한다 해 해요 합니다
+  conj: [한다, 해, 해요, 합니다]
 
 - word: 하다
   index: 2
