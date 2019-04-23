@@ -12,6 +12,14 @@
   syns: [이]
   tags: [topik1]
 
+- word: 가다
+  romaja: gada
+  pos: v
+  senses:
+    - to go
+  conj: [간다, 가, 가요, 갑니다]
+  tags: [topik1]
+
 - word: 것
   romaja: geot
   pos: n
@@ -96,8 +104,46 @@
   conj: [많다, 많아, 많아요, 많습니다]
   tags: [topik1]
 
+- word: 맛있다
+  romaja: masitda
+  pos: a
+  senses:
+    - to be delicious
+  conj: [맛있다, 맛있어, 맛있어요, 맛있습니다]
+  tags: [topik1]
+
+
+# ㅂ
+
+- word: 보다
+  romaja: boda
+  pos: v
+  senses:
+    - to see, look at
+    - to look after (a baby, child, house, etc.)
+    - to watch (a film, TV, etc.)
+    - to read (a book, newspaper, etc.)
+  conj: [본다, 봐, 봐요/보아요, 봅니다]
+  tags: [topik1]
+
+- word: 비싸다
+  romaja: bissada
+  pos: a
+  senses:
+    - (to be) expensive
+  conj: [비싸다, 비싸, 비싸요, 비쌉니다]
+  tags: [topik1]
+
 
 # ㅅ
+
+- word: 사과
+  romaja: sagwa
+  hanja: 沙果, 砂果
+  pos: n
+  senses:
+    - apple
+  tags: [topik1]
 
 - word: 수
   romaja: su
@@ -141,6 +187,13 @@
   conj: [아니다, 아녀, 아녀요/아니어요, 아닙니다]
   tags: [topik1]
 
+- word: 안
+  romaja: an
+  pos: adv
+  senses:
+    - not
+  tags: [topik1]
+
 - word: 않다
   romaja: anta
   pos: a
@@ -162,6 +215,26 @@
   senses:
     - there are none; (to be) lacking; (to be) nonexistent
   conj: [없다, 없어, 없어요, 없습니다]
+
+- word: 에
+  romaja: e
+  pos: part
+  senses:
+    - at
+    - to
+  notes:
+    - 에 (e) is only used on nouns denoting inanimate objects. For nouns denoting animate objects (usually people or animals), 한테 (hante), 에게 (ege), or 게 (ge) is used instead.
+  tags: [topik1]
+
+- word: 요
+  romaja: yo
+  pos: part
+  senses:
+    - (Sentence-final particle for verbs and adjectives in the 해요체 (haeyoche, “polite”) speech level)
+  notes:
+    - In the 해요체 (haeyoche, “polite”) speech level, there is no explicit marker to distinguish between indicative, interrogative, imperative, and hortative moods. The mood distinction is made with punctuation (e.g. “?”, “!”) and pitch (e.g. rising for interrogative) only.
+    - The modern pronunciation of this particle is more open than the syllable 요 and can be described as 여.
+  tags: [topik1]
 
 - word: 을
   romaja: eul
@@ -204,6 +277,25 @@
   conj: [있다, 있어, 있어요, 있습니다]
 
 
+# ㅈ
+
+- word: 작다
+  romaja: jakda
+  pos: a
+  senses:
+    - small
+  conj: [작다, 작아, 작아요, 작습니다]
+  tags: [topik1]
+
+- word: 좋다
+  romaja: joda
+  pos: a
+  senses:
+    - to be good; great; excellent (Excellent and satisfactory in features and content.)
+  conj: [좋다, 좋아, 좋아요, 좋습니다]
+  tags: [topik1]
+
+
 # ㅋ
 
 - word: 크다
@@ -231,3 +323,11 @@
   senses:
     - (in the form of "adjective stem + '—기' + semantic marker + ' 하다'") to be, with an emphasis
     - (after adjective, in the form of '—고 하다') to be, as a cause
+
+- word: 학교
+  romaja: hakgyo
+  hanja: 學校
+  pos: n
+  senses:
+    - school
+  tags: [topik1]
