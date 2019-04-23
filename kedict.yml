@@ -50,32 +50,7 @@
     - (of a time) to come, to arrive
     - (as an auxiliary verb after a verb in its —어 (eo), —아 (a), or —해 (hae) form) to be permissible; to be OK; may
 
-
-# etc
-
-- word: 하다
-  romaja: hada
-  pos: v
-  senses:
-    - (…을 하다) to do; to make; to arrange; to cook
-  conj: 한다 해 해요 합니다
-
-- word: 하다
-  index: 2
-  romaja: hada
-  pos: a
-  senses:
-    - (in the form of "adjective stem + '—기' + semantic marker + ' 하다'") to be, with an emphasis
-    - (after adjective, in the form of '—고 하다') to be, as a cause
-
-- word: 있다
-  romaja: itda
-  pos: v
-  senses:
-    - to be (in a place); to exist
-    - to be (in a state)
-    - to have
-  conj: 있다 있어 있어요 있습니다
+# ㅅ
 
 - word: 수
   romaja: su
@@ -104,12 +79,8 @@
     - (figuratively) north; winter; black
     - Abbreviation of 수요일 (suyoil) - Wednesday
 
-- word: 없다
-  romaja: eopda
-  pos: a
-  senses:
-    - there are none; (to be) lacking; (to be) nonexistent
-  conj: 없다 없어 없어요 없습니다
+
+# ㅇ
 
 - word: 않다
   romaja: anta
@@ -125,3 +96,38 @@
     - (verb-지 않다) (auxiliary) not
     - (를 않다) not to do something
   conj: 않는다 않아 않아요 않습니다
+
+- word: 없다
+  romaja: eopda
+  pos: a
+  senses:
+    - there are none; (to be) lacking; (to be) nonexistent
+  conj: 없다 없어 없어요 없습니다
+
+- word: 있다
+  romaja: itda
+  pos: v
+  senses:
+    - to be (in a place); to exist
+    - to be (in a state)
+    - to have
+  conj: 있다 있어 있어요 있습니다
+
+
+# ㅎ
+
+- word: 하다
+  romaja: hada
+  pos: v
+  senses:
+    - (…을 하다) to do; to make; to arrange; to cook
+  conj: 한다 해 해요 합니다
+
+- word: 하다
+  index: 2
+  romaja: hada
+  pos: a
+  senses:
+    - (in the form of "adjective stem + '—기' + semantic marker + ' 하다'") to be, with an emphasis
+    - (after adjective, in the form of '—고 하다') to be, as a cause
+
