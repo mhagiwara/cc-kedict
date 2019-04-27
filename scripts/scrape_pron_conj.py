@@ -1,3 +1,6 @@
+"""Given a JSON-L file, this script scrapes the pronunciation and conjugation
+and adds them to each line."""
+
 import sys
 import time
 
@@ -9,13 +12,15 @@ from bs4 import BeautifulSoup
 def get_pron_conj(word):
     r = requests.get('https://en.wiktionary.org/api/rest_v1/page/html/{}'.format(word))
     soup = BeautifulSoup(r.text, 'html.parser')
-    elements = soup.find_all('td', class_='IPA')
 
+    # Pronunciation
+    elements = soup.find_all('td', class_='IPA')
     if elements:
         pron = elements[0].text
     else:
         pron = None
 
+    # Conjugation
     table = soup.find('table', class_='inflection-table')
 
     conj = None
@@ -31,6 +36,7 @@ def main():
         data = json.loads(line)
         word = data['word']
         print(word, file=sys.stderr)
+
         pron, conj = get_pron_conj(word)
         if pron:
             data['pron'] = pron

@@ -1,3 +1,5 @@
+"""Given a JSON-L file, this script scrapes the definition and adds it to each line."""
+
 import sys
 import time
 
