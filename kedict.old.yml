@@ -1,0 +1,333 @@
+# ㄱ
+
+- word: 가
+  romaja: ga
+  pos: part
+  senses:
+    - Indicates the subject of a sentence.(Compare with Japanese が)
+    - Indicates the subjective complement of a sentence, usually used with 되다 (doeda, “become”) or 아니다 (anida, “be not”).
+  notes:
+    - 가 (ga) indicates the subject of the verb in the sentence, as opposed to the object, which *를 (reul) indicates. See also 는 (neun), which indicates the topic of the sentence.
+    - 가 (ga) is used only after words ending with a vowel. After words ending with a consonant, 이 (i) is used instead.
+  syns: [이]
+  tags: [topik1]
+
+- word: 가다
+  romaja: gada
+  pos: v
+  senses:
+    - to go
+  conj: [간다, 가, 가요, 갑니다]
+  tags: [topik1]
+
+- word: 것
+  romaja: geot
+  pos: n
+  senses:
+    - a thing; an object, one (impersonal pronoun)
+    - (used to create noun phrases) what; the thing which
+
+- word: 공책
+  romaja: gongchaek
+  pos: n
+  hanja: 空冊
+  senses:
+    - notebook, jotter
+  syns: [수첩]
+  tags: [topik1]
+
+- word: 그
+  romaja: geu
+  pos: det
+  senses:
+    - (demonstrative) that (of what has been already said or known)
+  notes: 그 (geu) is used for items closer to the listener than to the speaker, and 저 (jeo) is used for items far from both the speaker and the listener
+
+- word: 그
+  index: 2
+  romaja: geu
+  pos: pron
+  senses:
+    - (demonstrative) that (of what has been already said or known) (see 그것 (geugeot, “that thing”))
+    - (literary) he; she
+  syns: [저]
+
+
+# ㄴ
+
+- word: 나
+  romaja: na
+  pos: pron
+  senses:
+    - I, the first-person singular plain (non-polite) pronoun
+
+- word: 네
+  romaja: ne
+  pos: intj
+  senses:
+    - (polite) yes
+  syns: [넵, 예, 응]
+  tags: [topik1]
+
+# ㄷ
+
+- word: 되다
+  romaja: doeda
+  pos: v
+  senses:
+    - to become
+    - (of a time) to come, to arrive
+    - (as an auxiliary verb after a verb in its —어 (eo), —아 (a), or —해 (hae) form) to be permissible; to be OK; may
+
+
+# ㄹ
+
+- word: 를
+  romaja: reul
+  pos: part
+  senses:
+    - indicates the direct object of a verb
+  notes:
+    - Like other Korean particles, 를 (reul) is a postposition. It marks the preceding noun as the direct object of the following verb. 를 (reul) is optional if it can be inferred that the noun is the direct object (as opposed to the subject).
+    - 를 (reul) is used only after a word ending in a vowel. If the preceding word ends in a consonant, 을 (eul) is used instead
+    - If the noun is the main topic of the sentence and it can be inferred that the noun is the direct object (as opposed to the subject), 는 (neun) is usually used instead.
+  tags: [topik1]
+
+
+# ㅁ
+
+- word: 많다
+  romaja: manta
+  pos: a
+  senses:
+    - (to be) many, much, a lot, plentiful
+  conj: [많다, 많아, 많아요, 많습니다]
+  tags: [topik1]
+
+- word: 맛있다
+  romaja: masitda
+  pos: a
+  senses:
+    - to be delicious
+  conj: [맛있다, 맛있어, 맛있어요, 맛있습니다]
+  tags: [topik1]
+
+
+# ㅂ
+
+- word: 보다
+  romaja: boda
+  pos: v
+  senses:
+    - to see, look at
+    - to look after (a baby, child, house, etc.)
+    - to watch (a film, TV, etc.)
+    - to read (a book, newspaper, etc.)
+  conj: [본다, 봐, 봐요/보아요, 봅니다]
+  tags: [topik1]
+
+- word: 비싸다
+  romaja: bissada
+  pos: a
+  senses:
+    - (to be) expensive
+  conj: [비싸다, 비싸, 비싸요, 비쌉니다]
+  tags: [topik1]
+
+
+# ㅅ
+
+- word: 사과
+  romaja: sagwa
+  hanja: 沙果, 砂果
+  pos: n
+  senses:
+    - apple
+  tags: [topik1]
+
+- word: 수
+  romaja: su
+  pos: n
+  senses:
+    - way, means, possibility
+    - male (non-human)
+  notes: After a future determiner and before, 수 (su, “possibility”) with a form of 있다 (itda, “to exist”) or 없다 (eopda, “not to exist”) may translate as a form of “can” or “cannot”, respectively
+
+- word: 수
+  index: 2
+  romaja: su
+  pos: n
+  hanja: 數
+  senses:
+    - number
+
+- word: 수
+  index: 3
+  romaja: su
+  pos: n
+  hanja: 水
+  senses:
+    - water
+    - river
+    - (figuratively) north; winter; black
+    - Abbreviation of 수요일 (suyoil) - Wednesday
+  syns: [물]
+
+
+# ㅇ
+
+- word: 아니다
+  romaja: anida
+  pos: a
+  senses:
+    - To be not (something)
+  notes:
+    - 아니다 (anida) is the Korean negative copula. Along with its positive, 이다 (ida), it is often categorized as a Korean adjective, but often placed in their own grammatical category distinct from both verbs and adjectives. Unlike 이다 (ida), 아니다 (anida) is not appended to the preceding word, but written after an intervening space.
+    - 아니다 (anida) and 되다 (doeda) are the only two Korean words that take a subjective complement, which is marked with case marker 이/가.
+  conj: [아니다, 아녀, 아녀요/아니어요, 아닙니다]
+  tags: [topik1]
+
+- word: 안
+  romaja: an
+  pos: adv
+  senses:
+    - not
+  tags: [topik1]
+
+- word: 않다
+  romaja: anta
+  pos: a
+  senses:
+    - (adjective-지 않다) (auxiliary) not
+  conj: [않다, 않아, 않아요, 않습니다]
+
+- word: 않다
+  romaja: anta
+  pos: v
+  senses:
+    - (verb-지 않다) (auxiliary) not
+    - (를 않다) not to do something
+  conj: [않는다, 않아, 않아요, 않습니다]
+
+- word: 없다
+  romaja: eopda
+  pos: a
+  senses:
+    - there are none; (to be) lacking; (to be) nonexistent
+  conj: [없다, 없어, 없어요, 없습니다]
+
+- word: 에
+  romaja: e
+  pos: part
+  senses:
+    - at
+    - to
+  notes:
+    - 에 (e) is only used on nouns denoting inanimate objects. For nouns denoting animate objects (usually people or animals), 한테 (hante), 에게 (ege), or 게 (ge) is used instead.
+  tags: [topik1]
+
+- word: 요
+  romaja: yo
+  pos: part
+  senses:
+    - (Sentence-final particle for verbs and adjectives in the 해요체 (haeyoche, “polite”) speech level)
+  notes:
+    - In the 해요체 (haeyoche, “polite”) speech level, there is no explicit marker to distinguish between indicative, interrogative, imperative, and hortative moods. The mood distinction is made with punctuation (e.g. “?”, “!”) and pitch (e.g. rising for interrogative) only.
+    - The modern pronunciation of this particle is more open than the syllable 요 and can be described as 여.
+  tags: [topik1]
+
+- word: 을
+  romaja: eul
+  pos: part
+  senses:
+    - particle indicating the direct object of a verb
+  notes:
+    - Like other Korean particles, 을 (eul) is a postposition. It marks the preceding noun as the direct object of the following verb.
+    - 을 (-eul) only comes after a word ending in a consonant. If the modified word ends in a vowel, 를 (-reul) is used instead.
+    - 을 (-eul) is optional if it can be inferred that the noun is the direct object (as opposed to the subject).
+    - If the noun is the main topic of the sentence and it can be inferred that the noun is the direct object (as opposed to the subject), 은 (-eun) may be used instead, though in many cases 은 (-eun) might be interpreted as a contrast.
+  tags: [topik1]
+
+- word: 이
+  romaja: i
+  pos: part
+  senses:
+    - A particle marking a grammatical subject ending with a consonant.
+    - A particle marking a grammatical complement ending with a consonant, before 되다 (doeda, “to become”) and 아니다 (anida, “(to be) not”). An adverbial particle 으로/로 (euro/ro) can replace the complement marker 이/가 (i/ga) when the verb is 되다 (doeda, “to become”).
+    - A particle marking an object of desire.
+  syns: [가]
+  tags: [topik1]
+
+- word: 이다
+  romaja: ida
+  pos: a
+  senses:
+    - To be (something); to equal
+  conj: [이다, 이야, 이에요/예요, 입니다]
+  syns: [다]
+  tags: [topik1]
+
+- word: 있다
+  romaja: itda
+  pos: v
+  senses:
+    - to be (in a place); to exist
+    - to be (in a state)
+    - to have
+  conj: [있다, 있어, 있어요, 있습니다]
+
+
+# ㅈ
+
+- word: 작다
+  romaja: jakda
+  pos: a
+  senses:
+    - small
+  conj: [작다, 작아, 작아요, 작습니다]
+  tags: [topik1]
+
+- word: 좋다
+  romaja: joda
+  pos: a
+  senses:
+    - to be good; great; excellent (Excellent and satisfactory in features and content.)
+  conj: [좋다, 좋아, 좋아요, 좋습니다]
+  tags: [topik1]
+
+
+# ㅋ
+
+- word: 크다
+  romaja: keuda
+  pos: a
+  senses:
+    - (to be) big, large, great
+  conj: [크다, 커, 커요, 큽니다]
+  tags: [topik1]
+
+
+# ㅎ
+
+- word: 하다
+  romaja: hada
+  pos: v
+  senses:
+    - (…을 하다) to do; to make; to arrange; to cook
+  conj: [한다, 해, 해요, 합니다]
+
+- word: 하다
+  index: 2
+  romaja: hada
+  pos: a
+  senses:
+    - (in the form of "adjective stem + '—기' + semantic marker + ' 하다'") to be, with an emphasis
+    - (after adjective, in the form of '—고 하다') to be, as a cause
+
+- word: 학교
+  romaja: hakgyo
+  hanja: 學校
+  pos: n
+  senses:
+    - school
+  tags: [topik1]
