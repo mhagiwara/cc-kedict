@@ -14,6 +14,11 @@
           transliteration: "geureochiman, naega peneul gatgo isseultende…"
           translation: "I know I have a pen, though…"
     - def: "Indicates the subjective complement of a sentence, usually used with 되다 (doeda, “become”) or 아니다 (anida, “be not”)."
+  notes:
+    - 가 (ga) indicates the subject of the verb in the sentence, as opposed to the object, which *를 (reul) indicates. See also 는 (neun), which indicates the topic of the sentence.
+    - 가 (ga) is used only after words ending with a vowel. After words ending with a consonant, 이 (i) is used instead.
+  syns: [이]
+  tags: [topik1]
 
 - word: 가
   romaja: ga
@@ -314,6 +319,7 @@
           transliteration: "Mianhaeyo, jeon gaya haeyo."
           translation: "Sorry, I've got to go."
   conj: [간다, 가, 가요, 갑니다]
+  tags: [topik1]
 
 - word: 가돌리늄
   romaja: gadollinyum
@@ -7485,9 +7491,12 @@
 
 - word: 공책
   romaja: gongchaek
+  hanja: 空冊
   pos: n
   defs:
     - def: "notebook, jotter"
+  syns: [수첩]
+  tags: [topik1]
 
 - word: 공통점
   romaja: gongtongjeom
@@ -10588,6 +10597,7 @@
   pos: det
   defs:
     - def: "that (of what has been already said or known)"
+  notes: 그 (geu) is used for items closer to the listener than to the speaker, and 저 (jeo) is used for items far from both the speaker and the listener
 
 - word: 그
   romaja: geu
@@ -10595,6 +10605,7 @@
   defs:
     - def: "that (of what has been already said or known) (see 그것 (geugeot, “that thing”))"
     - def: "he; she"
+  syns: [저]
 
 - word: 그거
   romaja: geugeo
@@ -16520,7 +16531,9 @@ Used to illustrate the degree or intensity of a situation.
   romaja: ne
   pos: intj
   defs:
-    - def: "yes"
+    - def: "(polite) yes"
+  syns: [넵, 예, 응]
+  tags: [topik1]
 
 - word: 네
   romaja: ne
@@ -26405,6 +26418,11 @@ after adjective stems, indicates a state which no longer exists"
   pos: part
   defs:
     - def: "indicates the direct object of a verb"
+  notes:
+    - Like other Korean particles, 를 (reul) is a postposition. It marks the preceding noun as the direct object of the following verb. 를 (reul) is optional if it can be inferred that the noun is the direct object (as opposed to the subject).
+    - 를 (reul) is used only after a word ending in a vowel. If the preceding word ends in a consonant, 을 (eul) is used instead
+    - If the noun is the main topic of the sentence and it can be inferred that the noun is the direct object (as opposed to the subject), 는 (neun) is usually used instead.
+  tags: [topik1]
 
 - word: 리
   romaja: ri
@@ -27698,6 +27716,7 @@ after adjective stems, indicates a state which no longer exists"
           transliteration: "Oneul jeonsihoe bangmunjaga manta."
           translation: "Today there are many visitors at the exhibition."
   conj: [많다, 많아, 많아요, 많습니다]
+  tags: [topik1]
 
 - word: 많아지다
   romaja: manajida
@@ -28129,6 +28148,7 @@ specifically Potamogeton oxyphyllus."
   defs:
     - def: "to be delicious"
   conj: [맛있다, 맛있어, 맛있어요, 맛있습니다]
+  tags: [topik1]
 
 - word: 망
   romaja: mang
@@ -37312,6 +37332,7 @@ to get a blow, to be struck"
           transliteration: "Han-guge ga bon jeogi isseoyo?"
           translation: "Have you ever been to (South) Korea?"
   conj: [본다, 봐, 봐요/보아요, 봅니다]
+  tags: [topik1]
 
 - word: 보다
   romaja: boda
@@ -41015,6 +41036,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   defs:
     - def: "(to be) expensive"
   conj: [비싸다, 비싸, 비싸요, 비쌉니다]
+  tags: [topik1]
 
 - word: 비애
   romaja: biae
@@ -42093,9 +42115,11 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 사과
   romaja: sagwa
+  hanja: 沙果, 砂果
   pos: n
   defs:
     - def: "apple"
+  tags: [topik1]
 
 - word: 사과
   romaja: sagwa
@@ -47831,18 +47855,21 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 수
   romaja: su
+  hanja: 數
   pos: n
   defs:
     - def: "number"
 
 - word: 수
   romaja: su
+  hanja: 水
   pos: n
   defs:
     - def: "water"
     - def: "river"
     - def: "north; winter; black"
     - def: "Abbreviation of 수요일 (suyoil): Wednesday"
+  syns: [물]
 
 - word: 수
   romaja: su
@@ -52805,6 +52832,7 @@ Used to illustrate the time that a certain action or situation began or will beg
           transliteration: "Sarameun jimseung-i anida."
           translation: "People are not beasts."
   conj: [아니다, 아녀, 아녀요/아니어요, 아닙니다]
+  tags: [topik1]
 
 - word: 아니메
   romaja: anime
@@ -54127,6 +54155,7 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "안 먹어!"
           transliteration: "An meogeo!"
           translation: "[I] won’t eat!"
+  tags: [topik1]
 
 - word: 안
   romaja: an
@@ -57583,6 +57612,9 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "어디에 가요?"
           transliteration: "Eodie gayo?"
           translation: "Where are you going to?"
+  notes:
+    - 에 (e) is only used on nouns denoting inanimate objects. For nouns denoting animate objects (usually people or animals), 한테 (hante), 에게 (ege), or 게 (ge) is used instead.
+  tags: [topik1]
 
 - word: 에게
   romaja: ege
@@ -61649,6 +61681,10 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "만나서 반가웠어요. — 저도요. 잘 가요."
           transliteration: "Mannaseo ban-gawosseoyo.  jeodoyo. Jal gayo."
           translation: "Nice to meet you! — You too, Bye."
+  notes:
+    - In the 해요체 (haeyoche, “polite”) speech level, there is no explicit marker to distinguish between indicative, interrogative, imperative, and hortative moods. The mood distinction is made with punctuation (e.g. “?”, “!”) and pitch (e.g. rising for interrogative) only.
+    - The modern pronunciation of this particle is more open than the syllable 요 and can be described as 여.
+  tags: [topik1]
 
 - word: 요가
   romaja: yoga
@@ -64467,6 +64503,12 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: part
   defs:
     - def: "particle indicating the direct object of a verb"
+  notes:
+    - Like other Korean particles, 을 (eul) is a postposition. It marks the preceding noun as the direct object of the following verb.
+    - 을 (-eul) only comes after a word ending in a consonant. If the modified word ends in a vowel, 를 (-reul) is used instead.
+    - 을 (-eul) is optional if it can be inferred that the noun is the direct object (as opposed to the subject).
+    - If the noun is the main topic of the sentence and it can be inferred that the noun is the direct object (as opposed to the subject), 은 (-eun) may be used instead, though in many cases 은 (-eun) might be interpreted as a contrast.
+  tags: [topik1]
 
 - word: 을
   romaja: eul
@@ -65181,16 +65223,11 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: part
   defs:
     - def: "A particle marking a grammatical subject ending with a consonant."
-      examples: 
-        - example: ""
     - def: "A particle marking a grammatical complement ending with a consonant, before 되다 (doeda, “to become”) and 아니다 (anida, “(to be) not”)."
-      examples: 
-        - example: "An adverbial particle 으로/로 (euro/ro) can replace the complement marker 이/가 (i/ga) when the verb is 되다 (doeda, “to become”)."
-        - example: ""
     - def: "A particle marking an object of desire."
-      examples: 
-        - example: ""
-        - example: ""
+  notes: "An adverbial particle 으로/로 (euro/ro) can replace the complement marker 이/가 (i/ga) when the verb is 되다 (doeda, “to become”)."
+  syns: [가]
+  tags: [topik1]
 
 - word: 이
   romaja: i
@@ -65446,6 +65483,8 @@ Used to illustrate the time that a certain action or situation began or will beg
   defs:
     - def: "To be (something); to equal"
   conj: [이다, 이야, 이에요/예요, 입니다]
+  syns: [다]
+  tags: [topik1]
 
 - word: 이단
   romaja: idan
@@ -68774,6 +68813,7 @@ rat (Chinese zodiac sign)"
   defs:
     - def: "(to be) small"
   conj: [작다, 작아, 작아요, 작습니다]
+  tags: [topik1]
 
 - word: 작동
   romaja: jakdong
@@ -73479,6 +73519,7 @@ rat (Chinese zodiac sign)"
     - def: "good; nice (The word used to express negation of, dissatisfaction with, a situation which has just been mentioned.)"
     - def: "suitable; fit (Appropriate for using as a material or doing something.)"
   conj: [좋다, 좋아, 좋아요, 좋습니다]
+  tags: [topik1]
 
 - word: 좋아지다
   romaja: joajida
@@ -81866,13 +81907,14 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   defs:
     - def: "(to be) big, large, great"
   conj: [크다, 커, 커요, 큽니다]
+  tags: [topik1]
 
 - word: 크다
   romaja: keuda
   pos: v
   defs:
     - def: "to grow; to get bigger"
-  conj: [크다, 커, 커요, 큽니다]
+  conj: [큰다, 커, 커요, 큽니다]
 
 - word: 크라상
   pos: n
@@ -87937,8 +87979,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: hada
   pos: v
   defs:
-    - def: "…을 하다
-to do"
+    - def: "(…을 하다) to do"
       examples: 
         - example: "하루 분의 일을 하다"
           transliteration: "haru bunui ireul hada"
@@ -88042,8 +88083,7 @@ to do"
         - example: "어른 아이 할 것 없이 모두 들떠 있다."
           transliteration: "Eoreun ai hal geot eopsi modu deultteo itda."
           translation: "Everyone is excited regardless of age."
-    - def: "…을 —게 하다
-to handle; to dispose"
+    - def: "(…을 —게 하다) to handle; to dispose"
       examples: 
         - example: "이 사기범을 어떻게 할까요?"
           transliteration: "I sagibeomeul eotteoke halkkayo?"
@@ -88053,8 +88093,7 @@ to handle; to dispose"
         - example: "이 사기범을 어떻게 할까요?"
           transliteration: "I sagibeomeul eotteoke halkkayo?"
           translation: "What to do with this swindler?"
-    - def: "…을 …으로 하다
-to make become; to cause to become"
+    - def: "(…을 …으로 하다) to make become; to cause to become"
       examples: 
         - example: "여자를 아내로 하다"
           transliteration: "yeojareul anaero hada"
@@ -88278,7 +88317,6 @@ to say, to talk"
   defs:
     - def: "(in the form of \"adjective stem + '—기' + semantic marker + ' 하다') to be, with an emphasis"
     - def: "(after adjective, in the form of '—고 하다') to be, as a cause"
-  conj: [한다, 해, 해요, 합니다]
 
 - word: 하데스
   romaja: hadeseu
@@ -88629,6 +88667,7 @@ to say, to talk"
 
 - word: 학교
   romaja: hakgyo
+  hanja: 學校
   pos: n
   defs:
     - def: "school"
@@ -88636,6 +88675,7 @@ to say, to talk"
         - example: "우리가 학교에 다녔을 때 이래로"
           transliteration: "uriga hakgyoe danyeosseul ttae iraero"
           translation: "since we went to school; since schooldays"
+  tags: [topik1]
 
 - word: 학급
   romaja: hakgeup
