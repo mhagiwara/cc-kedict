@@ -7521,6 +7521,7 @@
 
 - word: 공항
   romaja: gonghang
+  hanja: 空港
   pos: n
   defs:
     - def: "airport"
@@ -7528,6 +7529,7 @@
         - example: "인천 공항까지 좀 태워 주실래요?"
           transliteration: "Incheon gonghangkkaji jom taewo jusillaeyo?"
           translation: "Can you give me a ride to Incheon airport?"
+  tags: [topik1]
 
 - word: 공해
   romaja: gonghae
@@ -35299,6 +35301,7 @@ to get a blow, to be struck"
     - def: "belly, abdomen, bulge, bilge"
     - def: "stomach, bowels"
     - def: "womb"
+  tags: [topik1]
 
 - word: 배
   romaja: bae
@@ -37179,11 +37182,13 @@ to get a blow, to be struck"
 
 - word: 병원
   romaja: byeong-won
+  hanja: 病院
   pos: n
   defs:
     - def: "a hospital"
-    - def: "any facility for healing or treatment of people, animals, or things"
-    - def: "a medical facility capable of handling 30 or more patients at a time"
+    - def: "(by extension) any facility for healing or treatment of people, animals, or things"
+    - def: "(South Korean law) a medical facility capable of handling 30 or more patients at a time"
+  tags: [topik1]
 
 - word: 병음
   romaja: byeong-eum
@@ -41741,6 +41746,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: n
   defs:
     - def: "bakery (a shop in which bread and such is baked and sold)"
+  tags: [topik1]
 
 - word: 빻다
   romaja: ppata
@@ -53974,6 +53980,7 @@ Used to illustrate the time that a certain action or situation began or will beg
           transliteration: "Dariga ajikdo apeun-gayo?  joajigi sijakhaesseoyo."
           translation: "Does your leg still hurt? — It is starting to feel better"
   conj: [아프다, 아파, 아파요, 아픕니다]
+  tags: [topik1]
 
 - word: 아프로디테
   romaja: apeurodite
@@ -54257,6 +54264,21 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "(to be) well, healthy"
     - def: "(to be) peaceful, tranquil"
   conj: [안녕하다, 안녕해, 안녕해요, 안녕합니다]
+
+- word: 안녕하세요
+  romaja: annyeonghaseyo
+  pos: intj
+  defs:
+    - def: "How are you?"
+    - def: "Hello"
+      examples:
+        - example: "안녕하세요, 여러분, 저는 아나이고요, 저는 워싱턴 디씨에 살아요."
+          transliteration: "Annyeonghaseyo, yeoreobun, jeoneun anaigoyo, jeoneun wosingteon dissie sarayo."
+          translation: "Hi there! I’m Anna and I live in Washington, D.C."
+    - def: "Good morning"
+    - def: "Good afternoon"
+    - def: "Good evening"
+  tags: [topik1]
 
 - word: 안녕히
   romaja: annyeonghi
@@ -56393,6 +56415,8 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "somewhere (to refer to an unfixed place)"
     - def: "somehow, some way, something (to refer to a something that is hard to express)"
     - def: "(to refer to a something that is great or honorable in the ironical interrogative sentence)"
+  notes: "The interrogative and the indefinite pronouns are distinguished by intonation, accent, and voicing."
+  tags: [topik1]
 
 - word: 어디
   romaja: eodi
@@ -91718,6 +91742,8 @@ to say, to talk
   pos: n
   defs:
     - def: "hotel (establishment providing accommodation)"
+  syns: [여관]
+  tags: [topik1]
 
 - word: 호프
   romaja: hopeu
