@@ -2,7 +2,7 @@ import yaml
 
 
 MANDATORY_FIELDS = ['word', 'pos', 'defs']
-OPTIONAL_FIELDS = ['index', 'romaja', 'hanja', 'conj', 'notes', 'tags', 'syns']
+OPTIONAL_FIELDS = ['index', 'romaja', 'hanja', 'conj', 'notes', 'tags', 'syns', 'ants']
 POS = ['n', 'v', 'a', 'pron', 'propn', 'intj', 'det', 'part', 'adv', 'num', 'abbrev', 'suf', 'pref']
 TAGS = ['topik1']
 

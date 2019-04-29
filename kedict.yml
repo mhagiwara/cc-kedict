@@ -4865,6 +4865,7 @@
         - example: "여러분 중 일부는 알고 있겠지만..."
           transliteration: "Yeoreobun jung ilbuneun algo itgetjiman..."
           translation: "As some of you may know,"
+  tags: [topik1]
 
 - word: 겨
   pos: n
@@ -6232,12 +6233,14 @@
           transliteration: "Seodulleo jusimyeon gomapgetsoida."
           translation: "I'd appreciate it if you'd hurry up about it."
   conj: [고맙다, 고마워, 고마워요, 고맙습니다]
+  tags: [topik1]
 
 - word: 고맙습니다
   romaja: gomapseumnida
   pos: intj
   defs:
     - def: "thank you"
+  tags: [topik1]
 
 - word: 고모
   romaja: gomo
@@ -8423,9 +8426,10 @@
         - example: "지금까지는 괜찮았지만 정작은 이제부터다."
           transliteration: "Jigeumkkajineun gwaenchanatjiman jeongjageun ijebuteoda."
           translation: "So far so good, but we shall have to be ready for the worse."
-    - def: "to be allowed to ...; may, can; it is OK to ..."
+    - def: "(of a person) to be allowed to ...; may, can; it is OK to ..."
     - def: "to be safe, secure"
   conj: [괜찮다, 괜찮아, 괜찮아요, 괜찮습니다]
+  tags: [topik1]
 
 - word: 괜찮아
   romaja: gwaenchanta
@@ -28951,6 +28955,7 @@ to get a blow, to be struck"
     - def: "to make up (one's mind), to be determined"
     - def: "to grow older"
   conj: [먹는다, 먹어, 먹어요, 먹습니다]
+  tags: [topik1]
 
 - word: 먹물
   romaja: meongmul
@@ -30038,6 +30043,8 @@ to get a blow, to be struck"
   defs:
     - def: "not to know; to be ignorant of"
   conj: [모른다, 몰라, 몰라요, 모릅니다]
+  ants: [알다]
+  tags: [topik1]
 
 - word: 모르폴린
   romaja: moreupollin
@@ -32429,13 +32436,14 @@ to get a blow, to be struck"
     - def: "To be ashamed of oneself."
     - def: "To be sorry."
   conj: [미안하다, 미안해, 미안해요, 미안합니다]
+  tags: [topik1]
 
 - word: 미안하다
   romaja: mianhada
   pos: intj
   defs:
     - def: "I'm sorry"
-  conj: [미안하다, 미안해, 미안해요, 미안합니다]
+  tags: [topik1]
 
 - word: 미얀마
   romaja: Miyanma
@@ -33950,6 +33958,7 @@ to get a blow, to be struck"
           transliteration: "Naroseoneun geuga ban-gapji aneun sonnimieotda."
           translation: "As far as I am concerned, he was unwelcome."
   conj: [반갑다, 반가워, 반가워요, 반갑습니다]
+  tags: [topik1]
 
 - word: 반값
   romaja: ban-gap
@@ -38353,6 +38362,7 @@ to get a blow, to be struck"
   defs:
     - def: "to see an elder or very respected person."
   conj: [뵙는다, 뵙어, 뵙어요, 뵙습니다]
+  tags: [topik1]
 
 - word: 부
   romaja: bu
@@ -49783,6 +49793,7 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "고맙습니다."
           transliteration: "Gomapseumnida."
           translation: "Thank you."
+  tags: [topik1]
 
 - word: 습도
   romaja: seupdo
@@ -54220,6 +54231,7 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 안녕
   romaja: annyeong
+  hanja: 安寧
   pos: n
   defs:
     - def: "peace; tranquility"
@@ -54227,6 +54239,7 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 안녕
   romaja: annyeong
+  hanja: 安寧
   pos: intj
   defs:
     - def: "hello"
@@ -54234,7 +54247,8 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "안녕하세요? — 안녕? 마샤니? 나 아나야. —  죄송합니다만, 전화 잘못 거셨네요."
           transliteration: "Annyeonghaseyo? — annyeong? Masyani? Na anaya. —  joesonghamnidaman, jeonhwa jalmot geosyeonneyo."
           translation: "Hello. —  Hello. Is this Marsha? It is Anna. —   I am sorry. You have the wrong number."
-    - def: "good-bye"
+    - def: "(informal) good-bye"
+  tags: [topik1]
 
 - word: 안녕하다
   romaja: annyeonghada
@@ -56715,6 +56729,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: adv
   defs:
     - def: "quickly"
+  tags: [topik1]
 
 - word: 어서
   romaja: eoseo
@@ -56735,6 +56750,7 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "학교요? 걸어서 가는데요."
           transliteration: "Hakgyoyo? Georeoseo ganeundeyo."
           translation: "School? I go there on foot."
+  notes: "The suffix 아서 (aseo) / 어서 (eoseo) takes the infinitive form."
 
 - word: 어야
   pos: suf
@@ -59945,6 +59961,7 @@ Used to illustrate the time that a certain action or situation began or will beg
           transliteration: "Biga onda."
           translation: "It's raining. (Literally, \"Rain comes.\")"
   conj: [온다, 와, 와요, 옵니다]
+  tags: [topik1]
 
 - word: 오덕후
   romaja: odeokhu
@@ -69029,11 +69046,13 @@ rat (Chinese zodiac sign)"
     - def: "verb suffix to contradict previous statement is indeed correct"
 
 - word: 잘
+  romaja: jal
   pos: adv
   defs:
     - def: "well"
     - def: "often"
     - def: "at a good time, with fortunate timing"
+  tags: [topik1]
 
 - word: 잘다
   romaja: jalda
@@ -75260,6 +75279,7 @@ rat (Chinese zodiac sign)"
     - def: "to serve as ..., to hold (post)"
     - def: "to hold (a service), to perform (rites)"
   conj: [지낸다, 지내, 지내요/지내어요, 지냅니다]
+  tags: [topik1]
 
 - word: 지네
   romaja: jine
@@ -78229,6 +78249,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   defs:
     - def: "the first time"
     - def: "(처음에) the beginning"
+  tags: [topik1]
 
 - word: 처음
   romaja: cheo-eum
