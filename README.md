@@ -2,7 +2,7 @@
 
 This dictionary is available under the [Creative Commons Attribution-ShareAlike (CC BY-SA 3.0) License](https://creativecommons.org/licenses/by-sa/3.0/).
 
-The main dictionary file is [kedict.yml](kecit.yml). It is written in YAML, which is a friendly format both for humans and computers.
+The main dictionary file is [kedict.yml](kedict.yml). It is written in YAML, which is a friendly format both for humans and computers.
 
 [validate.py](validate.py) is a Python script that validates the format of `kedict.yml`, which requires `PyYAML` package to run.  It shows `Validation: PASSED` if it succeeds in validatating the file.
 
