@@ -7376,9 +7376,12 @@
     - def: "official language of a country or event"
 
 - word: 공원
+  romaja: gong-won
+  hanja: 公園
   pos: n
   defs:
     - def: "park"
+  tags: [topik1]
 
 - word: 공인
   romaja: gong-in
@@ -8665,9 +8668,11 @@
 
 - word: 교실
   romaja: gyosil
+  hanja: 敎室
   pos: n
   defs:
     - def: "classroom"
+  tags: [topik1]
 
 - word: 교양
   romaja: gyoyang
@@ -11361,6 +11366,7 @@
   defs:
     - def: "theater"
     - def: "movie theater, cinema"
+  tags: [topik1]
 
 - word: 극히
   romaja: geukhi
@@ -13738,6 +13744,7 @@ Used to illustrate the degree or intensity of a situation.
   pos: n
   defs:
     - def: "florist's"
+  tags: [topik1]
 
 - word: 꽉
   romaja: kkwak
@@ -21829,9 +21836,11 @@ after adjective stems, indicates a state which no longer exists"
 
 - word: 도서관
   romaja: doseogwan
+  hanja: 圖書館
   pos: n
   defs:
     - def: "library"
+  tags: [topik1]
 
 - word: 도시
   romaja: dosi
@@ -50396,12 +50405,15 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 시장
   romaja: sijang
+  hanja: 市場
   pos: n
   defs:
     - def: "market"
+  tags: [topik1]
 
 - word: 시장
   romaja: sijang
+  hanja: 市長
   pos: n
   defs:
     - def: "mayor"
@@ -50612,9 +50624,11 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 식당
   romaja: sikdang
+  hanja: 食堂
   pos: n
   defs:
     - def: "restaurant"
+  tags: [topik1]
 
 - word: 식도
   pos: n
@@ -55740,9 +55754,11 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 약국
   romaja: yakguk
+  hanja: 藥局
   pos: n
   defs:
     - def: "pharmacy, drugstore"
+  tags: [topik1]
 
 - word: 약물
   romaja: yangmul
@@ -58325,6 +58341,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: n
   defs:
     - def: "a travel agency"
+  tags: [topik1]
 
 - word: 여행자
   romaja: yeohaengja
@@ -62553,6 +62570,7 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 우체국
   romaja: ucheguk
+  hanja: 郵遞局
   pos: n
   defs:
     - def: "post office"
@@ -62560,6 +62578,7 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "우체국이 어디입니까?"
           transliteration: " Uchegugi eodiimnikka?"
           translation: "Where is the post-office?"
+  tags: [topik1]
 
 - word: 우체부
   romaja: uchebu
@@ -64523,9 +64542,11 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 은행
   romaja: eunhaeng
+  hanja: 銀行
   pos: n
   defs:
     - def: "a bank (financial institution)"
+  tags: [topik]
 
 - word: 은행
   romaja: eunhaeng
