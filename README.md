@@ -1,5 +1,7 @@
 # cc-kedict: Creative Commons Korean-English Dictionary 
 
+[![CircleCI](https://circleci.com/gh/mhagiwara/cc-kedict.svg?style=svg)](https://circleci.com/gh/mhagiwara/cc-kedict)
+
 This dictionary is available under the [Creative Commons Attribution-ShareAlike (CC BY-SA 3.0) License](https://creativecommons.org/licenses/by-sa/3.0/).
 
 The main dictionary file is [kedict.yml](kedict.yml). It is written in YAML, which is a friendly format both for humans and computers.
