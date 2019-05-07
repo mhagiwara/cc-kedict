@@ -1,0 +1,21 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/python:3.7.2
+
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+
+      - run:
+          command: |
+            python3 -m venv .pyenv
+            source .pyenv/bin/activate
+            pip install pyyaml
+
+      - run:
+          command: |
+            source .pyenv/bin/activate
+            python validate.py
