@@ -16778,7 +16778,7 @@ Used to illustrate the degree or intensity of a situation.
     - def: "area, direction, part, side, vicinity (in space); proximity (in time)"
 
 - word: 노
-  romaja: no
+  romaja: "no"
   pos: n
   defs:
     - def: "old age"
@@ -16788,7 +16788,7 @@ Used to illustrate the degree or intensity of a situation.
           translation: "Respect the old man."
 
 - word: 노
-  romaja: no
+  romaja: "no"
   pos: n
   defs:
     - def: "string; cord (twisted hemp, paper, etc.)"
@@ -16796,25 +16796,26 @@ Used to illustrate the degree or intensity of a situation.
     - def: "silk"
 
 - word: 노
-  romaja: no
+  romaja: "no"
   pos: n
   defs:
     - def: "oar; paddle"
 
 - word: 노
-  romaja: no
+  romaja: "no"
   pos: n
   defs:
     - def: "hearth; furnace; fireplace"
 
 - word: 노
-  romaja: no
+  romaja: "no"
+  hanja: 盧
   pos: propn
   defs:
-    - def: "A  surname​."
+    - def: "A surname."
 
 - word: 노
-  romaja: no
+  romaja: "no"
   pos: n
   defs:
     - def: "road"
