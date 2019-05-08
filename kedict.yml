@@ -16705,6 +16705,13 @@ Used to illustrate the degree or intensity of a situation.
   defs:
     - def: "neptunium"
 
+- word: 넷
+  romaja: net
+  pos: num
+  defs:
+    - def: "four"
+  tags: [topik1]
+
 - word: 녀석
   romaja: nyeoseok
   pos: n
@@ -19119,6 +19126,13 @@ Used to illustrate the degree or intensity of a situation.
   pos: n
   defs:
     - def: "teahouse, tea shop"
+
+- word: 다섯
+  romaja: daseot
+  pos: num
+  defs:
+    - def: "five (Native Korean)"
+  tags: [topik1]
 
 - word: 다섯째
   romaja: daseotjjae
@@ -23353,11 +23367,7 @@ after adjective stems, indicates a state which no longer exists"
   pos: num
   defs:
     - def: "two"
-    - def: "two"
-      examples: 
-        - example: "그는 또한 러시아어로 시를 쓰는데, 그의 시 중 일부는 에스페란토어와 러시아어 버전 둘 다 존재한다."
-          transliteration: "Geuneun ttohan reosia-eoro sireul sseuneunde, geuui si jung ilbuneun eseuperanto-eowa reosia-eo beojeon dul da jonjaehanda."
-          translation: "He also writes poetry in Russian, and some poems of his exist in both Esperanto and Russian versions."
+  tags: [topik1]
 
 - word: 둘
   romaja: dul
@@ -23368,12 +23378,13 @@ after adjective stems, indicates a state which no longer exists"
         - example: "그는 또한 러시아어로 시를 쓰는데, 그의 시 중 일부는 에스페란토어와 러시아어 버전 둘 다 존재한다."
           transliteration: "Geuneun ttohan reosia-eoro sireul sseuneunde, geuui si jung ilbuneun eseuperanto-eowa reosia-eo beojeon dul da jonjaehanda."
           translation: "He also writes poetry in Russian, and some poems of his exist in both Esperanto and Russian versions."
+  tags: [topik1]
 
 - word: 둘
   romaja: dul
   pos: pref
   defs:
-    - def: "sterile"
+    - def: "(of a female animal) sterile"
 
 - word: 둘러보다
   romaja: dulleoboda
@@ -29853,7 +29864,7 @@ to get a blow, to be struck"
     - def: "how many"
       examples: 
         - example: "몇 살이에요?"
-          transliteration: " Myeot sarieyo?"
+          transliteration: "Myeot sarieyo?"
           translation: "How old are you?, How old is (he/she)?"
     - def: "which number"
       examples: 
@@ -29861,6 +29872,8 @@ to get a blow, to be struck"
           transliteration: " Myeot cheung-e saseyo?"
           translation: "What floor do you live on?"
     - def: "some"
+  rels: [며칠]
+  tags: [topik1]
 
 - word: 몇몇
   romaja: myeonmyeot
@@ -32379,6 +32392,7 @@ to get a blow, to be struck"
 
 - word: 미술관
   romaja: misulgwan
+  hanja: 美術館
   pos: n
   defs:
     - def: "art museum, art gallery"
@@ -32386,6 +32400,7 @@ to get a blow, to be struck"
         - example: "저희 미술관에 오신 것을 환영합니다."
           transliteration: "Jeohui misulgwane osin geoseul hwanyeonghamnida."
           translation: "Welcome to our museum."
+  tags: [topik1]
 
 - word: 미스
   romaja: miseu
@@ -33827,9 +33842,11 @@ to get a blow, to be struck"
 
 - word: 박물관
   romaja: bangmulgwan
+  hanja: 博物館
   pos: n
   defs:
     - def: "A museum."
+  tags: [topik1]
 
 - word: 박사
   romaja: baksa
@@ -43450,6 +43467,9 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: n
   defs:
     - def: "years of age in traditional East Asian way (of a person)"
+  notes: "In the traditional East Asian way of reckoning age, a baby is 1 살 upon birth and becomes 2 살 on New Year's Day. So 살 = current year − birth year + 1, and birthday is irrelevant."
+  rels: [세, 나이, 연세]
+  tags: [topik1]
 
 - word: 살
   pos: n
@@ -46670,6 +46690,13 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 셋
   romaja: set
+  pos: num
+  defs:
+    - def: "three"
+  tags: [topik1]
+
+- word: 셋
+  romaja: set
   pos: propn
   defs:
     - def: "Seth (the third son of Adam and Eve)"
@@ -49231,6 +49258,14 @@ Used to illustrate the time that a certain action or situation began or will beg
   defs:
     - def: "Smolensk (an oblast of Russia)"
     - def: "Smolensk (a city, the regional capital of Smolensk, Russia)"
+
+- word: 스무
+  romaja: seumu
+  pos: num
+  defs: 
+    - def: twenty (years old)
+  notes: "When 스물 (twenty) is followed by 살 (years of age), the final ㄹ is dropped."
+  tags: [topik1]
 
 - word: 스무째
   romaja: seumujjae
@@ -54026,6 +54061,13 @@ Used to illustrate the time that a certain action or situation began or will beg
   defs:
     - def: "Apia (capital of Samoa)"
 
+- word: 아홉
+  romaja: ahop
+  pos: num
+  defs:
+    - def: "nine"
+  tags: [topik1]
+
 - word: 아홉째
   romaja: ahopjjae
   pos: num
@@ -58049,6 +58091,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: num
   defs:
     - def: "eight (Native Korean)"
+  tags: [topik1]
 
 - word: 여동생
   romaja: yeodongsaeng
@@ -58153,6 +58196,13 @@ Used to illustrate the time that a certain action or situation began or will beg
   defs:
     - def: "lust, carnal desire, coition"
     - def: "a woman's charms, a beautiful woman"
+
+- word: 여섯
+  romaja: yeoseot
+  pos: num
+  defs:
+    - def: "six"
+  tags: [topik1]
 
 - word: 여섯째
   romaja: yeoseotjjae
@@ -58925,6 +58975,13 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: num
   defs:
     - def: "eight or nine"
+
+- word: 열
+  romaja: yeol
+  pos: num
+  defs:
+    - def: "ten"
+  tags: [topik1]
 
 - word: 열
   romaja: yeol
@@ -62686,9 +62743,11 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 운동장
   romaja: undongjang
+  hanja: 運動場
   pos: n
   defs:
     - def: "schoolyard, stadium, field, playing field, playground, sports grounds"
+  tags: [topik1]
 
 - word: 운동하다
   romaja: undonghada
@@ -67251,6 +67310,13 @@ Used to illustrate the time that a certain action or situation began or will beg
   defs:
     - def: "seven or eight"
 
+- word: 일곱
+  romaja: ilgop
+  pos: num
+  defs:
+    - def: "seven"
+  tags: [topik1]
+
 - word: 일광
   romaja: ilgwang
   pos: n
@@ -71693,9 +71759,11 @@ rat (Chinese zodiac sign)"
 
 - word: 정류장
   romaja: jeongnyujang
+  hanja: 停留場
   pos: n
   defs:
     - def: "(bus) stop, station"
+  tags: [topik1]
 
 - word: 정리
   romaja: jeongni
@@ -87963,6 +88031,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
         - example: "아나, 너 펜 있어? — 응 가방에 펜 하나가 있어. 하나가…"
           transliteration: "Ana, neo pen isseo?  eung gabang-e pen hanaga isseo. Hanaga…"
           translation: "Anna, do you have a pen?  —  Yes. I have a pen in my bag. I have a …"
+  tags: [topik1]
 
 - word: 하나님
   romaja: hananim
