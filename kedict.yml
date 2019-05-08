@@ -1212,6 +1212,7 @@
 
 - word: 가족
   romaja: gajok
+  hanja: 家族
   pos: n
   defs:
     - def: "household; family"
@@ -1219,6 +1220,8 @@
         - example: "저희 가족을 소개하겠습니다."
           transliteration: "Jeohui gajogeul sogaehagetseumnida."
           translation: "(I) will introduce my family."
+  syns: [핵가족, 씨족, 가정]
+  tags: [topik1]
 
 - word: 가주
   romaja: Gaju
@@ -14821,6 +14824,8 @@ Used to illustrate the degree or intensity of a situation.
   pos: n
   defs:
     - def: "age of a person or other living thing"
+  syns: [살, 연령, 연세]
+  tags: [topik1]
 
 - word: 나이로비
   romaja: Nairobi
@@ -45381,9 +45386,11 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 선물
   romaja: seonmul
+  hanja: 膳物
   pos: n
   defs:
     - def: "gift; present"
+  tags: [topik1]
 
 - word: 선박
   romaja: seonbak
@@ -50025,10 +50032,12 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 시간
   romaja: sigan
+  hanja: 時間
   pos: n
   defs:
     - def: "time"
     - def: "hour"
+  tags: [topik1]
 
 - word: 시간표
   romaja: siganpyo
@@ -61973,9 +61982,11 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 요일
   romaja: yoil
+  hanja: 曜日
   pos: n
   defs:
     - def: "day of the week"
+  tags: [topik1]
 
 - word: 요정
   romaja: yojeong
@@ -67272,9 +67283,11 @@ Used to illustrate the time that a certain action or situation began or will beg
           translation: "Here I am at my new job!"
     - def: "business"
     - def: "matter, affair, concern"
+  tags: [topik1]
 
 - word: 일
   romaja: il
+  hanja: 一
   pos: num
   defs:
     - def: "one"
@@ -74070,9 +74083,11 @@ rat (Chinese zodiac sign)"
 
 - word: 주소
   romaja: juso
+  hanja: 住所
   pos: n
   defs:
     - def: "address"
+  tags: [topik1]
 
 - word: 주스
   romaja: juseu
@@ -76764,6 +76779,8 @@ such a municipality in North Korea, the Republic of China, the People's Republic
     - def: "house"
     - def: "household, home"
     - def: "sheath, case"
+  syns: [댁]
+  tags: [topik1]
 
 - word: 집게
   romaja: jipge
