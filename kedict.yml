@@ -546,6 +546,7 @@
     - def: "to tell someone about something."
     - def: "to point (=가리키다)"
   conj: [가르친다, 가르쳐, 가르쳐요/가르치어요, 가르칩니다]
+  tags: [topik1]
 
 - word: 가르침
   romaja: gareuchim
@@ -3945,6 +3946,7 @@
 
 - word: 건강
   romaja: geon-gang
+  hanja: 健康
   pos: n
   defs:
     - def: "health"
@@ -3955,6 +3957,9 @@
         - example: "공부하느라 건강을 해치다"
           transliteration: "gongbuhaneura geon-gang-eul haechida"
           translation: "to damage one's health by studying [too much]"
+  ants: [병]
+  rels: [건강하다, 건강히]
+  tags: [topik1]
 
 - word: 건강하다
   romaja: geon-ganghada
@@ -6690,10 +6695,12 @@
 
 - word: 고향
   romaja: gohyang
+  hanja: 故鄕
   pos: n
   defs:
     - def: "one's hometown or birthplace"
     - def: "the ancestral home of one's family"
+  tags: [topik1]
 
 - word: 고혈압
   romaja: gohyeorap
@@ -7235,10 +7242,12 @@
 
 - word: 공부하다
   romaja: gongbuhada
+  hanja: 工夫-
   pos: v
   defs:
     - def: "to study"
   conj: [공부한다, 공부해, 공부해요, 공부합니다]
+  tags: [topik1]
 
 - word: 공사
   romaja: gongsa
@@ -8794,9 +8803,11 @@
 
 - word: 교통
   romaja: gyotong
+  hanja: 交通
   pos: n
   defs:
     - def: "transportation"
+  tags: [topik1]
 
 - word: 교통사고
   romaja: gyotongsago
@@ -15345,6 +15356,8 @@ Used to illustrate the degree or intensity of a situation.
   pos: n
   defs:
     - def: "weather"
+  rels: [날, 씨]
+  tags: [topik1]
 
 - word: 날씬하다
   romaja: nalssinhada
@@ -15615,6 +15628,7 @@ Used to illustrate the degree or intensity of a situation.
 
 - word: 남자
   romaja: namja
+  hanja: 男子
   pos: n
   defs:
     - def: "man; gentleman; boy; male"
@@ -15625,6 +15639,11 @@ Used to illustrate the degree or intensity of a situation.
         - example: "이 남자를 남자 화장실로 바래다주세요."
           transliteration: "I namjareul namja hwajangsillo baraedajuseyo."
           translation: "Please escort this gentleman to the gentlemen's room."
+  syns: [사내, 남성]
+  ants: [계집, 아내, 여자, 여성]
+  rels: [남녀]
+  cf: [어른, 아이]
+  tags: [topik1]
 
 - word: 남자다운
   romaja: namjadapda
@@ -18332,10 +18351,15 @@ Used to illustrate the degree or intensity of a situation.
 - word: 는
   pos: part
   defs:
-    - def: "marks the topic of the sentence. (not to be confused with the subject of the sentence)"
-    - def: "depending on context, shows contrast with or adds emphasis to the preceding word or phrase in a sentence."
-    - def: ": The topic is what is being talked about in the sentence; it is the main point. This, however, is different in meaning from the subject which the predicate directly refers to. The topic and subject may be the same in a sentence."
-    - def: ": 는 (neun), can be placed after most case markers (including 가 (ga), 를 (reul), 에 (e), 에게 (ege), 에서 (eseo), 로 (ro), 과 (gwa)) to show contrast between two or more choices or add emphasis to a word or phrase, depending on the context. If used after 가 (ga) or 를 (reul), the 가 (ga) or 를 (reul) are deleted leaving only 은 (eun)."
+    - def: "(semantic) marks the topic of the sentence. (not to be confused with the subject of the sentence)"
+    - def: "(semantic) depending on context, shows contrast with or adds emphasis to the preceding word or phrase in a sentence."
+  notes:
+    - "는 (neun) is used always after a word (a noun, a noun phrase, or a nominalized verb in 기 form) ending in a vowel. Identical in meaning to 은 (eun) which occurs after a word ending in a consonant."
+    - "(topik marker): The topic is what is being talked about in the sentence; it is the main point. This, however, is different in meaning from the subject which the predicate directly refers to. The topic and subject may be the same in a sentence."
+    - "(Contrast/emphasis marker): 는 (neun), can be placed after most case markers (including 가 (ga), 를 (reul), 에 (e), 에게 (ege), 에서 (eseo), 로 (ro), 과 (gwa)) to show contrast between two or more choices or add emphasis to a word or phrase, depending on the context. If used after 가 (ga) or 를 (reul), the 가 (ga) or 를 (reul) are deleted leaving only 은 (eun)."
+  syns: [은]
+  cf: [이, 가]
+  tags: [topik1]
 
 - word: 는
   pos: suf
@@ -18917,6 +18941,7 @@ Used to illustrate the degree or intensity of a situation.
           translation: "We went to school together."
     - def: "to commute"
   conj: [다닌다, 다녀, 다녀요/다니어요, 다닙니다]
+  tags: [topik1]
 
 - word: 다다르다
   romaja: dadareuda
@@ -26454,6 +26479,7 @@ after adjective stems, indicates a state which no longer exists"
     - Like other Korean particles, 를 (reul) is a postposition. It marks the preceding noun as the direct object of the following verb. 를 (reul) is optional if it can be inferred that the noun is the direct object (as opposed to the subject).
     - 를 (reul) is used only after a word ending in a vowel. If the preceding word ends in a consonant, 을 (eul) is used instead
     - If the noun is the main topic of the sentence and it can be inferred that the noun is the direct object (as opposed to the subject), 는 (neun) is usually used instead.
+  cf: [가, 는]
   tags: [topik1]
 
 - word: 리
@@ -30846,6 +30872,13 @@ to get a blow, to be struck"
   pos: adv
   defs:
     - def: "cannot"
+      examples:
+        - example: "못 먹는 감 찔러나 본다."
+          transliteration: "Mot meongneun gam jjilleona bonda."
+          translation: "One may be ill-tempered to prick the persimmon that he cannot eat."
+  ants: [잘]
+  ders: [잘못, 못하다]
+  tags: [topik1]
 
 - word: 못
   romaja: mot
@@ -34875,6 +34908,10 @@ to get a blow, to be struck"
           translation: "to have a meal"
     - def: "feed, prey, victim"
     - def: "living"
+  syns: [진지, 반]
+  ants: [반찬]
+  cf: [국, 죽]
+  tags: [topik1]
 
 - word: 밥벌이
   romaja: bapbeori
@@ -35566,6 +35603,7 @@ to get a blow, to be struck"
           transliteration: "Maeil jeoneun i dosie daehaeseo deo mani bae-ugo isseoyo."
           translation: "Every day I learn more about this great city."
   conj: [배운다, 배워, 배워요, 배웁니다]
+  tags: [topik1]
 
 - word: 배우자
   romaja: bae-uja
@@ -48429,6 +48467,7 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 수업
   romaja: sueop
+  hanja: 授業
   pos: n
   defs:
     - def: "a class"
@@ -48436,6 +48475,7 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "오늘 수업 있으세요?"
           transliteration: "Oneul sueop isseuseyo?"
           translation: "Do you have class today?"
+  tags: [topik1]
 
 - word: 수없이
   romaja: sueopsi
@@ -58312,9 +58352,15 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 여자
   romaja: yeoja
+  hanja: 女子
   pos: n
   defs:
     - def: "woman; girl; lady; female"
+  syns: [계집, 아내, 여성]
+  ants: [사내, 남자, 남성]
+  rels: [남녀]
+  cf: [어른, 아이]
+  tags: [topik1]
 
 - word: 여자친구
   romaja: yeojachin-gu
@@ -61900,6 +61946,7 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 요리
   romaja: yori
+  hanja: 料理
   pos: n
   defs:
     - def: "cooking; cuisine."
@@ -61907,6 +61954,8 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "그리고, 마샤는 내가 요리를 잘 한다고 말해주네."
           transliteration: "Geurigo, masyaneun naega yorireul jal handago malhaejune."
           translation: "And Marsha says I am good at cooking!"
+  ders: [요리사, 요리하다]
+  tags: [topik1]
 
 - word: 요리사
   romaja: yorisa
@@ -62005,6 +62054,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: n
   defs:
     - def: "recent times; recently"
+  tags: [topik1]
 
 - word: 요청
   romaja: yocheong
@@ -63617,9 +63667,11 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 위치
   romaja: wichi
+  hanja: 위치
   pos: n
   defs:
     - def: "location"
+  tags: [topik1]
 
 - word: 위치하다
   romaja: wichihada
@@ -64843,9 +64895,11 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 음식
   romaja: eumsik
+  hanja: 飮食
   pos: n
   defs:
     - def: "food, including drink"
+  tags: [topik1]
 
 - word: 음식값
   romaja: eumsikgap
@@ -65921,7 +65975,9 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "name; reputation; honor"
     - def: "name (Something that one presents as an excuse or cause when he/she wants to engage in an undertaking.)"
     - def: "name (Authority or power that one depends on for support.)"
-    - def: "username"
+    - def: "(computing) username"
+  syns: [성함]
+  tags: [topik1]
 
 - word: 이리
   romaja: iri
@@ -68830,6 +68886,7 @@ rat (Chinese zodiac sign)"
   pos: adv
   defs:
     - def: "often, frequently"
+  tags: [topik1]
 
 - word: 자주
   romaja: jaju
@@ -69177,6 +69234,7 @@ rat (Chinese zodiac sign)"
     - def: "well"
     - def: "often"
     - def: "at a good time, with fortunate timing"
+  ders: [잘못, 잘생기다, 잘하다]
   tags: [topik1]
 
 - word: 잘다
@@ -69246,7 +69304,14 @@ rat (Chinese zodiac sign)"
   pos: v
   defs:
     - def: "to do something well, to be good at"
+  notes:
+    - It is very commonly confused with 잘 하다.
+    - 공부를 잘해요. (Gongbureul jalhaeyo.) He is good at studying.
+    - 공부를 잘 하고 있어요. (Gongbureul jal hago isseoyo.) I am studying well now.
+    - 잘하다 is pronounced as a single word, while 잘 하다 has a pause after 잘.
   conj: [잘한다, 잘해, 잘해요, 잘합니다]
+  ants: [못하다]
+  tags: [topik1]
 
 - word: 잠
   romaja: jam
@@ -69677,12 +69742,16 @@ rat (Chinese zodiac sign)"
 
 - word: 장소
   romaja: jangso
+  hanja: 場所
   pos: n
   defs:
     - def: "place"
+  syns: [위치]
+  tags: [topik1]
 
 - word: 장소
   romaja: jangso
+  hanja: 長所
   pos: n
   defs:
     - def: "A good point; a strong point."
@@ -76162,9 +76231,11 @@ rat (Chinese zodiac sign)"
 
 - word: 직업
   romaja: jigeop
+  hanja: 職業
   pos: n
   defs:
     - def: "job, work, occupation, career, vocation, profession, trade"
+  tags: [topik1]
 
 - word: 직원
   romaja: jigwon
@@ -80163,9 +80234,11 @@ such a municipality in North Korea, the Republic of China, the People's Republic
 
 - word: 취미
   romaja: chwimi
+  hanja: 趣味
   pos: n
   defs:
     - def: "hobby"
+  tags: [topik1]
 
 - word: 취소
   romaja: chwiso
@@ -80393,9 +80466,14 @@ such a municipality in North Korea, the Republic of China, the People's Republic
 
 - word: 친구
   romaja: chin-gu
+  hanja: 親舊
   pos: n
   defs:
     - def: "friend"
+  syns: [벗, 울, 친지]
+  rels: [친]
+  cf: [친척]
+  tags: [topik1]
 
 - word: 친근감
   romaja: chin-geun-gam
@@ -88900,9 +88978,12 @@ to say, to talk"
 
 - word: 학생
   romaja: haksaeng
+  hanja: 學生
   pos: n
   defs:
     - def: "student, scholar, school pupil"
+  rels: [고등학생, 대학생, 중학생, 초등학생]
+  tags: [topik1]
 
 - word: 학생답다
   romaja: haksaengdapda
@@ -89069,8 +89150,11 @@ to say, to talk"
   romaja: Han-guk
   pos: propn
   defs:
-    - def: "Korea"
-    - def: "South Korea"
+    - def: "(South Korea) Korea (the peninsula or the whole of Korea)"
+    - def: "(South Korea) South Korea"
+  syns: [조선, 우리나라, 코리아, 남한, 남조선, 대한민국, 고려]
+  cf: [북한]
+  tags: [topik1]
 
 - word: 한국말
   romaja: han-gungmal
@@ -89090,9 +89174,13 @@ to say, to talk"
 
 - word: 한국어
   romaja: han-gugeo
+  hanja: 韓國語
   pos: n
   defs:
     - def: "the Korean language"
+  notes: "Of the many Korean names for the Korean language, this is the most formal in the Republic of Korea (South Korea). 한국말 (han-gungmal) is more commonly used, but it denotes exclusively the spoken language (말 (mal, “speech”)). In North Korea, 조선말 (joseonmal) is more common."
+  syns: [우리말, 한국말, 조선어, 조선말, 고려말]
+  tags: [topik1]
 
 - word: 한국요리
   pos: propn
@@ -89426,6 +89514,17 @@ to say, to talk"
           transliteration: "Chin-guhante saeng-il seonmureul bonaesseoyo."
           translation: "I sent a birthday present to my friend"
     - def: "by; from"
+  notes: "This particle is applied to nouns for animate referents only, and is more frequently used in spoken language than in texts."
+  syns: [한테서]
+  tags: [topik1]
+
+- word: 한테서
+  romaja: hanteseo
+  pos: part
+  defs:
+    - def: "by; from"
+  syns: [한테]
+  tags: [topik1]
 
 - word: 한파
   romaja: hanpa
@@ -93472,9 +93571,11 @@ to say, to talk
 
 - word: 휴일
   romaja: hyu-il
+  hanja: 休日
   pos: n
   defs:
     - def: "holiday, day off"
+  tags: [topik1]
 
 - word: 휴전
   romaja: hyujeon
