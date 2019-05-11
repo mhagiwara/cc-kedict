@@ -27548,9 +27548,11 @@ after adjective stems, indicates a state which no longer exists"
 
 - word: 만
   romaja: man
+  hanja: 萬
   pos: num
   defs:
     - def: "ten thousand"
+  tags: [topik1]
 
 - word: 만경대
   romaja: Man-gyeongdae
@@ -37415,7 +37417,10 @@ to get a blow, to be struck"
         - example: "한국에 가 본 적이 있어요?"
           transliteration: "Han-guge ga bon jeogi isseoyo?"
           translation: "Have you ever been to (South) Korea?"
+  notes: "Note: it doesn't mean \"to try hard\" (e.g., \"I tried to pass the exam.\"). For that, you can use \"-려(고) 하다\" or \"-려고 노력하다\"."
   conj: [본다, 봐, 봐요/보아요, 봅니다]
+  ders: [보이다, 여보세요]
+  rels: [비치다, 빛]
   tags: [topik1]
 
 - word: 보다
@@ -37812,6 +37817,7 @@ to get a blow, to be struck"
 
 - word: 보통
   romaja: botong
+  hanja: 普通
   pos: n
   defs:
     - def: "normality"
@@ -37822,9 +37828,11 @@ to get a blow, to be struck"
 
 - word: 보통
   romaja: botong
+  hanja: 普通
   pos: adv
   defs:
     - def: "normally"
+  tags: [topik1]
 
 - word: 보통화
   romaja: botonghwa
@@ -43702,11 +43710,21 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "to boil; to cook"
   conj: [삶는다, 삶아, 삶아요, 삶습니다]
 
-- word: 삼
+- 삼
+  romaja: sam
+  hanja: 三
   pos: num
   defs:
     - def: "three"
     - def: "third"
+  notes:
+    - "In Modern Korean, numbers are almost always written in Arabic numerals."
+    - "삼 means “third” if it is directly put before a noun other than modern units."
+    - "삼 층: third floor"
+    - "세 층: three floors"
+    - "삼 팀: Team 3"
+    - "세 팀: three teams"
+  tags: [topik1]
 
 - word: 삼각형
   romaja: samgakhyeong
@@ -57854,6 +57872,8 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "(denoting movement) from"
     - def: "(locative, denoting a place where something happens) in, at, on"
     - def: "(starting point of a range) from, through."
+  notes: "에서 (eseo) is only used with inanimate objects."
+  tags: [topik1]
 
 - word: 에스빠냐
   romaja: Eseuppanya
@@ -61198,6 +61218,9 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "회전식 건조기는 세탁된 옷을 건조하는 기계이다."
           transliteration: "Hoejeonsik geonjogineun setakdoen oseul geonjohaneun gigyeida."
           translation: "Tumble drier is a machine for drying clothes after being washed."
+  syns: [의복]
+  cf: [두루마기, 바지, 저고리, 적삼, 조끼, 치마, 팬티]
+  tags: [topik1]
 
 - word: 옷감
   romaja: otgam
@@ -65421,21 +65444,13 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: suf
   defs:
     - def: "a suffix deriving a passive verb."
-      examples: 
-        - example: ""
     - def: "a suffix deriving a causative verb."
-      examples: 
-        - example: ""
-        - example: ""
-        - example: ""
 
 - word: 이
   romaja: i
   pos: n
   defs:
     - def: "(dependent) a person."
-      examples: 
-        - example: ""
 
 - word: 이
   romaja: i
@@ -65460,10 +65475,20 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 이
   romaja: i
+  hanja: 二
   pos: num
   defs:
     - def: "two"
     - def: "second"
+  notes:
+    - "Used primarily with Sino-Korean count words, or in reading numbers literally. In modern Korean, numbers are almost always written in Arabic numerals."
+    - "이 (i) means “second” if it is directly put before a noun other than modern units."
+    - "이 층 ― i cheung ― second floor"
+    - "두 층 ― du cheung ― two floors"
+    - "이 팀 ― i tim ― Team 2"
+    - "두 팀 ― du tim ― two teams"
+  syns: [둘]
+  tags: [topik1]
 
 - word: 이
   romaja: i
@@ -65482,8 +65507,6 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: n
   defs:
     - def: "A tooth or teeth."
-      examples: 
-        - example: ""
 
 - word: 이
   romaja: i
@@ -67348,6 +67371,15 @@ Used to illustrate the time that a certain action or situation began or will beg
   defs:
     - def: "one"
     - def: "first"
+  notes:
+    - "Almost always written in Arabic numerals."
+    - "일 means “first” if it is directly put before a noun other than modern units."
+    - "일 층: first floor"
+    - "한 층: one floor"
+    - "일 팀: Team 1"
+    - "한 팀: one team"
+  ders: [일월, 제일]
+  tags: [topik1]
 
 - word: 일
   romaja: il
@@ -70300,6 +70332,9 @@ rat (Chinese zodiac sign)"
           transliteration: "jeonyeok ilgop sie"
           translation: "at seven p.m. (lit. \"in the evening\")"
     - def: "evening meal; supper; dinner"
+  ants: [아침]
+  cf: [아침, 낮, 오후, 밤]
+  tags: [topik1]
 
 - word: 저녁밥
   romaja: jeonyeokbap
