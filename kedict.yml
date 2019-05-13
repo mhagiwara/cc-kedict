@@ -8885,11 +8885,20 @@
 
 - word: 구
   romaja: gu
+  hanja: 九
   pos: num
   defs:
     - def: "nine"
     - def: "ninth"
-    - def: "10"
+  notes:
+    - "In Modern Korean, numbers are almost always written in Arabic numerals."
+    - "구 means “ninth” if it is directly put before a noun other than modern units."
+    - "구 층: ninth floor"
+    - "아홉 층: nine floors"
+    - "구 팀: Team 9"
+    - "아홉 팀: nine teams"
+  syns: [아홉]
+  tags: [topik1]
 
 - word: 구
   romaja: gu
@@ -16734,6 +16743,7 @@ Used to illustrate the degree or intensity of a situation.
   pos: num
   defs:
     - def: "four"
+  syns: [사]
   tags: [topik1]
 
 - word: 녀석
@@ -19163,6 +19173,7 @@ Used to illustrate the degree or intensity of a situation.
   pos: num
   defs:
     - def: "five (Native Korean)"
+  syns: [오]
   tags: [topik1]
 
 - word: 다섯째
@@ -23398,6 +23409,7 @@ after adjective stems, indicates a state which no longer exists"
   pos: num
   defs:
     - def: "two"
+  syns: [이]
   tags: [topik1]
 
 - word: 둘
@@ -42142,10 +42154,20 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 사
   romaja: sa
+  hanja: 四
   pos: num
   defs:
-    - def: "four"
+    - def: "(Sino-Korean numbers) four"
     - def: "fourth"
+  notes:
+    - "In Modern Korean, numbers are almost always written in Arabic numerals."
+    - "사 means “fourth” if it is directly put before a noun other than modern units."
+    - "사 층: fourth floor"
+    - "네 층: four floors"
+    - "사 팀: Team 4"
+    - "네 팀: four teams"
+  syns: [넷]
+  tags: [topik1]
 
 - word: 사
   romaja: sa
@@ -43724,6 +43746,7 @@ Used to illustrate the time that a certain action or situation began or will beg
     - "세 층: three floors"
     - "삼 팀: Team 3"
     - "세 팀: three teams"
+  syns: [셋]
   tags: [topik1]
 
 - word: 삼각형
@@ -46757,6 +46780,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: num
   defs:
     - def: "three"
+  syns: [삼]
   tags: [topik1]
 
 - word: 셋
@@ -51848,10 +51872,20 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 십
   romaja: sip
+  hanja: 十
   pos: num
   defs:
     - def: "ten"
     - def: "tenth"
+  notes:
+    - "In Modern Korean, numbers are almost always written in Arabic numerals."
+    - "십 means “tenth” if it is directly put before a noun other than modern units."
+    - "십 층: tenth floor"
+    - "열 층: ten floors"
+    - "십 팀: Team 10"
+    - "열 팀: ten teams"
+  syns: [열]
+  tags: [topik1]
 
 - word: 십각형
   romaja: sipgakhyeong
@@ -54134,6 +54168,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: num
   defs:
     - def: "nine"
+  syns: [구]
   tags: [topik1]
 
 - word: 아홉째
@@ -58161,6 +58196,11 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: num
   defs:
     - def: "eight (Native Korean)"
+      examples:
+        - example: "그 남자 아이는 여덟 살이다."
+          transliteration: "Geu namja aineun yeodeol sarida."
+          translation: "That boy is eight years old."
+  syns: [팔]
   tags: [topik1]
 
 - word: 여동생
@@ -58272,6 +58312,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: num
   defs:
     - def: "six"
+  syns: [육]
   tags: [topik1]
 
 - word: 여섯째
@@ -59057,6 +59098,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: num
   defs:
     - def: "ten"
+  syns: [십]
   tags: [topik1]
 
 - word: 열
@@ -60045,6 +60087,7 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 오
   romaja: o
+  hanja: 五
   pos: num
   defs:
     - def: "five"
@@ -60053,6 +60096,15 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "인간은 한 손, 한 발에 각각 다섯개의 손가락, 발가락을 가지고 있다."
           transliteration: "In-ganeun han son, han bare gakgak daseotgae-ui son-garak, balgarageul gajigo itda."
           translation: "Humans have five fingers and toes on each hand and foot."
+  notes:
+    - "In Modern Korean, numbers are almost always written in Arabic numerals."
+    - "오 means “fifth” if it is directly put before a noun other than modern units."
+    - "오 층: fifth floor"
+    - "다섯 층: five floors"
+    - "오 팀: Team 5"
+    - "다섯 팀: five teams"
+  syns: [다섯]
+  tags: [topik1]
 
 - word: 오
   romaja: o
@@ -64416,10 +64468,20 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 육
   romaja: yuk
+  hanja: 六
   pos: num
   defs:
     - def: "six"
     - def: "sixth"
+  notes:
+    - "In Modern Korean, numbers are almost always written in Arabic numerals."
+    - "육 means “sixth” if it is directly put before a noun other than modern units."
+    - "육 층: sixth floor"
+    - "여섯 층: six floors"
+    - "육 팀: Team 6"
+    - "여섯 팀: six teams"
+  syns: [여섯]
+  tags: [topik1]
 
 - word: 육각수
   romaja: yukgaksu
@@ -65418,8 +65480,10 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: det
   defs:
     - def: "this"
-      examples: 
-        - example: ""
+      examples:
+        - example: "이 그림을 본 적이 있다."
+          transliteration: "i geurimeul bon jeogi itda."
+          translation: "I have seen this picture."
 
 - word: 이
   romaja: i
@@ -67379,6 +67443,7 @@ Used to illustrate the time that a certain action or situation began or will beg
     - "일 팀: Team 1"
     - "한 팀: one team"
   ders: [일월, 제일]
+  syns: [하나]
   tags: [topik1]
 
 - word: 일
@@ -67417,6 +67482,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: num
   defs:
     - def: "seven"
+  syns: [칠]
   tags: [topik1]
 
 - word: 일광
@@ -80603,10 +80669,20 @@ such a municipality in North Korea, the Republic of China, the People's Republic
 
 - word: 칠
   romaja: chil
+  hanja: 七
   pos: num
   defs:
     - def: "seven"
     - def: "seventh"
+  notes:
+    - "In modern Korean, numbers are almost always written in Arabic numerals."
+    - "칠 means “seventh” if it is directly put before a noun other than modern units."
+    - "칠 층 ― chil cheung ― seventh floor"
+    - "일곱 층 ― ilgop cheung ― seven floors"
+    - "칠 팀 ― chil tim ― Team No. 7"
+    - "일곱 팀 ― ilgop tim ― seven teams"
+  syns: [일곱]
+  tags: [topik1]
 
 - word: 칠
   romaja: chil
@@ -85482,15 +85558,20 @@ such a municipality in North Korea, the Republic of China, the People's Republic
 
 - word: 팔
   romaja: pal
+  hanja: 八
   pos: num
   defs:
-    - def: "eight"
+    - def: "(Sino-Korean number) eight"
     - def: "eighth"
-    - def: ""
-      examples: 
-        - example: "그 남자 아이는 여덟 살이다."
-          transliteration: "Geu namja aineun yeodeol sarida."
-          translation: "That boy is eight years old."
+  notes:
+    - "In Modern Korean, numbers are almost always written in Arabic numerals."
+    - "팔 means “eighth” if it is directly put before a noun other than modern units."
+    - "팔 층: eighth floor"
+    - "여덟 층: eight floors"
+    - "팔 팀: Team 8"
+    - "여덟 팀: eight teams"
+  syns: [여덟]
+  tags: [topik1]
 
 - word: 팔각형
   romaja: palgakhyeong
@@ -88162,6 +88243,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
         - example: "아나, 너 펜 있어? — 응 가방에 펜 하나가 있어. 하나가…"
           transliteration: "Ana, neo pen isseo?  eung gabang-e pen hanaga isseo. Hanaga…"
           translation: "Anna, do you have a pen?  —  Yes. I have a pen in my bag. I have a …"
+  syns: [일]
   tags: [topik1]
 
 - word: 하나님
