@@ -34406,6 +34406,8 @@ to get a blow, to be struck"
     - def: "to catch (ball, water, etc.)"
     - def: "to hold, put up (umbrella, etc.)"
   conj: [받는다, 받아, 받아요, 받습니다]
+  ants: [바치다, 주다]
+  tags: [topik1]
 
 - word: 받아들이다
   romaja: badadeurida
@@ -42356,6 +42358,7 @@ Used to illustrate the time that a certain action or situation began or will beg
           transliteration: "Mwo jom sal ge isseoseo sijang-e gago isseoyo. / a geureoseyo, jeodo sijang-e gaya haeyo."
           translation: "I'm going to the market. I need to buy something. / Really? I need to go to the market too."
   conj: [산다, 사, 사요, 삽니다]
+  tags: [topik1]
 
 - word: 사다리
   romaja: sadari
@@ -63245,6 +63248,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   defs:
     - def: "won; the official currency of South Korea, sign = ₩ (KRW)"
     - def: "won; the official currency of North Korea (KPW)"
+  tags: [topik1]
 
 - word: 원
   romaja: won
@@ -68070,6 +68074,9 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "to enjoy (profit, favor)"
     - def: "to suffer (loss, harm)"
   conj: [입는다, 입어, 입어요, 입습니다]
+  ders: [입히다]
+  ants: [벗다]
+  tags: [topik1]
 
 - word: 입다
   romaja: ipda
@@ -84849,6 +84856,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   pos: n
   defs:
     - def: "T-shirt"
+  tags: [topik1]
 
 - word: 티슈
   romaja: tisyu
