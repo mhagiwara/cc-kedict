@@ -27817,8 +27817,10 @@ after adjective stems, indicates a state which no longer exists"
     - def: "many, much, a lot, plenty, in abundance"
       examples: 
         - example: "많이 드세요."
-          transliteration: " Mani deuseyo."
+          transliteration: "Mani deuseyo."
           translation: "Eat a lot. (\"dig in\"; \"bon appetit\")"
+  syns: [아주]
+  tags: [topik1]
 
 - word: 말
   romaja: mal
@@ -30840,10 +30842,13 @@ to get a blow, to be struck"
   defs:
     - def: "body"
       examples: 
-        - example: "우리 몸 속에 있는 기생충의 알"
-          transliteration: "uri mom soge inneun gisaengchung-ui al"
-          translation: "the nits on our bodies"
-    - def: "social status"
+        - example: "그는 몸이 좋다."
+          transliteration: "Geuneun momi jota."
+          translation: "He has a nice body."
+    - def: "health"
+  cf: [신체, 몸집, 신분]
+  ders: [잇몸]
+  tags: [topik1]
 
 - word: 몸빛깔
   romaja: mombitkkal
@@ -49179,6 +49184,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   defs:
     - def: "to take a break, to rest"
   conj: [쉰다, 쉬어, 쉬어요, 쉽니다]
+  tags: [topik1]
 
 - word: 쉬리
   romaja: swiri
