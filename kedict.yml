@@ -4580,24 +4580,15 @@
         - example: "내가 원하는 것"
           transliteration: "naega wonhaneun geot"
           translation: "what I want"
+  ders: [거, 게, 걸, 건]
+  cf: [곳, 곧, 가]
+  tags: [topik1]
 
 - word: 것도
   romaja: geot
   pos: n
   defs:
-    - def: "A thing; an object, one (impersonal pronoun)"
-      examples: 
-        - example: "비싼 것"
-          transliteration: "bissan geot"
-          translation: "an expensive thing; something expensive; an (the) expensive one"
-        - example: "이 세상은 우리들의 것이었지만, 이제는 너희들의 것이다."
-          transliteration: "I sesang-eun urideurui geosieotjiman, ijeneun neohuideurui geosida."
-          translation: "This world was ours, but now it’s yours."
-    - def: "(used to create noun phrases) what; the thing which"
-      examples: 
-        - example: "내가 원하는 것"
-          transliteration: "naega wonhaneun geot"
-          translation: "what I want"
+    - def: "See \"것\""
 
 - word: 것일까
   romaja: geot
@@ -5911,17 +5902,23 @@
 - word: 고
   pos: suf
   defs:
-    - def: "and then"
-      examples: 
-        - example: "In this sense, usually a single subject governs two clauses. 고 (go) is attached to the stem of the final verb of the first clause."
-    - def: "and"
-      examples: 
-        - example: "In this sense, usually two clauses with different subjects express coordinated actions or descriptions. 고 (go) is attached to the stem of the final verb of the first clause."
-    - def: "(in the process of) -ing"
-      examples: 
-        - example: "In this sense, 고 (go) is attached to the stem of the verb and is followed by 있다 (itda, “to exist”)."
-    - def: "a suffix used to join a main verb/adjective and its auxiliary verb/adjective.
-"
+    - def: "and then (In this sense, usually a single subject governs two clauses. 고 (go) is attached to the stem of the final verb of the first clause.)"
+    - def: "and (In this sense, usually two clauses with different subjects express coordinated actions or descriptions. 고 (go) is attached to the stem of the final verb of the first clause.)"
+      examples:
+        - example: "나는 한국어를 공부하고, 그는 영어를 공부해요."
+          transliteration: "Naneun hangugeoreul gongbuhago, geuneun yeong-eoreul gongbuhaeyo."
+          translation: "I am studying Korean, and he is studying English."
+    - def: "(in the process of) -ing (In this sense, 고 (go) is attached to the stem of the verb and is followed by 있다 (itda, “to exist”).)"
+      examples:
+        - example: "저는 한국말을 공부하고 있습니다."
+          transliteration: "Jeoneun han-gungmareul gongbuhago itseumnida."
+          translation: "I am (in the process of) studying Korean."
+    - def: "a suffix used to join a main verb/adjective and its auxiliary verb/adjective."
+      examples:
+        - example: "하고 싶다"
+          transliteration: "hago sipda"
+          translation: "to want to do"
+  tags: [topik1]
 
 - word: 고
   pos: suf
@@ -11191,6 +11188,8 @@
           transliteration: "Geosil byeogeneun geurimdeuri geollyeo isseotda."
           translation: "Some pictures were hanging on the wall in the living room."
     - def: "beautiful scenery"
+  rels: [그리다]
+  tags: [topik1]
 
 - word: 그림
   romaja: geurim
@@ -58937,9 +58936,12 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 연습
   romaja: yeonseup
+  hanja: 練習
   pos: n
   defs:
     - def: "practice"
+  ders: [연습하다]
+  tags: [topik1]
 
 - word: 연습곡
   romaja: yeonseupgok
@@ -62986,9 +62988,11 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 운전
   romaja: unjeon
+  hanja: 運轉
   pos: n
   defs:
     - def: "driving"
+  tags: [topik1]
 
 - word: 운전기사
   romaja: unjeon-gisa
@@ -87793,10 +87797,19 @@ such a municipality in North Korea, the Republic of China, the People's Republic
 
 - word: 피곤하다
   romaja: pigonhada
+  hanja: 疲困-
   pos: a
   defs:
     - def: "(to be) tired"
+      examples:
+        - example: "나는 피곤하다."
+          transliteration: "Naneun pigonhada."
+          translation: "I am tired."
+        - example: "로빈은 나 때문에 피곤해졌다."
+          transliteration: "Robineun na ttaemune pigonhaejyeotda."
+          translation: "Robin got tired with me."
   conj: [피곤하다, 피곤해, 피곤해요, 피곤합니다]
+  tags: [topik1]
 
 - word: 피난
   romaja: pinan
@@ -93268,9 +93281,13 @@ to say, to talk
 
 - word: 회의
   romaja: hoe-ui
+  hanja: 會議
   pos: n
   defs:
     - def: "a meeting"
+  ders: [회의하다]
+  cf: [대회, 의회]
+  tags: [topik1]
 
 - word: 회의
   romaja: hoe-ui
