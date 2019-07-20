@@ -7622,13 +7622,15 @@
 
 - word: 과
   romaja: gwa
+  hanja: 課
   pos: n
   defs:
-    - def: "lesson"
+    - def: "lesson, chapter"
       examples: 
         - example: "제1(일)과"
           transliteration: "je1(il)gwa"
           translation: "the first lesson"
+  tags: [ik-b1]
 
 - word: 과거
   romaja: gwageo
@@ -21094,9 +21096,12 @@ Used to illustrate the degree or intensity of a situation.
 
 - word: 대학생
   romaja: daehaksaeng
+  hanja: 大學生
   pos: n
   defs:
     - def: "college student"
+  rels: [대학 , 학생]
+  tags: [ik-b1]
 
 - word: 대학원
   romaja: daehagwon
@@ -32214,9 +32219,13 @@ to get a blow, to be struck"
 
 - word: 미국
   romaja: Miguk
+  hanja: 美國
   pos: propn
   defs:
     - def: "America, the United States"
+  syns: [미합중국, 아메리카]
+  ders: [미국인, 미국사람, 미국군, 미국령, 미국영어, 미국오리]
+  tags: [ik-b1]
 
 - word: 미국오리
   romaja: migugori
@@ -42437,6 +42446,8 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "이것은 미식축구 시청을 좋아하지 않는 사람을 위한 것입니다."
           transliteration: "Igeoseun misikchukgu sicheong-eul joahaji anneun sarameul wihan geosimnida."
           translation: "It is for people who do not like watching American football."
+  notes: "Although Korean grammar does not generally distinguish between singular and plural, the plural marker 들 (deul) is often appended to 사람 (saram) when it is necessary to specify the plural, yielding 사람들 (saramdeul, “people”)."
+  tags: [ik-b1]
 
 - word: 사람들
   romaja: saramdeul
@@ -67103,10 +67114,13 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 인사
   romaja: insa
+  hanja: 人事
   pos: n
   defs:
     - def: "greeting"
     - def: "personnel matters/affairs, human resources"
+  ders: [인사하다]
+  tags: [ik-b1]
 
 - word: 인사하다
   romaja: insahada
@@ -70326,8 +70340,10 @@ rat (Chinese zodiac sign)"
   romaja: jeo
   pos: pron
   defs:
-    - def: "The first person deferential singular pronoun, I."
-    - def: "The demonstrative determiner that (over there)."
+    - def: "(humble, formal, polite) The first person deferential singular pronoun, I."
+    - def: "(rare) The demonstrative determiner that (over there)."
+  rels: [나, 저희, 우리]
+  tags: [ik-b1]
 
 - word: 저
   romaja: jeo
@@ -89066,14 +89082,16 @@ to say, to talk"
 
 - word: 학년
   romaja: hangnyeon
+  hanja: 學年
   pos: n
   defs:
     - def: "school year"
-    - def: "grade, year:"
+    - def: "grade, year"
       examples: 
         - example: "3학년, 삼학년"
           transliteration: "3hangnyeon, samhangnyeon"
           translation: "third grade, third year, junior"
+  tags: [ik-b1]
 
 - word: 학명
   romaja: hangmyeong
@@ -89127,7 +89145,7 @@ to say, to talk"
   defs:
     - def: "student, scholar, school pupil"
   rels: [고등학생, 대학생, 중학생, 초등학생]
-  tags: [topik1]
+  tags: [topik1, ik-b1]
 
 - word: 학생답다
   romaja: haksaengdapda
@@ -89292,13 +89310,14 @@ to say, to talk"
 
 - word: 한국
   romaja: Han-guk
+  hanja: 韓國
   pos: propn
   defs:
     - def: "(South Korea) Korea (the peninsula or the whole of Korea)"
     - def: "(South Korea) South Korea"
   syns: [조선, 우리나라, 코리아, 남한, 남조선, 대한민국, 고려]
   cf: [북한]
-  tags: [topik1]
+  tags: [topik1, ik-b1]
 
 - word: 한국말
   romaja: han-gungmal

@@ -4,7 +4,7 @@ import yaml
 MANDATORY_FIELDS = ['word', 'pos', 'defs']
 OPTIONAL_FIELDS = ['index', 'romaja', 'hanja', 'conj', 'notes', 'tags', 'syns', 'ants', 'rels', 'cf', 'ders']
 POS = ['n', 'v', 'a', 'pron', 'propn', 'intj', 'det', 'part', 'adv', 'num', 'abbrev', 'suf', 'pref']
-TAGS = ['topik1']
+TAGS = ['topik1', 'ik-b1']
 
 
 def validate_entry(entry):
