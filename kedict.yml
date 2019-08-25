@@ -1534,10 +1534,11 @@
     - def: "(abbreviation of 간장) liver"
 
 - word: 간
+  romaja: gan
+  hanja: 澗
   pos: num
   defs:
-    - def: "10"
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    - def: "10^38 (10 to the 38th power)"
 
 - word: 간계
   romaja: gan-gye
@@ -12202,9 +12203,10 @@
 
 - word: 기라성
   romaja: giraseong
+  hanja: 綺羅星
   pos: n
   defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    - def: glittering star
 
 - word: 기러기
   romaja: gireogi
@@ -13048,7 +13050,14 @@
   romaja: git
   pos: n
   defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    - def: "feather, plume"
+    - def: "collar"
+
+- word: 깃
+  romaja: git
+  pos: propn
+  defs:
+    - def: Git (version control system)
 
 - word: 깃발
   romaja: gitbal
@@ -13379,7 +13388,6 @@ Used to illustrate the degree or intensity of a situation.
   pos: n
   defs:
     - def: "grain of sesame"
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
 
 - word: 깨어나다
   romaja: kkaeeonada
@@ -21541,7 +21549,7 @@ after adjective stems, indicates a state which no longer exists"
 - word: 데
   pos: suf
   defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    - def: "Express past experiene or situation. Used after '-으시-', '-었-', '-겠-'"
 
 - word: 데까지
   pos: n
@@ -22924,23 +22932,16 @@ after adjective stems, indicates a state which no longer exists"
         - example: "왕이 되다"
           transliteration: "wang-i doeda"
           translation: "to become king"
-    - def: "to come, to arrive"
+    - def: "(of a time) to come, to arrive"
       examples: 
         - example: "약속한 시간이 되었다."
           transliteration: "Yaksokhan sigani doeeotda."
           translation: "The appointed time has arrived."
-    - def: "to be permissible; to be OK; may"
+    - def: "(as an auxiliary verb after a verb in its —어 (eo), —아 (a), or —해 (hae) form) to be permissible; to be OK; may"
       examples: 
         - example: "질문 해도 돼요?"
           transliteration: "Jilmun haedo dwaeyo?"
           translation: "May [I] ask a question?"
-  conj: [된다, 돼, 돼요/되어요, 됩니다]
-
-- word: 되다
-  romaja: doeda
-  pos: suf
-  defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
   conj: [된다, 돼, 돼요/되어요, 됩니다]
 
 - word: 되다
@@ -23014,41 +23015,10 @@ after adjective stems, indicates a state which no longer exists"
   conj: [되풀이한다, 되풀이해, 되풀이해요, 되풀이합니다]
 
 - word: 된
-  romaja: doeda
+  romaja: doen
   pos: v
   defs:
-    - def: "to become"
-      examples: 
-        - example: "왕이 되다"
-          transliteration: "wang-i doeda"
-          translation: "to become king"
-    - def: "to come, to arrive"
-      examples: 
-        - example: "약속한 시간이 되었다."
-          transliteration: "Yaksokhan sigani doeeotda."
-          translation: "The appointed time has arrived."
-    - def: "to be permissible; to be OK; may"
-      examples: 
-        - example: "질문 해도 돼요?"
-          transliteration: "Jilmun haedo dwaeyo?"
-          translation: "May [I] ask a question?"
-  conj: [된다, 돼, 돼요/되어요, 됩니다]
-
-- word: 된
-  romaja: doeda
-  pos: suf
-  defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
-  conj: [된다, 돼, 돼요/되어요, 됩니다]
-
-- word: 된
-  romaja: doeda
-  pos: a
-  defs:
-    - def: "(to be) hard"
-    - def: "(to be) thick"
-    - def: "(to be) severe"
-  conj: [된다, 돼, 돼요/되어요, 됩니다]
+    - def: "See 되다"
 
 - word: 된소리
   romaja: doensori
@@ -25783,7 +25753,7 @@ after adjective stems, indicates a state which no longer exists"
   romaja: ran
   pos: n
   defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    - def: "column, field"
 
 - word: 란
   romaja: ran
@@ -28230,22 +28200,25 @@ specifically Potamogeton oxyphyllus."
 
 - word: 망
   romaja: mang
+  hanja: 亡
   pos: n
   defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    - def: "Root of 망하다 (fail, to go under, to go bankrupt, to go broke)"
 
 - word: 망
   romaja: mang
+  hanja: 網
   pos: n
   defs:
     - def: "any object that looks like a fishing net"
-    - def: "network"
+    - def: "(computing) network"
 
 - word: 망
   romaja: mang
+  hanja: 望
   pos: n
   defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    - def: "full moon"
 
 - word: 망가니즈
   romaja: mangganijeu
@@ -38476,27 +38449,31 @@ to get a blow, to be struck"
 
 - word: 부
   romaja: bu
+  hanja: 父
   pos: n
   defs:
     - def: "father"
 
 - word: 부
   romaja: bu
+  hanja: 釜
   pos: n
   defs:
     - def: "kettle"
 
 - word: 부
   romaja: bu
+  hanja: 不
   pos: pref
   defs:
     - def: "un-, non-, in-"
 
 - word: 부
   romaja: bu
+  hanja: 富
   pos: n
   defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    - def: "wealth; fortune"
 
 - word: 부귀
   romaja: bugwi
@@ -41035,9 +41012,11 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 비번
   romaja: bibeon
+  hanja: 非番
   pos: n
   defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    - def: "not on duty"
+  ants: [당번]
 
 - word: 비번
   romaja: bibeon
@@ -42899,15 +42878,17 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 사원
   romaja: sawon
+  hanja: 社員
   pos: n
   defs:
-    - def: "member of a company"
+    - def: "member of a company; employee; staff; workforce"
 
 - word: 사원
   romaja: sawon
+  hanja: 寺院
   pos: n
   defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    - def: "temple; monastery"
 
 - word: 사월
   romaja: sawol
@@ -44029,9 +44010,10 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 상당
   romaja: sangdang
+  hanja: 相當
   pos: n
   defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    - def: "= 상당하다 (be equivalent to), = 상당히 (fairly, considerably)"
 
 - word: 상당하다
   romaja: sangdanghada
@@ -45125,16 +45107,18 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 서방
   romaja: seobang
+  hanja: 西方
   pos: n
   defs:
     - def: "west"
 
 - word: 서방
   romaja: seobang
+  hanja: 書房
   pos: n
   defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
     - def: "husband"
+    - def: "son-in-law, brother-in-law"
 
 - word: 서버
   romaja: seobeo
@@ -72961,16 +72945,11 @@ rat (Chinese zodiac sign)"
 
 - word: 조각
   romaja: jogak
+  hanja: 彫刻
   pos: n
   defs:
     - def: "a piece (of an object)"
     - def: "sculpture"
-
-- word: 조각
-  romaja: jogak
-  pos: n
-  defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
 
 - word: 조개
   romaja: jogae
@@ -78802,6 +78781,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
 
 - word: 천지
   romaja: cheonji
+  hanja: 天地
   pos: n
   defs:
     - def: "heaven and earth"
@@ -78812,30 +78792,28 @@ such a municipality in North Korea, the Republic of China, the People's Republic
 
 - word: 천지
   romaja: cheonji
-  pos: n
-  defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
-
-- word: 천지
-  romaja: cheonji
+  hanja: 天池
   pos: propn
   defs:
     - def: "the Heaven Lake"
 
 - word: 천지
   romaja: cheonji
+  hanja: 天旨
   pos: n
   defs:
     - def: "will of heaven"
 
 - word: 천지
   romaja: cheonji
+  hanja: 淺智
   pos: n
   defs:
     - def: "shallow wisdom"
 
 - word: 천지
   romaja: cheonji
+  hanja: 淺知
   pos: n
   defs:
     - def: "shallow knowledge"
@@ -89845,15 +89823,11 @@ to say, to talk"
 
 - word: 합
   romaja: hap
+  hanja: 合
   pos: n
   defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
-
-- word: 합
-  romaja: hap
-  pos: n
-  defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    - def: "combination; mixture; fusion; aggregate"
+    - def: "addition; plus; aggregate"
 
 - word: 합격
   romaja: hapgyeok
@@ -90302,15 +90276,17 @@ to say, to talk
 
 - word: 해금
   romaja: haegeum
+  hanja: 奚琴
   pos: n
   defs:
     - def: "a traditional Korean vertical bowed string instrument with two silk strings, derived from the Chinese xiqin"
 
 - word: 해금
   romaja: haegeum
+  hanja: 解禁
   pos: n
   defs:
-    - def: "This term needs a translation to English. Please help out and add a translation, then remove the text {{rfdef}}."
+    - def: "lifting a ban"
 
 - word: 해남
   romaja: Haenam
