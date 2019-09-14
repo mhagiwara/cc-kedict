@@ -17633,9 +17633,12 @@ Used to illustrate the degree or intensity of a situation.
 
 - word: 농구
   romaja: nonggu
+  hanja: 籠球
   pos: n
   defs:
-    - def: "basketball"
+    - def: "(sports) basketball"
+  rels: [농구하다, 농구공, 농구선수]
+  tags: [topik1]
 
 - word: 농노
   romaja: nongno
@@ -21688,6 +21691,7 @@ after adjective stems, indicates a state which no longer exists"
         - example: "원숭이도 나무에서 떨어질 때가 있다."
           transliteration: "Wonsung-ido namueseo tteoreojil ttaega itda."
           translation: "Even monkeys sometimes fall from trees. (i.e. Even experts sometimes make mistakes (proverb)."
+  tags: [topik1]
 
 - word: 도
   romaja: do
@@ -40707,6 +40711,8 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "어릴적 나는  비 가 하늘이 내려주는 공짜 물이라고 생각했다."
           transliteration: "Eoriljeok naneun  bi ga haneuri naeryeojuneun gongjja murirago saenggakhaetda."
           translation: "When I was young, I thought  rain was free water from the sky."
+  ders: [여우비]
+  tags: [topik1]
 
 - word: 비겁
   romaja: bigeop
@@ -43030,6 +43036,7 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 사전
   romaja: sajeon
+  hanja: 辭典
   pos: n
   defs:
     - def: "dictionary"
@@ -43037,15 +43044,20 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "사전을 찾아보다"
           transliteration: "sajeoneul chajaboda"
           translation: "to search [for a word in] a dictionary"
+  ders: [낱말사전, 영어사전]
+  tags: [topik1]
 
 - word: 사전
   romaja: sajeon
+  hanja: 事典
   pos: n
   defs:
     - def: "encyclopedia"
+  ders: [백과사전]
 
 - word: 사전
   romaja: sajeon
+  hanja: 事前
   pos: n
   defs:
     - def: "beforehand"
@@ -45512,9 +45524,11 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 선수
   romaja: seonsu
+  hanja: 選手
   pos: n
   defs:
     - def: "athlete"
+  tags: [topik1]
 
 - word: 선술집
   romaja: seonsuljip
@@ -53924,6 +53938,8 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "집이 아주 많이 부서졌다."
           transliteration: "Jibi aju mani buseojyeotda."
           translation: "The house is quite damaged."
+  cf: [굉장히, 매우]
+  tags: [topik1]
 
 - word: 아주
   romaja: aju
@@ -53980,6 +53996,7 @@ Used to illustrate the time that a certain action or situation began or will beg
           transliteration: "Ajikdo hancham nameun iriraseo, jigeumeun geugeose daehaeseo saenggakhaji anko isseoyorago geuneun malhaetda."
           translation: "“I don’t think about it now because it still has a long way to go,” he said."
     - def: "yet (in a negative context)"
+  tags: [topik1]
 
 - word: 아첨
   romaja: acheom
@@ -54351,9 +54368,13 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 안경
   romaja: an-gyeong
+  hanja: 眼鏡
   pos: n
   defs:
     - def: "glasses, spectacles"
+  syns: [메가나]
+  cf: [돋보기]
+  tags: [topik1]
 
 - word: 안남
   romaja: Annam
@@ -62509,11 +62530,12 @@ Used to illustrate the time that a certain action or situation began or will beg
   defs:
     - def: "we, us"
     - def: "our"
-    - def: "my"
+    - def: "(when referring to one's own family members) my"
       examples: 
         - example: "우리 어머니는 이번 주에 마을에 계십니다."
           transliteration: "Uri eomeonineun ibeon jue ma-eure gyesimnida."
           translation: "My mother is in town this week."
+  tags: [topik1]
 
 - word: 우리
   romaja: uri
@@ -62590,9 +62612,12 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 우산
   romaja: usan
+  hanja: 雨傘
   pos: n
   defs:
     - def: "umbrella"
+  syns: [가사]
+  tags: [topik1]
 
 - word: 우상
   pos: n
@@ -65278,9 +65303,11 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 의사
   romaja: uisa
+  hanja: 醫師
   pos: n
   defs:
     - def: "doctor"
+  tags: [topik1]
 
 - word: 의사
   romaja: uisa
@@ -75394,6 +75421,7 @@ rat (Chinese zodiac sign)"
 
 - word: 지갑
   romaja: jigap
+  hanja: 紙匣
   pos: n
   defs:
     - def: "wallet, purse"
@@ -75401,6 +75429,7 @@ rat (Chinese zodiac sign)"
         - example: "오늘 아침에는 지갑이 분명히 재킷 속에 있었는데..."
           transliteration: "Oneul achimeneun jigabi bunmyeonghi jaekit soge isseonneunde..."
           translation: "I could've sworn my wallet was in my jacket this morning."
+  tags: [topik1]
 
 - word: 지겹다
   romaja: jigyeopda
@@ -82605,6 +82634,8 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   pos: n
   defs:
     - def: "height of a person or animal"
+  syns: [신장]
+  tags: [topik1]
 
 - word: 키갈리
   romaja: Kigalli
@@ -91710,9 +91741,14 @@ to say, to talk
 
 - word: 형
   romaja: hyeong
+  hanja: 兄
   pos: n
   defs:
     - def: "elder brother of a male; (by extension, spoken by a male) unrelated elder male"
+  notes: "The term 형 is often used by a male to address an elder male as a polite replacement for a second person singular pronoun (너 or 당신)."
+  ders: [형님]
+  rels: [누나, 오빠, 아저씨, 할아버지]
+  tags: [topik1]
 
 - word: 형
   romaja: hyeong
