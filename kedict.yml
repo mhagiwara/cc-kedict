@@ -60959,19 +60959,19 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "rich soil, fertile land"
 
 - word: 온
-  romaja: on
+  romaja: "on"
   pos: det
   defs:
     - def: "Past determinative form of 오다, thus often \"which has come.\""
 
 - word: 온
-  romaja: on
+  romaja: "on"
   pos: det
   defs:
     - def: "all; entire"
 
 - word: 온
-  romaja: on
+  romaja: "on"
   pos: num
   defs:
     - def: "hundred"
