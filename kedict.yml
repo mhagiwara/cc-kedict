@@ -64182,7 +64182,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   conj: [유명하다, 유명해, 유명해요, 유명합니다]
 
 - word: 유명한
-  romaja: yumyeonghada
+  romaja: yumyeonghan
   pos: a
   defs:
     - def: "famous"
@@ -64441,16 +64441,16 @@ Used to illustrate the time that a certain action or situation began or will beg
 
 - word: 유해하다
   romaja: yuhaehada
-  pos: a
+  pos: v
   defs:
     - def: "to be harmful, noxious, injurious"
   conj: [유해하다, 유해해, 유해해요, 유해합니다]
 
 - word: 유해한
-  romaja: yuhaehada
+  romaja: yuhaehan
   pos: a
   defs:
-    - def: "to be harmful, noxious, injurious"
+    - def: "harmful, noxious, injurious"
   conj: [유해하다, 유해해, 유해해요, 유해합니다]
 
 - word: 유행
@@ -66353,12 +66353,12 @@ Used to illustrate the time that a certain action or situation began or will beg
   conj: [이상하다, 이상해, 이상해요, 이상합니다]
 
 - word: 이상한
-  pos: det
+  pos: a
   defs:
     - def: "strange, abnormal"
 
 - word: 이상한
-  pos: det
+  pos: a
   defs:
     - def: "demented; insane"
 
