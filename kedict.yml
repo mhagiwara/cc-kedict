@@ -24,15 +24,15 @@
   romaja: ga
   pos: n
   defs:
-    - def: ": family, house"
-    - def: ": price, value"
-    - def: ": falsehood"
+    - def: "family, house"
+    - def: "price, value"
+    - def: "falsehood"
 
 - word: 가
   romaja: ga
   pos: suf
   defs:
-    - def: ": street"
+    - def: "street"
 
 - word: 가
   romaja: ga
@@ -51,7 +51,7 @@
   romaja: gagauseueo
   pos: n
   defs:
-    - def: "The Gagauz language."
+    - def: "The Gagauz language"
 
 - word: 가감
   romaja: gagam
@@ -89,7 +89,7 @@
   romaja: gagye
   pos: n
   defs:
-    - def: "A family line; bloodline; lineage"
+    - def: "a family line; bloodline; lineage"
 
 - word: 가계
   romaja: gagye
@@ -168,14 +168,14 @@
   romaja: gakkapda
   pos: a
   defs:
-    - def: "To be close, near (in distance, time)"
+    - def: "to be close, near (in distance, time)"
       examples:
         - example: "새로 이사한 집에선 학교가 가깝다."
           transliteration: "Saero isahan jibeseon hakgyoga gakkapda."
           translation: "The school is close to our new house."
-    - def: "To be on friendly terms."
-    - def: "To be of similar quantity."
-    - def: "To be closely related."
+    - def: "to be on friendly terms"
+    - def: "to be of similar quantity"
+    - def: "to be closely related"
       examples:
         - example: "가까운 친척"
           transliteration: "gakkaun chincheok"
@@ -186,8 +186,8 @@
   romaja: gakkuda
   pos: v
   defs:
-    - def: "To cultivate (plants)."
-    - def: "To decorate."
+    - def: "to cultivate (plants)"
+    - def: "to decorate"
   conj: [가꾼다, 가꾸어, 가꾸어요/가꿔요, 가꿉니다]
 
 - word: 가끔
@@ -264,8 +264,8 @@
   romaja: ganeumhada
   pos: v
   defs:
-    - def: "To aim at a goal"
-    - def: "To predict how something will turn out"
+    - def: "to aim at a goal"
+    - def: "to predict how something will turn out"
   conj: [가늠한다, 가늠해, 가늠해요, 가늠합니다]
 
 - word: 가능
@@ -368,7 +368,7 @@
   romaja: gadeukhada
   pos: a
   defs:
-    - def: "To be full"
+    - def: "to be full"
   conj: [가득하다, 가득해, 가득해요, 가득합니다]
 
 - word: 가득히
@@ -456,7 +456,7 @@
   romaja: garyeonhada
   pos: a
   defs:
-    - def: "To be miserable or wretched"
+    - def: "to be miserable or wretched"
   conj: [가련하다, 가련해, 가련해요, 가련합니다]
 
 - word: 가련히
@@ -508,13 +508,13 @@
   romaja: garomak
   pos: n
   defs:
-    - def: "The diaphragm."
+    - def: "the diaphragm"
 
 - word: 가로채다
   romaja: garochaeda
   pos: v
   defs:
-    - def: "To snatch or steal"
+    - def: "to snatch or steal"
   conj: [가로챈다, 가로채, 가로채요/가로채어요, 가로챕니다]
 
 - word: 가루
@@ -587,8 +587,8 @@
   romaja: garikida
   pos: v
   defs:
-    - def: "To point."
-    - def: "To indicate or emphasize something."
+    - def: "to point"
+    - def: "to indicate or emphasize something"
   conj: [가리킨다, 가리켜, 가리켜요/가리키어요, 가리킵니다]
 
 - word: 가마
@@ -690,10 +690,10 @@
   romaja: gamanhi
   pos: adv
   defs:
-    - def: "Still; not moving."
+    - def: "still; not moving"
     - def: "quietly"
-    - def: "Just as it is."
-    - def: "Stealthily; in secret."
+    - def: "just as it is"
+    - def: "stealthily; in secret"
 
 - word: 가면
   romaja: gamyeon
@@ -871,14 +871,14 @@
   romaja: gasoropda
   pos: a
   defs:
-    - def: "To be absurd; laughable."
+    - def: "to be absurd; laughable"
   conj: [가소롭다, 가소로워, 가소로워요, 가소롭습니다]
 
 - word: 가소제
   romaja: gasoje
   pos: n
   defs:
-    - def: "A plasticizer."
+    - def: "a plasticizer"
 
 - word: 가솔린
   romaja: gasollin
@@ -929,7 +929,7 @@
   romaja: gaseumppyeo
   pos: n
   defs:
-    - def: "The sternum or breastbone."
+    - def: "the sternum or breastbone"
 
 - word: 가시
   romaja: gasi
@@ -1397,18 +1397,18 @@
   romaja: gahada
   pos: v
   defs:
-    - def: "To add; to increase"
-    - def: "To do a certain act; to affect"
-    - def: "To affect in order to do a certain act"
-    - def: "To drive quickly"
+    - def: "to add; to increase"
+    - def: "to do a certain act; to affect"
+    - def: "to affect in order to do a certain act"
+    - def: "to drive quickly"
   conj: [가한다, 가해, 가해요, 가합니다]
 
 - word: 가하다
   romaja: gahada
   pos: a
   defs:
-    - def: "To be right; to be good"
-    - def: "To be good in accordance with one's will"
+    - def: "to be right; to be good"
+    - def: "to be good in accordance with one's will"
   conj: [가한다, 가해, 가해요, 가합니다]
 
 - word: 가히
@@ -1569,7 +1569,7 @@
   romaja: gandan
   pos: n
   defs:
-    - def: "A pause; a brief cessation"
+    - def: "a pause; a brief cessation"
 
 - word: 간단
   romaja: gandan
@@ -1581,7 +1581,7 @@
   romaja: gandanhada
   pos: a
   defs:
-    - def: "To be simple or straightforward."
+    - def: "to be simple or straightforward"
       examples:
         - example: "아주 간단합니다."
           transliteration: "Aju gandanhamnida."
@@ -1592,7 +1592,7 @@
   romaja: gandanhada
   pos: v
   defs:
-    - def: "To pause briefly."
+    - def: "to pause briefly"
   conj: [간단하다, 간단해, 간단해요, 간단합니다]
 
 - word: 간단히
@@ -1630,14 +1630,14 @@
   romaja: gansahada
   pos: a
   defs:
-    - def: "To be deceitful or cunning."
+    - def: "to be deceitful or cunning"
   conj: [간사하다, 간사해, 간사해요, 간사합니다]
 
 - word: 간사하다
   romaja: gansahada
   pos: v
   defs:
-    - def: "To manage or administer."
+    - def: "to manage or administer"
   conj: [간사하다, 간사해, 간사해요, 간사합니다]
 
 - word: 간선도로
@@ -1668,7 +1668,7 @@
   romaja: gansin
   pos: n
   defs:
-    - def: "A villainous vassal."
+    - def: "a villainous vassal"
 
 - word: 간쑤
   romaja: Ganssu
@@ -1752,23 +1752,23 @@
   romaja: ganjilgeorida
   pos: v
   defs:
-    - def: "To tickle"
-    - def: "To be delighted"
+    - def: "to tickle"
+    - def: "to be delighted"
   conj: [간질거린다, 간질거려, 간질거려요/간질거리어요, 간질거립니다]
 
 - word: 간질대다
   romaja: ganjildaeda
   pos: v
   defs:
-    - def: "To tickle"
-    - def: "To be tickled or ticklish"
+    - def: "to tickle"
+    - def: "to be tickled or ticklish"
   conj: [간질댄다, 간질대, 간질대요/간질대어요, 간질댑니다]
 
 - word: 간질이다
   romaja: ganjirida
   pos: v
   defs:
-    - def: "To tickle"
+    - def: "to tickle"
   conj: [간질인다, 간질여, 간질여요/간질이어요, 간질입니다]
 
 - word: 간첩
@@ -1793,14 +1793,14 @@
   romaja: gancheja
   pos: n
   defs:
-    - def: "simplified Chinese character"
+    - def: "Simplified Chinese character"
 
 - word: 간추리다
   romaja: ganchurida
   pos: v
   defs:
-    - def: "To summarize"
-    - def: "To abridge"
+    - def: "to summarize"
+    - def: "to abridge"
   conj: [간추린다, 간추려, 간추려요/간추리어요, 간추립니다]
 
 - word: 간통
@@ -2132,14 +2132,14 @@
   romaja: gam
   pos: propn
   defs:
-    - def: "A  surname​."
+    - def: "a surname​"
 
 - word: 감각
   romaja: gamgak
   pos: n
   defs:
     - def: "sensation"
-    - def: "A sense for something."
+    - def: "a sense for something"
 
 - word: 감각적
   romaja: gamgakjeok
@@ -2286,14 +2286,14 @@
   romaja: gamsahada
   pos: a
   defs:
-    - def: "To be thankful"
+    - def: "to be thankful"
   conj: [감사하다, 감사해, 감사해요, 감사합니다]
 
 - word: 감사하다
   romaja: gamsahada
   pos: v
   defs:
-    - def: "To give thanks; to thank"
+    - def: "to give thanks; to thank"
   conj: [감사하다, 감사해, 감사해요, 감사합니다]
 
 - word: 감사합니다
@@ -2495,7 +2495,7 @@
 - word: 갑작부자
   pos: n
   defs:
-    - def: "Someone who has become instantly rich."
+    - def: "someone who has become instantly rich"
 
 - word: 갑작스럽다
   romaja: gapjakseureopda
@@ -2608,8 +2608,8 @@
   romaja: gangnyeokhada
   pos: a
   defs:
-    - def: "To be strong or powerful."
-    - def: "To have great potential."
+    - def: "to be strong or powerful."
+    - def: "to have great potential."
   conj: [강력하다, 강력해, 강력해요, 강력합니다]
 
 - word: 강렬하다
@@ -2756,7 +2756,7 @@
   romaja: gangchu
   pos: n
   defs:
-    - def: "Strong recommendation"
+    - def: "strong recommendation"
 
 - word: 강판
   romaja: gangpan
@@ -2877,8 +2877,8 @@
   romaja: gachihada
   pos: v
   defs:
-    - def: "To do together."
-    - def: "To do or think alike."
+    - def: "to do together"
+    - def: "to do or think alike"
   conj: [같이한다, 같이해, 같이해요, 같이합니다]
 
 - word: 같잖다
@@ -2925,7 +2925,7 @@
   romaja: gaegahada
   pos: v
   defs:
-    - def: "To remarry after separation or divorce."
+    - def: "to remarry after separation or divorce"
   conj: [개가한다, 개가해, 개가해요, 개가합니다]
 
 - word: 개고기
@@ -2992,7 +2992,7 @@
   romaja: gaekkum
   pos: n
   defs:
-    - def: "A meaningless dream."
+    - def: "a meaningless dream"
 
 - word: 개꿩
   romaja: gaekkwong
@@ -3077,7 +3077,7 @@
   romaja: gaebalhada
   pos: v
   defs:
-    - def: "to develop or exploit."
+    - def: "to develop or exploit"
   conj: [개발한다, 개발해, 개발해요, 개발합니다]
 
 - word: 개밥바라기
@@ -3105,14 +3105,14 @@
   romaja: gaebyeok
   pos: n
   defs:
-    - def: "Creation"
-    - def: "The dawn of a new age or order"
+    - def: "creation"
+    - def: "the dawn of a new age or order"
 
 - word: 개별자
   romaja: gaebyeolja
   pos: n
   defs:
-    - def: "individuals or particulars, as opposed to universals."
+    - def: "individuals or particulars, as opposed to universals"
 
 - word: 개살구
   romaja: gaesalgu
@@ -3130,7 +3130,7 @@
   romaja: gaeseon
   pos: n
   defs:
-    - def: "Reform or improvement in general."
+    - def: "reform or improvement in general"
 
 - word: 개선하다
   romaja: gaeseonhada
@@ -3155,7 +3155,7 @@
   romaja: gaeseong
   pos: n
   defs:
-    - def: "Opening the gates of a fortress"
+    - def: "opening the gates of a fortress"
     - def: "surrender"
 
 - word: 개성
@@ -3436,27 +3436,27 @@
   romaja: gyaulda
   pos: v
   defs:
-    - def: "To tilt something."
+    - def: "to tilt something"
   conj: [갸운다, 갸울어, 갸울어요, 갸웁니다]
 
 - word: 갸웃
   romaja: gyaut
   pos: adv
   defs:
-    - def: "Cocking or tilting one's head to one side."
+    - def: "cocking or tilting one's head to one side"
 
 - word: 갸웃거리다
   romaja: gyautgeorida
   pos: v
   defs:
-    - def: "To cock or tilt one's head."
+    - def: "to cock or tilt one's head"
   conj: [갸웃거린다, 갸웃거려, 갸웃거려요/갸웃거리어요, 갸웃거립니다]
 
 - word: 갹출
   romaja: gyakchul
   pos: n
   defs:
-    - def: "To make a contribution; chip in, donation."
+    - def: "to make a contribution; chip in, donation"
 
 - word: 걔
   pos: pron
@@ -3477,8 +3477,8 @@
   romaja: geo
   pos: n
   defs:
-    - def: "thing."
-    - def: "what, that which."
+    - def: "thing"
+    - def: "what, that which"
       examples:
         - example: "그건 내 한 거예요."
           translation: "Geugeon nae han geoyeyo."
@@ -3511,9 +3511,9 @@
   romaja: geoduda
   pos: v
   defs:
-    - def: "To harvest."
-    - def: "To gather or collect."
-    - def: "To earn."
+    - def: "to harvest"
+    - def: "to gather or collect"
+    - def: "to earn"
   conj: [거둔다, 거두어, 거두어요/거둬요, 거둡니다]
 
 - word: 거드름
@@ -3544,7 +3544,7 @@
   romaja: georae
   pos: n
   defs:
-    - def: "transaction; trade."
+    - def: "transaction; trade"
       examples:
         - example: "제2항에 규정한 권리는 영업주가 그 거래를 안 날로부터 2주간을 경과하거나 그 거래가 있은 날로부터 1년을 경과하면 소멸한다."
           transliteration: "Je2hang-e gyujeonghan gwollineun yeong-eopjuga geu georaereul an nallobuteo 2juganeul gyeonggwahageona geu georaega isseun nallobuteo 1nyeoneul gyeonggwahamyeon somyeolhanda."
@@ -3579,7 +3579,7 @@
   defs:
     - def: "to sift out, to filter out"
     - def: "to strain"
-    - def: ": to skip, miss"
+    - def: "to skip, miss"
   conj: [거른다, 걸러, 걸러요, 거릅니다]
 
 - word: 거름
@@ -3604,7 +3604,7 @@
   romaja: geori
   pos: v
   defs:
-    - def: "bare stem of 거리다 (georida), a frequentative verb suffix."
+    - def: "bare stem of 거리다 (georida), a frequentative verb suffix"
 
 - word: 거리다
   romaja: georida
@@ -3622,7 +3622,7 @@
   romaja: geomanhada
   pos: a
   defs:
-    - def: "To be arrogant or haughty."
+    - def: "to be arrogant or haughty"
   conj: [거만하다, 거만해, 거만해요, 거만합니다]
 
 - word: 거머리
@@ -3659,8 +3659,8 @@
   romaja: geobuhada
   pos: v
   defs:
-    - def: "To refuse."
-    - def: "To veto."
+    - def: "to refuse"
+    - def: "to veto"
   conj: [거부한다, 거부해, 거부해요, 거부합니다]
 
 - word: 거북
@@ -3906,8 +3906,8 @@
   romaja: geokjeongdoeda
   pos: v
   defs:
-    - def: "To be worried about"
-    - def: "To give cause for concern"
+    - def: "to be worried about"
+    - def: "to give cause for concern"
   conj: [걱정된다, 걱정돼, 걱정돼요/걱정되어요, 걱정됩니다]
 
 - word: 걱정하다
@@ -4017,8 +4017,8 @@
   romaja: geonneda
   pos: v
   defs:
-    - def: "To hand over or turn over"
-    - def: "To bring over or across"
+    - def: "to hand over or turn over"
+    - def: "to bring over or across"
   conj: [건넨다, 건네, 건네요/건네어요, 건넵니다]
 
 - word: 건달
@@ -4037,13 +4037,13 @@
   romaja: geondeurida
   pos: v
   defs:
-    - def: "To touch"
+    - def: "to touch"
       examples:
         - example: "우리 집고양이를 건들지 마세요."
           transliteration: "Uri jipgoyang-ireul geondeulji maseyo."
           translation: "Don't touch my (our) house cat, please."
-    - def: "To meddle with or interfere in"
-    - def: "To seduce (a woman)"
+    - def: "to meddle with or interfere in"
+    - def: "to seduce (a woman)"
   conj: [건드린다, 건드려, 건드려요/건드리어요, 건드립니다]
 
 - word: 건망증
@@ -4277,15 +4277,15 @@
   romaja: georeogada
   pos: v
   defs:
-    - def: "To walk, to go on foot."
+    - def: "to walk, to go on foot."
   conj: [걸어간다, 걸어가, 걸어가요, 걸어갑니다]
 
 - word: 걸음
   romaja: georeum
   pos: n
   defs:
-    - def: "A step or steps."
-    - def: "Going by or past somewhere."
+    - def: "a step or steps"
+    - def: "going by or past somewhere"
 
 - word: 걸음걸이
   romaja: georeumgeori
@@ -4341,8 +4341,8 @@
   romaja: geolpitgeolpit
   pos: adv
   defs:
-    - def: "The appearance of many things progressing rapidly together. in full swing"
-    - def: "The appearance of something coming to mind suddenly and frequently."
+    - def: "the appearance of many things progressing rapidly together; in full swing"
+    - def: "the appearance of something coming to mind suddenly and frequently"
 
 - word: 검
   romaja: geom
@@ -4482,7 +4482,7 @@
   romaja: geomjeongsaek
   pos: n
   defs:
-    - def: "The color black."
+    - def: "the color black"
 
 - word: 검증
   romaja: geomjeung
@@ -4568,7 +4568,7 @@
   romaja: geot
   pos: n
   defs:
-    - def: "A thing; an object, one (impersonal pronoun)"
+    - def: "a thing; an object, one (impersonal pronoun)"
       examples:
         - example: "비싼 것"
           transliteration: "bissan geot"
@@ -4595,7 +4595,7 @@
   romaja: geot
   pos: n
   defs:
-    - def: "A thing; an object, one (impersonal pronoun)"
+    - def: "a thing; an object, one (impersonal pronoun)"
       examples:
         - example: "비싼 것"
           transliteration: "bissan geot"
@@ -4763,7 +4763,7 @@
   romaja: ge-uda
   pos: v
   defs:
-    - def: "To disgorge, discharge, regurgitate, spew, throw up, vomit"
+    - def: "to disgorge, discharge, regurgitate, spew, throw up, vomit"
   conj: [게운다, 게워, 게워요, 게웁니다]
 
 - word: 게으르다
@@ -5059,8 +5059,8 @@
         - example: "그 연구의 결과들은 그 주제에 관한 선행 조사들을 확증한다."
           transliteration: "Geu yeon-guui gyeolgwadeureun geu jujee gwanhan seonhaeng josadeureul hwakjeunghanda."
           translation: "The results of the study confirm previous research on the topic."
-        - example: "그것이 촬영한 영상들은 극단적인 상실이라는 결과를 말해주는 데 도움이 된다. 즉,  1957년 이래로 얼음의 25퍼센트와 빙하 19개 중 4개가 사라졌다."
-          transliteration: "Geugeosi chwaryeonghan yeongsangdeureun geukdanjeogin sangsiriraneun gyeolgwareul malhaejuneun de doumi doenda. Jeuk,  1957nyeon iraero eoreumui 25peosenteuwa bingha 19gae jung 4gaega sarajyeotda."
+        - example: "그것이 촬영한 영상들은 극단적인 상실이라는 결과를 말해주는 데 도움이 된다. 즉, 1957년 이래로 얼음의 25퍼센트와 빙하 19개 중 4개가 사라졌다."
+          transliteration: "Geugeosi chwaryeonghan yeongsangdeureun geukdanjeogin sangsiriraneun gyeolgwareul malhaejuneun de doumi doenda. Jeuk, 1957nyeon iraero eoreumui 25peosenteuwa bingha 19gae jung 4gaega sarajyeotda."
           translation: "The images it captured help tell a story of extreme loss: 25 percent of its ice and four of its 19 glaciers have disappeared since 1957."
     - def: "bearing fruit"
 
@@ -5124,7 +5124,7 @@
   romaja: gyeoljang
   pos: n
   defs:
-    - def: "The colon"
+    - def: "the colon"
 
 - word: 결점
   romaja: gyeoljeom
@@ -5148,14 +5148,14 @@
   romaja: gyeoljeongdoeda
   pos: v
   defs:
-    - def: "To be decided; to be arrived at as a decision."
+    - def: "to be decided; to be arrived at as a decision"
   conj: [결정된다, 결정돼, 결정돼요/결정되어요, 결정됩니다]
 
 - word: 결정되다
   romaja: gyeoljeongdoeda
   pos: v
   defs:
-    - def: "To crystallize; to be crystallized."
+    - def: "to crystallize; to be crystallized"
   conj: [결정된다, 결정돼, 결정돼요/결정되어요, 결정됩니다]
 
 - word: 결정수
@@ -5381,7 +5381,7 @@
   romaja: gyeongmyeoljeok
   pos: det
   defs:
-    - def: "Scornful."
+    - def: "scornful"
 
 - word: 경보기
   romaja: gyeongbogi
@@ -5618,7 +5618,7 @@
   romaja: gyeot
   pos: n
   defs:
-    - def: "The vicinity or side of something."
+    - def: "the vicinity or side of something"
 
 - word: 곁사슬
   romaja: gyeotsaseul
@@ -5759,7 +5759,7 @@
   romaja: gyesokhada
   pos: v
   defs:
-    - def: "To continue or be continuous, without interruption."
+    - def: "to continue or be continuous, without interruption"
   conj: [계속한다, 계속해, 계속해요, 계속합니다]
 
 - word: 계수
@@ -6013,7 +6013,7 @@
   romaja: gogitteok
   pos: n
   defs:
-    - def: "A side dish prepared from a fish which has been gutted, split, coated with flour and seasonings, and fried or roasted."
+    - def: "a side dish prepared from a fish which has been gutted, split, coated with flour and seasonings, and fried or roasted"
 
 - word: 고난
   romaja: gonan
@@ -6032,7 +6032,7 @@
   pos: n
   defs:
     - def: "The tundra swan, Cygnus columbianus."
-    - def: "Any swan."
+    - def: "any swan"
 
 - word: 고대
   romaja: godae
@@ -6051,13 +6051,13 @@
   pos: n
   defs:
     - def: "loneliness"
-    - def: "A childless old person."
+    - def: "a childless old person"
 
 - word: 고독하다
   romaja: godokhada
   pos: a
   defs:
-    - def: "To be lonely or isolated."
+    - def: "to be lonely or isolated"
   conj: [고독하다, 고독해, 고독해요, 고독합니다]
 
 - word: 고드름
@@ -6123,13 +6123,13 @@
   romaja: goryeomal
   pos: n
   defs:
-    - def: "Koryo-mar, the Korean dialect spoken in Russia and Central Asia."
+    - def: "Koryo-mar, the Korean dialect spoken in Russia and Central Asia"
 
 - word: 고려하다
   romaja: goryeohada
   pos: v
   defs:
-    - def: "To consider or reflect on something."
+    - def: "to consider or reflect on something"
       examples:
         - example: "그는 파리를 떠날 것을 고려하고 있다."
           transliteration: "Geuneun parireul tteonal geoseul goryeohago itda."
@@ -6200,7 +6200,7 @@
 - word: 고리무늬물범
   pos: n
   defs:
-    - def: "The ringed seal."
+    - def: "the ringed seal"
 
 - word: 고리짝
   pos: n
@@ -6301,7 +6301,7 @@
   romaja: gobayasibakjwi
   pos: n
   defs:
-    - def: "The Kobayashi's bat (Eptesicus koyabashii)."
+    - def: "The Kobayashi's bat (Eptesicus koyabashii)"
 
 - word: 고발
   romaja: gobal
@@ -6313,7 +6313,7 @@
   romaja: gobang-ori
   pos: n
   defs:
-    - def: "The Northern pintail, Anas acuta."
+    - def: "The Northern pintail, Anas acuta"
 
 - word: 고백
   romaja: gobaek
@@ -6406,7 +6406,7 @@
   romaja: goseumdochi
   pos: n
   defs:
-    - def: "hedgehog, particularly the Amur hedgehog, Erinaceus amurensis."
+    - def: "hedgehog, particularly the Amur hedgehog, Erinaceus amurensis"
 
 - word: 고시
   romaja: gosi
@@ -6464,7 +6464,7 @@
   romaja: goyohada
   pos: a
   defs:
-    - def: "To be still; tranquil."
+    - def: "to be still; tranquil"
   conj: [고요하다, 고요해, 고요해요, 고요합니다]
 
 - word: 고유
@@ -6511,7 +6511,7 @@
 - word: 고인돌
   pos: n
   defs:
-    - def: "A dolmen, a prehistoric megalith having a capstone supported by two or more upright stones."
+    - def: "a dolmen, a prehistoric megalith having a capstone supported by two or more upright stones"
 
 - word: 고작
   romaja: gojak
@@ -6529,8 +6529,8 @@
   romaja: gojang
   pos: n
   defs:
-    - def: "A populated district; a town."
-    - def: "A center of production for a particular commodity."
+    - def: "a populated district; a town"
+    - def: "a center of production for a particular commodity"
 
 - word: 고전
   romaja: gojeon
@@ -6566,8 +6566,8 @@
   romaja: gojodoeda
   pos: v
   defs:
-    - def: "To tone up; be raised"
-    - def: "To be elated; be enhanced"
+    - def: "to tone up; be raised"
+    - def: "to be elated; be enhanced"
       examples:
         - example: "그것은 기후 변화의 효과로 인해 고조되었다고 그녀는 덧붙였다."
           transliteration: "Geugeoseun gihu byeonhwaui hyogwaro inhae gojodoeeotdago geunyeoneun deotbutyeotda."
@@ -6584,7 +6584,7 @@
   romaja: gojilbyeong
   pos: n
   defs:
-    - def: "A chronic disease, a disease that is not easily healed."
+    - def: "a chronic disease, a disease that is not easily healed"
       examples:
         - example: "우울증이 내 고질병이야."
           transliteration: "Uuljeung-i nae gojilbyeong-iya."
@@ -6600,13 +6600,13 @@
   romaja: gojipbultong
   pos: n
   defs:
-    - def: "Implacable stubbornness; mulishness"
+    - def: "implacable stubbornness; mulishness"
 
 - word: 고집스럽다
   romaja: gojipseureopda
   pos: a
   defs:
-    - def: "To be stubborn"
+    - def: "to be stubborn"
   conj: [고집스럽다, 고집스러워, 고집스러워요, 고집스럽습니다]
 
 - word: 고집하다
@@ -6626,13 +6626,13 @@
   romaja: gochu
   pos: n
   defs:
-    - def: "The chili pepper, often specifically the Korean chili pepper, a variety of Capsicum annuum."
+    - def: "the chili pepper, often specifically the Korean chili pepper, a variety of Capsicum annuum"
     - def: "willy, wee-wee, penis"
 
 - word: 고추돌고래
   pos: n
   defs:
-    - def: "The northern right whale dolphin, Lissodelphis borealis."
+    - def: "the northern right whale dolphin, Lissodelphis borealis"
 
 - word: 고추자지
   romaja: gochujaji
@@ -6682,7 +6682,7 @@
   romaja: gopeuda
   pos: a
   defs:
-    - def: "To be hungry, empty, starved"
+    - def: "to be hungry, empty, starved"
   conj: [고프다, 고파, 고파요, 고픕니다]
 
 - word: 고해
@@ -6722,7 +6722,7 @@
   romaja: gongmul
   pos: n
   defs:
-    - def: "corn, cereals, grain."
+    - def: "corn, cereals, grain"
 
 - word: 곡식
   romaja: goksik
@@ -6734,7 +6734,7 @@
   romaja: gogyesa
   pos: n
   defs:
-    - def: "acrobat."
+    - def: "acrobat"
 
 - word: 곡조
   romaja: gokjo
@@ -6768,7 +6768,7 @@
   romaja: gondeulmaegi
   pos: n
   defs:
-    - def: "The malma trout, Salvelinus malma."
+    - def: "The malma trout, Salvelinus malma"
 
 - word: 곤란
   romaja: gollan
@@ -6835,8 +6835,8 @@
   romaja: gotda
   pos: a
   defs:
-    - def: "To be straight"
-    - def: "To be upright and virtuous"
+    - def: "to be straight"
+    - def: "to be upright and virtuous"
   conj: [곧다, 곧아, 곧아요, 곧습니다]
 
 - word: 곧바로
@@ -6850,7 +6850,7 @@
   romaja: godeunchangja
   pos: n
   defs:
-    - def: "The rectum"
+    - def: "the rectum"
 
 - word: 곧장
   romaja: gotjang
@@ -6959,8 +6959,8 @@
   romaja: gomda
   pos: v
   defs:
-    - def: "To fester"
-    - def: "To come to a head"
+    - def: "to fester"
+    - def: "to come to a head"
   conj: [곪는다, 곪아, 곪아요, 곪습니다]
 
 - word: 곰
@@ -6974,7 +6974,7 @@
   romaja: gomguk
   pos: n
   defs:
-    - def: "A thick meat soup, with beef usually the main ingredient."
+    - def: "a thick meat soup, with beef usually the main ingredient"
 
 - word: 곰쥐
   romaja: gomjwi
@@ -7006,7 +7006,7 @@
   romaja: gopsayeoneo
   pos: n
   defs:
-    - def: "The Sakhalin salmon, Onchorhynchus gorbuscha."
+    - def: "The Sakhalin salmon, Onchorhynchus gorbuscha"
 
 - word: 곱셈
   romaja: gopsem
@@ -7071,22 +7071,22 @@
   romaja: gonggalchida
   pos: v
   defs:
-    - def: "To threaten"
+    - def: "to threaten"
   conj: [공갈친다, 공갈쳐, 공갈쳐요/공갈치어요, 공갈칩니다]
 
 - word: 공갈하다
   romaja: gonggalhada
   pos: v
   defs:
-    - def: "To threaten"
-    - def: "To blackmail or extort"
+    - def: "to threaten"
+    - def: "to blackmail or extort"
   conj: [공갈한다, 공갈해, 공갈해요, 공갈합니다]
 
 - word: 공개
   romaja: gonggae
   pos: n
   defs:
-    - def: "Opening to the public."
+    - def: "opening to the public"
     - def: "announcement; disclosure"
     - def: "laying open"
 
@@ -7111,7 +7111,7 @@
     - def: "offensive war"
       examples:
         - example: "《공격전이다》"
-          transliteration: "《 Gonggyeokjeonida》"
+          transliteration: "《Gonggyeokjeonida》"
           translation: "\"It's War\" "
 
 - word: 공공
@@ -7158,7 +7158,7 @@
   romaja: gonggi
   pos: n
   defs:
-    - def: "Gonggi, a Korean children's game similar to jacks."
+    - def: "Gonggi, a Korean children's game similar to jacks"
 
 - word: 공동
   romaja: gongdong
@@ -7201,7 +7201,7 @@
   romaja: gongmuwon
   pos: n
   defs:
-    - def: "A public official."
+    - def: "a public official"
 
 - word: 공민
   romaja: gongmin
@@ -7229,7 +7229,7 @@
 - word: 공부
   pos: propn
   defs:
-    - def: "The imperial Chinese Ministry of Works from the Tang to Qing dynasties"
+    - def: "the imperial Chinese Ministry of Works from the Tang to Qing dynasties"
     - def: "the Korean ministry of Works of Goryeo Kingdom"
 
 - word: 공부자
@@ -7261,13 +7261,13 @@
   romaja: gongsa
   pos: n
   defs:
-    - def: "A government-run corporation."
+    - def: "a government-run corporation"
 
 - word: 공사
   romaja: gongsa
   pos: n
   defs:
-    - def: "Public and private."
+    - def: "public and private"
 
 - word: 공산주의
   romaja: gongsanjuui
@@ -7351,20 +7351,20 @@
   romaja: gong-eon
   pos: n
   defs:
-    - def: "A public oath or declaration"
+    - def: "a public oath or declaration"
 
 - word: 공언하다
   romaja: gong-eonhada
   pos: v
   defs:
-    - def: "To prattle, to spew meaningless words"
+    - def: "to prattle, to spew meaningless words"
   conj: [공언한다, 공언해, 공언해요, 공언합니다]
 
 - word: 공언하다
   romaja: gong-eonhada
   pos: v
   defs:
-    - def: "To swear or declare in public or in front of witnesses."
+    - def: "to swear or declare in public or in front of witnesses."
   conj: [공언한다, 공언해, 공언해요, 공언합니다]
 
 - word: 공업
@@ -7461,8 +7461,8 @@
   romaja: gongjeong
   pos: n
   defs:
-    - def: "official stipulation."
-    - def: "stipulation by general agreement."
+    - def: "official stipulation"
+    - def: "stipulation by general agreement"
 
 - word: 공정하다
   romaja: gongjeonghada
@@ -7839,12 +7839,12 @@
 - word: 곽
   pos: n
   defs:
-    - def: ": The outer part of a coffin."
+    - def: "the outer part of a coffin"
 
 - word: 곽
   pos: propn
   defs:
-    - def: "A common surname​, Kwak."
+    - def: "a common surname​, Kwak"
 
 - word: 곽밥
   romaja: gwakbap
@@ -7954,7 +7954,7 @@
 - word: 관람차
   pos: n
   defs:
-    - def: "Ferris wheel"
+    - def: "ferris wheel"
 
 - word: 관련
   romaja: gwallyeon
@@ -7966,14 +7966,14 @@
   romaja: gwallyeondoeda
   pos: v
   defs:
-    - def: "To have a connection; to be connected."
+    - def: "to have a connection; to be connected"
   conj: [관련된다, 관련돼, 관련돼요/관련되어요, 관련됩니다]
 
 - word: 관련하다
   romaja: gwallyeonhada
   pos: v
   defs:
-    - def: "To be connected or related; to be in a relationship."
+    - def: "to be connected or related; to be in a relationship"
   conj: [관련한다, 관련해, 관련해요, 관련합니다]
 
 - word: 관료제
@@ -8644,7 +8644,7 @@
   romaja: gyomihada
   pos: v
   defs:
-    - def: "To mate; to copulate"
+    - def: "to mate; to copulate"
   conj: [교미한다, 교미해, 교미해요, 교미합니다]
 
 - word: 교복
@@ -8850,7 +8850,7 @@
   romaja: gyohwalhada
   pos: a
   defs:
-    - def: "To be crafty; sly"
+    - def: "to be crafty; sly"
   conj: [교활하다, 교활해, 교활해요, 교활합니다]
 
 - word: 교황
@@ -9017,7 +9017,7 @@
   romaja: gunihada
   pos: v
   defs:
-    - def: "To be absorbed in or obsessed by something."
+    - def: "to be absorbed in or obsessed by something"
   conj: [구니한다, 구니해, 구니해요, 구니합니다]
 
 - word: 구더기
@@ -9110,7 +9110,7 @@
       examples:
         - example: "구름 개다"
           transliteration: "gureum gaeda"
-          translation: " to be cleared"
+          translation: "to be cleared"
         - example: "구름 끼다"
           transliteration: "gureum kkida"
           translation: "to be clouded"
@@ -9126,8 +9126,8 @@
   romaja: gureumdari
   pos: n
   defs:
-    - def: "A skywalk."
-    - def: "A pedestrian overpass."
+    - def: "a skywalk."
+    - def: "a pedestrian overpass"
 
 - word: 구리
   pos: n
@@ -9152,7 +9152,7 @@
   romaja: gurinnae
   pos: n
   defs:
-    - def: "A disgusting smell."
+    - def: "a disgusting smell"
 
 - word: 구마
   romaja: guma
@@ -9176,7 +9176,7 @@
   romaja: gumaehada
   pos: v
   defs:
-    - def: "To purchase."
+    - def: "to purchase"
   conj: [구매한다, 구매해, 구매해요, 구매합니다]
 
 - word: 구멍
@@ -9211,13 +9211,13 @@
   romaja: gubyeol
   pos: n
   defs:
-    - def: "A distinction; a differentiation"
+    - def: "a distinction; a differentiation"
 
 - word: 구별되다
   romaja: gubyeoldoeda
   pos: v
   defs:
-    - def: "To be differentiated or distinguished."
+    - def: "to be differentiated or distinguished"
   conj: [구별된다, 구별돼, 구별돼요/구별되어요, 구별됩니다]
 
 - word: 구별하다
@@ -9242,7 +9242,7 @@
   romaja: guburida
   pos: v
   defs:
-    - def: "To bend or curve"
+    - def: "to bend or curve"
   conj: [구부린다, 구부려, 구부려요/구부리어요, 구부립니다]
 
 - word: 구분
@@ -9261,7 +9261,7 @@
   romaja: gubunhada
   pos: v
   defs:
-    - def: "To classify."
+    - def: "to classify"
   conj: [구분한다, 구분해, 구분해요, 구분합니다]
 
 - word: 구상
@@ -9306,12 +9306,12 @@
   romaja: guseongdoeda
   pos: v
   defs:
-    - def: "To be configured or shaped."
+    - def: "to be configured or shaped"
       examples:
         - example: "물은 수소와 산소로 구성되어 있다."
           transliteration: "Mureun susowa sansoro guseongdoeeo itda."
           translation: "Water is composed of hydrogen and oxygen."
-    - def: "To be plotted."
+    - def: "to be plotted"
   conj: [구성된다, 구성돼, 구성돼요/구성되어요, 구성됩니다]
 
 - word: 구성원
@@ -9324,9 +9324,9 @@
   romaja: guseonghada
   pos: v
   defs:
-    - def: "To constitute."
-    - def: "To configure."
-    - def: "To construct a plot."
+    - def: "to constitute"
+    - def: "to configure"
+    - def: "to construct a plot"
   conj: [구성한다, 구성해, 구성해요, 구성합니다]
 
 - word: 구속
@@ -9461,7 +9461,7 @@
   romaja: gujeol
   pos: n
   defs:
-    - def: "A paragraph."
+    - def: "a paragraph"
 
 - word: 구조
   romaja: gujo
@@ -9660,7 +9660,7 @@
   romaja: guksi
   pos: n
   defs:
-    - def: "A national ideal or principle."
+    - def: "a national ideal or principle"
 
 - word: 국시
   romaja: guksi
@@ -9770,7 +9770,7 @@
   romaja: gukhoe
   pos: n
   defs:
-    - def: "A national parliament or assembly."
+    - def: "a national parliament or assembly"
 
 - word: 국회의원
   romaja: gukhoe-uiwon
@@ -9880,14 +9880,14 @@
   romaja: gunsa
   pos: n
   defs:
-    - def: "A soldier or soldiers."
-    - def: "Specifically, a soldier of NCO or lower rank."
+    - def: "a soldier or soldiers"
+    - def: "specifically, a soldier of NCO or lower rank"
 
 - word: 군사
   romaja: gunsa
   pos: n
   defs:
-    - def: "Military affairs."
+    - def: "military affairs"
       examples:
         - example: "군사 훈련은 힘들었지만, 난 이겨냈다."
           transliteration: "Gunsa hullyeoneun himdeureotjiman, nan igyeonaetda."
@@ -9970,8 +9970,8 @@
   romaja: gunhamjo
   pos: n
   defs:
-    - def: "The lesser frigatebird, Fregata ariel."
-    - def: "Any frigatebird."
+    - def: "the lesser frigatebird, Fregata ariel"
+    - def: "any frigatebird"
 
 - word: 굳
   romaja: gut
@@ -10041,7 +10041,7 @@
   romaja: gullida
   pos: v
   defs:
-    - def: "To cause (something round) to roll, turn (over and over again)"
+    - def: "to cause (something round) to roll, turn (over and over again)"
   conj: [굴린다, 굴려, 굴려요/굴리어요, 굴립니다]
 
 - word: 굴묵낭
@@ -10053,7 +10053,7 @@
 - word: 굴비
   pos: n
   defs:
-    - def: "A type of dried and salted fish (Larimichthys polyactis) in Korea."
+    - def: "a type of dried and salted fish (Larimichthys polyactis) in Korea"
 
 - word: 굴착기
   romaja: gulchakgi
@@ -10139,15 +10139,15 @@
   romaja: gupda
   pos: a
   defs:
-    - def: "To be bent, curved, crooked, humped, hunched"
+    - def: "to be bent, curved, crooked, humped, hunched"
   conj: [굽다, 굽어, 굽어요, 굽습니다]
 
 - word: 굽다
   romaja: gupda
   pos: v
   defs:
-    - def: "To bake, broil, roast (by laying something on the fire)"
-    - def: "To mount one 말 (mal, “horse/token”) on another so that they can go together, hence multiply faster, on the 윷 (yut, “Yut”) board."
+    - def: "to bake, broil, roast (by laying something on the fire)"
+    - def: "to mount one 말 (mal, “horse/token”) on another so that they can go together, hence multiply faster, on the 윷 (yut, “Yut”) board"
   conj: [굽다, 굽어, 굽어요, 굽습니다]
 
 - word: 굽이
@@ -10166,8 +10166,8 @@
   romaja: guphida
   pos: v
   defs:
-    - def: "To bend or curve something."
-    - def: "To vacillate or concede."
+    - def: "to bend or curve something"
+    - def: "to vacillate or concede"
   conj: [굽힌다, 굽혀, 굽혀요/굽히어요, 굽힙니다]
 
 - word: 굿
@@ -10206,8 +10206,8 @@
   romaja: gunggeumhada
   pos: a
   defs:
-    - def: "To be curious"
-    - def: "To be ravenous."
+    - def: "to be curious"
+    - def: "to be ravenous"
   conj: [궁금하다, 궁금해, 궁금해요, 궁금합니다]
 
 - word: 궁둥이
@@ -10364,7 +10364,7 @@
   romaja: gwigumeong
   pos: n
   defs:
-    - def: "The auditory canal, or by extension the ear"
+    - def: "the auditory canal, or by extension the ear"
 
 - word: 귀국
   romaja: gwiguk
@@ -10406,13 +10406,13 @@
   romaja: gwimit
   pos: n
   defs:
-    - def: "The root or base of the ear."
+    - def: "the root or base of the ear"
 
 - word: 귀밑털
   romaja: gwimitteol
   pos: n
   defs:
-    - def: "The hair under the ears; sideburns."
+    - def: "the hair under the ears; sideburns"
 
 - word: 귀뿔논병아리
   romaja: gwippullonbyeong-ari
@@ -10435,7 +10435,7 @@
   romaja: gwissadaegi
   pos: n
   defs:
-    - def: "A slap upside the head, i.e. on the cheek and/or ear."
+    - def: "a slap upside the head, i.e. on the cheek and/or ear"
 
 - word: 귀엣말
   romaja: gwienmal
@@ -10502,7 +10502,7 @@
   romaja: gwichaeksayu
   pos: n
   defs:
-    - def: "grounds to consider someone at fault; in South Korea, frequently a prerequisite for civil liability."
+    - def: "grounds to consider someone at fault; in South Korea, frequently a prerequisite for civil liability"
 
 - word: 귀하다
   romaja: gwihada
@@ -10568,8 +10568,8 @@
   romaja: gyujeong
   pos: n
   defs:
-    - def: "A provision or rule."
-    - def: "The definition or specification of something, especially in a law or regulation."
+    - def: "a provision or rule"
+    - def: "the definition or specification of something, especially in a law or regulation"
 
 - word: 규칙
   romaja: gyuchik
@@ -10596,14 +10596,14 @@
 - word: 균
   pos: n
   defs:
-    - def: "均:  An ancient Chinese musical term indicating which of the twelve pitches of the Chinese chromatic scale would be the starting pitch"
+    - def: "均: An ancient Chinese musical term indicating which of the twelve pitches of the Chinese chromatic scale would be the starting pitch"
       examples:
         - example: "태주균"
           transliteration: "taeju-gyun"
           translation: "starting from the da cu pitch"
     - def: "囷: A container for storing grain"
     - def: "菌: microbe, germ"
-    - def: "菌:  bacteria"
+    - def: "菌: bacteria"
 
 - word: 균계
   romaja: gyun-gye
@@ -10681,7 +10681,7 @@
   romaja: geukkeuje
   pos: n
   defs:
-    - def: "Two days before yesterday; three days ago"
+    - def: "two days before yesterday; three days ago"
 
 - word: 그나마
   romaja: geunama
@@ -10699,7 +10699,7 @@
   romaja: geunyang
   pos: adv
   defs:
-    - def: "simply; just like that; just as it is."
+    - def: "simply; just like that; just as it is"
     - def: "for no particular reason"
 
 - word: 그네
@@ -10912,7 +10912,7 @@
   romaja: geureomeuro
   pos: adv
   defs:
-    - def: "Accordingly, consequently."
+    - def: "accordingly, consequently"
 
 - word: 그러하다
   romaja: geureohada
@@ -11140,7 +11140,7 @@
   romaja: Geuriseueo
   pos: n
   defs:
-    - def: "The Greek language."
+    - def: "The Greek language"
 
 - word: 그리움
   romaja: geurium
@@ -11234,7 +11234,7 @@
   romaja: geuman
   pos: adv
   defs:
-    - def: "this much only; no more. often used in imperatives."
+    - def: "this much only; no more. often used in imperatives"
       examples:
         - example: "그만 먹어!"
           transliteration: "Geuman meogeo!"
@@ -11244,21 +11244,21 @@
   romaja: geumanduda
   pos: v
   defs:
-    - def: "To quit."
-    - def: "To not do something one had been going to do."
+    - def: "to quit"
+    - def: "to not do something one had been going to do"
   conj: [그만둔다, 그만두어, 그만두어요/그만둬요, 그만둡니다]
 
 - word: 그만큼
   romaja: geumankeum
   pos: adv
   defs:
-    - def: "To that extent"
+    - def: "to that extent"
 
 - word: 그만큼
   romaja: geumankeum
   pos: n
   defs:
-    - def: "That extent; that amount"
+    - def: "that extent; that amount"
 
 - word: 그물
   romaja: geumul
@@ -11274,7 +11274,7 @@
   romaja: geumeum
   pos: n
   defs:
-    - def: "Clipping of 그믐날 (geumeumnal, “last day of the month”)."
+    - def: "Clipping of 그믐날 (geumeumnal, “last day of the month”)"
 
 - word: 그믐날
   romaja: geumeumnal
@@ -11346,8 +11346,8 @@
   romaja: geuchida
   pos: v
   defs:
-    - def: "To stop something."
-    - def: "To come to a stop."
+    - def: "to stop something"
+    - def: "to come to a stop"
   conj: [그친다, 그쳐, 그쳐요/그치어요, 그칩니다]
 
 - word: 그토록
@@ -11372,7 +11372,7 @@
   romaja: geukbokhada
   pos: v
   defs:
-    - def: "To overcome; to prevail against adversity."
+    - def: "to overcome; to prevail against adversity"
       examples:
         - example: "위기를 극복하다"
           transliteration: "wigireul geukbokhada"
@@ -11481,13 +11481,13 @@
   romaja: geunbonjeok
   pos: n
   defs:
-    - def: "Something basic or fundamental."
+    - def: "something basic or fundamental"
 
 - word: 근본적
   romaja: geunbonjeok
   pos: det
   defs:
-    - def: "Basic or fundamental."
+    - def: "basic or fundamental"
 
 - word: 근삿값
   romaja: geunsatgap
@@ -11658,7 +11658,7 @@
   romaja: geulja
   pos: n
   defs:
-    - def: "A letter or character of a writing system."
+    - def: "a letter or character of a writing system"
 
 - word: 글피
   romaja: geulpi
@@ -11699,7 +11699,7 @@
   romaja: geumgangmochi
   pos: n
   defs:
-    - def: "The Kumgang fat minnow, Phoxinus kumgangensis."
+    - def: "the Kumgang fat minnow, Phoxinus kumgangensis"
 
 - word: 금개구리
   romaja: geumgaeguri
@@ -12133,7 +12133,7 @@
   romaja: gidaedoeda
   pos: v
   defs:
-    - def: "To be expected"
+    - def: "to be expected"
       examples:
         - example: "잘 될 것으로 기대된다."
           transliteration: "jal doel geos-euro gidaedoenda."
@@ -12198,7 +12198,7 @@
   romaja: gittongchada
   pos: a
   defs:
-    - def: "To be stunning, astounding"
+    - def: "to be stunning, astounding"
   conj: [기똥차다, 기똥차, 기똥차요, 기똥찹니다]
 
 - word: 기라성
@@ -12212,7 +12212,7 @@
   romaja: gireogi
   pos: n
   defs:
-    - def: "wild goose that flies in a V-shaped flock or wedge."
+    - def: "wild goose that flies in a V-shaped flock or wedge"
 
 - word: 기록
   romaja: girok
@@ -12224,8 +12224,8 @@
   romaja: girokhada
   pos: v
   defs:
-    - def: "To record in a document."
-    - def: "To break a record."
+    - def: "to record in a document"
+    - def: "to break a record"
   conj: [기록한다, 기록해, 기록해요, 기록합니다]
 
 - word: 기르다
@@ -12258,7 +12258,7 @@
   romaja: gireumjonggae
   pos: n
   defs:
-    - def: "The spine loach, Cobitis sinensis."
+    - def: "The spine loach, Cobitis sinensis"
 
 - word: 기린
   romaja: girin
@@ -12283,14 +12283,14 @@
   romaja: gimandoeda
   pos: v
   defs:
-    - def: "To be deceived"
+    - def: "to be deceived"
   conj: [기만된다, 기만돼, 기만돼요/기만되어요, 기만됩니다]
 
 - word: 기만하다
   romaja: gimanhada
   pos: v
   defs:
-    - def: "To deceive."
+    - def: "to deceive"
   conj: [기만한다, 기만해, 기만해요, 기만합니다]
 
 - word: 기망
@@ -12351,7 +12351,7 @@
   romaja: gibonjeok
   pos: n
   defs:
-    - def: "Something which is basic."
+    - def: "something which is basic"
 
 - word: 기부
   romaja: gibu
@@ -12373,7 +12373,7 @@
   romaja: gippeohada
   pos: v
   defs:
-    - def: "To be happy about something; to appreciate"
+    - def: "to be happy about something; to appreciate"
   conj: [기뻐한다, 기뻐해, 기뻐해요, 기뻐합니다]
 
 - word: 기쁘다
@@ -12471,7 +12471,7 @@
     - def: "dormitory, dorm, hall of residence"
       examples:
         - example: "기숙사가 어디입니까?"
-          transliteration: " Gisuksaga eodiimnikka?"
+          transliteration: "Gisuksaga eodiimnikka?"
           translation: "Where is the dormitory?"
 
 - word: 기술
@@ -12620,8 +12620,8 @@
   romaja: giulda
   pos: v
   defs:
-    - def: "To tilt."
-    - def: "To set."
+    - def: "to tilt"
+    - def: "to set"
   conj: [기운다, 기울어, 기울어요, 기웁니다]
 
 - word: 기울이다
@@ -12896,7 +12896,7 @@
   romaja: gilgeori
   pos: n
   defs:
-    - def: "A thoroughfare; a busy street"
+    - def: "a thoroughfare; a busy street"
 
 - word: 길냥이
   romaja: gillyang-i
@@ -13013,7 +13013,7 @@
   romaja: gimchijjigae
   pos: n
   defs:
-    - def: "A sort of Korean stew made of kimchi and pork."
+    - def: "a sort of Korean stew made of kimchi and pork"
 
 - word: 김치찌게
   pos: n
@@ -13075,7 +13075,7 @@
   romaja: gipda
   pos: a
   defs:
-    - def: "To be deep"
+    - def: "to be deep"
   conj: [깊다, 깊어, 깊어요, 깊습니다]
 
 - word: 깊이
@@ -13187,8 +13187,8 @@
   romaja: kkabulda
   pos: v
   defs:
-    - def: "To act rashly or impetuously."
-    - def: "To be tossed up and down."
+    - def: "to act rashly or impetuously"
+    - def: "to be tossed up and down"
   conj: [까분다, 까불어, 까불어요, 까붑니다]
 
 - word: 까비
@@ -13205,13 +13205,7 @@
 - word: 까지
   pos: part
   defs:
-    - def: "until, till, by (a time), up to
-Used to illustrate the extent of a finished action or situation.
-
-Used to illustrate to what extent an action will continue.
-
-Used to illustrate the degree or intensity of a situation.
-"
+    - def: "until, till, by (a time), up to"
     - def: "Used to illustrate the extent of a finished action or situation."
     - def: "Used to illustrate to what extent an action will continue."
     - def: "Used to illustrate the degree or intensity of a situation."
@@ -13256,7 +13250,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: kkal
   pos: suf
   defs:
-    - def: "Denotes the nature, state or property of something."
+    - def: "denotes the nature, state or property of something"
 
 - word: 깔개
   romaja: kkalgae
@@ -13437,7 +13431,7 @@ Used to illustrate the degree or intensity of a situation.
 - word: 꺼
   pos: n
   defs:
-    - def: "that of."
+    - def: "that of"
       examples:
         - example: "내 꺼에요."
           translation: "It’s mine."
@@ -13453,13 +13447,8 @@ Used to illustrate the degree or intensity of a situation.
   romaja: kkeojida
   pos: v
   defs:
-    - def: " to be extinguished
- to go out"
     - def: "to be extinguished"
     - def: "to go out"
-    - def: " to be turned off
- to go out, to go off
- to stall"
     - def: "to be turned off"
     - def: "to go out, to go off"
     - def: "to stall"
@@ -13488,26 +13477,26 @@ Used to illustrate the degree or intensity of a situation.
   romaja: kkeokjeogu
   pos: n
   defs:
-    - def: "The floating goby, Gymnogobius urotaenia."
-    - def: "the Japanese aucha perch."
+    - def: "the floating goby, Gymnogobius urotaenia"
+    - def: "the Japanese aucha perch"
 
 - word: 꺽저기
   romaja: kkeokjeogi
   pos: n
   defs:
-    - def: "The Japanese aucha perch, Coreoperca kawamebari."
+    - def: "the Japanese aucha perch, Coreoperca kawamebari"
 
 - word: 꺽정이
   romaja: kkeokjeong-i
   pos: n
   defs:
-    - def: "The rough-skinned sculpin, Trachidermus fasciatus"
+    - def: "the rough-skinned sculpin, Trachidermus fasciatus"
 
 - word: 꺽지
   romaja: kkeokji
   pos: n
   defs:
-    - def: "The Korean aucha perch, Coreoperca herzi."
+    - def: "the Korean aucha perch, Coreoperca herzi"
 
 - word: 꺾다
   romaja: kkeokda
@@ -13680,8 +13669,8 @@ Used to illustrate the degree or intensity of a situation.
   romaja: kkol
   pos: n
   defs:
-    - def: "The shape or appearance of a thing."
-    - def: "The condition or state of someone or something."
+    - def: "the shape or appearance of a thing"
+    - def: "the condition or state of someone or something"
 
 - word: 꼴사납다
   romaja: kkolsanapda
@@ -13790,7 +13779,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: kkwae
   pos: adv
   defs:
-    - def: "To a more than ordinary degree; rather, fairly."
+    - def: "to a more than ordinary degree; rather, fairly"
 
 - word: 꽹과리
   pos: n
@@ -13800,7 +13789,7 @@ Used to illustrate the degree or intensity of a situation.
 - word: 꾀꼬리
   pos: n
   defs:
-    - def: "an oriole, especially, golden oriole, Oriolus oriolus."
+    - def: "an oriole, especially, golden oriole, Oriolus oriolus"
 
 - word: 꾀병
   romaja: kkoebyeong
@@ -14160,7 +14149,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: kkeurida
   pos: v
   defs:
-    - def: "to boil something; to cause something to boil."
+    - def: "to boil something; to cause something to boil"
   conj: [끓인다, 끓여, 끓여요/끓이어요, 끓입니다]
 
 - word: 끔찍하다
@@ -14197,13 +14186,13 @@ Used to illustrate the degree or intensity of a situation.
   romaja: kkeunnaeda
   pos: v
   defs:
-    - def: "To finish something."
+    - def: "to finish something"
   conj: [끝낸다, 끝내, 끝내요/끝내어요, 끝냅니다]
 
 - word: 끼
   pos: n
   defs:
-    - def: "A meal"
+    - def: "a meal"
 
 - word: 끼니
   romaja: kkini
@@ -14490,10 +14479,10 @@ Used to illustrate the degree or intensity of a situation.
   romaja: nada
   pos: v
   defs:
-    - def: "To be born"
-    - def: "To appear, arise, occur, take place"
-    - def: "To break out, come out, turn out"
-    - def: "To grow, spread"
+    - def: "to be born"
+    - def: "to appear, arise, occur, take place"
+    - def: "to break out, come out, turn out"
+    - def: "to grow, spread"
   conj: [난다, 나, 나요, 납니다]
 
 - word: 나도
@@ -14928,7 +14917,7 @@ Used to illustrate the degree or intensity of a situation.
   pos: n
   defs:
     - def: "half day; half a day"
-    - def: "A certain time or period in a day."
+    - def: "a certain time or period in a day"
 
 - word: 나중
   romaja: najung
@@ -14937,7 +14926,7 @@ Used to illustrate the degree or intensity of a situation.
     - def: "the future; a later time"
       examples:
         - example: "나중에 제가 드릴게요."
-          transliteration: " Najung-e jega deurilgeyo."
+          transliteration: "Najung-e jega deurilgeyo."
           translation: "I will give [it to you] at a later time."
         - example: "나중에 또 봐요."
           transliteration: "Najung-e tto bwayo."
@@ -15104,7 +15093,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: nak
   pos: n
   defs:
-    - def: "Initialing terms related to fishing."
+    - def: "initialing terms related to fishing"
 
 - word: 낚시
   romaja: naksi
@@ -15145,7 +15134,7 @@ Used to illustrate the degree or intensity of a situation.
   defs:
     - def: "亂: revolt"
     - def: "欄: column (of a newspaper, etc.)"
-    - def: "難: (In compounds) difficult, difficulty"
+    - def: "難: (in compounds) difficult, difficulty"
 
 - word: 난각
   romaja: nan-gak
@@ -15298,7 +15287,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: nalgae
   pos: n
   defs:
-    - def: "wing (of a bird, aeroplane etc)"
+    - def: "wing (of a bird, aeroplane etc.)"
       examples:
         - example: "잠자리의 날개는 두 짝이다."
           transliteration: "Jamjariui nalgaeneun du jjagida."
@@ -15820,14 +15809,14 @@ Used to illustrate the degree or intensity of a situation.
   romaja: natda
   pos: v
   defs:
-    - def: "to recover from an illness."
+    - def: "to recover from an illness"
   conj: [낫는다, 나아, 나아요, 낫습니다]
 
 - word: 낫다
   romaja: natda
   pos: a
   defs:
-    - def: "to be better (than something)."
+    - def: "to be better (than something)"
   conj: [낫는다, 나아, 나아요, 낫습니다]
 
 - word: 낫돌고래
@@ -15869,7 +15858,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: natda
   pos: a
   defs:
-    - def: "To be low (in height, in value)"
+    - def: "to be low (in height, in value)"
       examples:
         - example: "낮은 울타리"
           transliteration: "najeun ultari"
@@ -16131,9 +16120,9 @@ Used to illustrate the degree or intensity of a situation.
   romaja: naemilda
   pos: v
   defs:
-    - def: "To push or thrust out or forward."
-    - def: "To hand out."
-    - def: "To hand off."
+    - def: "to push or thrust out or forward"
+    - def: "to hand out"
+    - def: "to hand off"
   conj: [내민다, 내밀어, 내밀어요, 내밉니다]
 
 - word: 내보내다
@@ -16147,7 +16136,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: naebu
   pos: n
   defs:
-    - def: "The interior or inside."
+    - def: "the interior or inside"
 
 - word: 내심
   romaja: naesim
@@ -16174,7 +16163,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: naeeum
   pos: n
   defs:
-    - def: "An inoffensive smell, usually referred in literature."
+    - def: "an inoffensive smell, usually referred in literature"
 
 - word: 내일
   romaja: naeil
@@ -16530,18 +16519,18 @@ Used to illustrate the degree or intensity of a situation.
   romaja: neomeogada
   pos: v
   defs:
-    - def: "To collapse or tilt."
-    - def: "To cross over"
-    - def: "To shift or be transferred."
-    - def: "To set."
-    - def: "To fall for (a fraud)."
+    - def: "to collapse or tilt"
+    - def: "to cross over"
+    - def: "to shift or be transferred"
+    - def: "to set"
+    - def: "to fall for (a fraud)"
   conj: [넘어간다, 넘어가, 넘어가요, 넘어갑니다]
 
 - word: 넘어서다
   romaja: neomeoseoda
   pos: v
   defs:
-    - def: "To cross over or pass through."
+    - def: "to cross over or pass through"
   conj: [넘어선다, 넘어서어, 넘어서어요, 넘어섭니다]
 
 - word: 넘어지다
@@ -16855,7 +16844,7 @@ Used to illustrate the degree or intensity of a situation.
   hanja: 盧
   pos: propn
   defs:
-    - def: "A surname."
+    - def: "a surname"
 
 - word: 노
   romaja: "no"
@@ -17466,7 +17455,7 @@ Used to illustrate the degree or intensity of a situation.
   pos: n
   defs:
     - def: "essay"
-    - def: "An academic paper."
+    - def: "an academic paper"
 
 - word: 논병아리
   romaja: nonbyeong-ari
@@ -17580,8 +17569,8 @@ Used to illustrate the degree or intensity of a situation.
   romaja: nori
   pos: n
   defs:
-    - def: "A game."
-    - def: "Play; relaxation and entertainment."
+    - def: "a game"
+    - def: "play; relaxation and entertainment"
       examples:
         - example: "그들은 카드 놀이를 하고 있다."
           transliteration: "Geudeureun kadeu norireul hago itda."
@@ -17697,7 +17686,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: nongsanmul
   pos: n
   defs:
-    - def: "An agricultural product or products."
+    - def: "an agricultural product or products"
 
 - word: 농어
   romaja: nong-eo
@@ -17722,7 +17711,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: nongchon
   pos: n
   defs:
-    - def: "A rural hamlet; a farm town."
+    - def: "a rural hamlet; a farm town"
 
 - word: 높다
   romaja: nopda
@@ -17735,7 +17724,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: nopajida
   pos: v
   defs:
-    - def: "To be heightened or raised; to become higher or more intense."
+    - def: "to be heightened or raised; to become higher or more intense"
   conj: [높아진다, 높아져, 높아져요/높아지어요, 높아집니다]
 
 - word: 높이
@@ -17748,8 +17737,8 @@ Used to illustrate the degree or intensity of a situation.
   romaja: nopida
   pos: v
   defs:
-    - def: "To raise or elevate."
-    - def: "To address respectfully."
+    - def: "to raise or elevate"
+    - def: "to address respectfully"
   conj: [높인다, 높여, 높여요/높이어요, 높입니다]
 
 - word: 놓다
@@ -17768,7 +17757,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: noida
   pos: v
   defs:
-    - def: "To be laid, or put"
+    - def: "to be laid, or put"
   conj: [놓인다, 놓여, 놓여요/놓이어요, 놓입니다]
 
 - word: 놓치다
@@ -17903,7 +17892,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: nunan
   pos: propn
   defs:
-    - def: "A  surname​."
+    - def: "a surname​"
 
 - word: 누님
   romaja: nunim
@@ -17948,8 +17937,8 @@ Used to illustrate the degree or intensity of a situation.
   romaja: nureuda
   pos: v
   defs:
-    - def: "To press"
-    - def: "To oppress, suppress"
+    - def: "to press"
+    - def: "to oppress, suppress"
   conj: [누른다, 눌러, 눌러요, 누릅니다]
 
 - word: 누르다
@@ -18475,9 +18464,9 @@ Used to illustrate the degree or intensity of a situation.
   romaja: neullida
   pos: v
   defs:
-    - def: "To expand something."
-    - def: "To increase something."
-    - def: "To improve something by leaps and bounds."
+    - def: "to expand something"
+    - def: "to increase something"
+    - def: "to improve something by leaps and bounds"
   conj: [늘린다, 늘려, 늘려요/늘리어요, 늘립니다]
 
 - word: 늘어나다
@@ -18606,7 +18595,6 @@ Used to illustrate the degree or intensity of a situation.
 - word: 니
   pos: n
   defs:
-    - def: "a tooth"
     - def: "a tooth"
 
 - word: 니
@@ -18813,7 +18801,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: da
   pos: a
   defs:
-    - def: "To be (something). Used after a vowel."
+    - def: "to be (something). Used after a vowel"
 
 - word: 다
   romaja: da
@@ -18902,7 +18890,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: dagaoda
   pos: v
   defs:
-    - def: "To approach; to draw near."
+    - def: "to approach; to draw near"
   conj: [다가온다, 다가와, 다가와요, 다가옵니다]
 
 - word: 다각형
@@ -19204,8 +19192,8 @@ Used to illustrate the degree or intensity of a situation.
   romaja: daso
   pos: n
   defs:
-    - def: "Large and small amounts."
-    - def: "A small amount or degree."
+    - def: "large and small amounts"
+    - def: "a small amount or degree"
 
 - word: 다수
   romaja: dasu
@@ -19265,8 +19253,7 @@ Used to illustrate the degree or intensity of a situation.
   pos: n
   defs:
     - def: "diamond (uncountable: mineral)"
-    - def: "a diamond (gemstone)
-"
+    - def: "a diamond (gemstone)"
     - def: "diamonds"
 
 - word: 다이어그램
@@ -19308,9 +19295,9 @@ Used to illustrate the degree or intensity of a situation.
   romaja: dajida
   pos: v
   defs:
-    - def: "To crush."
-    - def: "To strengthen or harden."
-    - def: "To mince or chop fine."
+    - def: "to crush"
+    - def: "to strengthen or harden"
+    - def: "to mince or chop fine"
   conj: [다진다, 다져, 다져요/다지어요, 다집니다]
 
 - word: 다짐
@@ -19362,7 +19349,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: dakeuseokeul
   pos: n
   defs:
-    - def: "Circles (dark discoloration and bagginess) around the eyes."
+    - def: "circles (dark discoloration and bagginess) around the eyes"
 
 - word: 다투다
   romaja: datuda
@@ -19381,8 +19368,8 @@ Used to illustrate the degree or intensity of a situation.
   romaja: dahada
   pos: v
   defs:
-    - def: "To complete or finish."
-    - def: "To be finished or used up"
+    - def: "to complete or finish"
+    - def: "to be finished or used up"
   conj: [다한다, 다해, 다해요, 다합니다]
 
 - word: 다행
@@ -19459,7 +19446,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: dandanhada
   pos: a
   defs:
-    - def: "To be hard, solid, firm (resistant to pressure)"
+    - def: "to be hard, solid, firm (resistant to pressure)"
   conj: [단단하다, 단단해, 단단해요, 단단합니다]
 
 - word: 단락
@@ -19520,7 +19507,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: dansunhada
   pos: a
   defs:
-    - def: "To be simple."
+    - def: "to be simple"
   conj: [단순하다, 단순해, 단순해요, 단순합니다]
 
 - word: 단순히
@@ -19954,7 +19941,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: dakgalbi
   pos: n
   defs:
-    - def: "a dish originating from Gangwon province which is made of spiced chicken and a lot of vegetables."
+    - def: "a dish originating from Gangwon province which is made of spiced chicken and a lot of vegetables"
 
 - word: 닭고기
   romaja: dakgogi
@@ -20030,7 +20017,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: damgida
   pos: v
   defs:
-    - def: "To be put in; to go into; to be included in."
+    - def: "to be put in; to go into; to be included in"
   conj: [담긴다, 담겨, 담겨요/담기어요, 담깁니다]
 
 - word: 담다
@@ -20305,14 +20292,14 @@ Used to illustrate the degree or intensity of a situation.
   romaja: dang-yeonhada
   pos: a
   defs:
-    - def: "To be reasonable or natural."
+    - def: "to be reasonable or natural"
   conj: [당연하다, 당연해, 당연해요, 당연합니다]
 
 - word: 당연해
   romaja: dang-yeonhada
   pos: a
   defs:
-    - def: "To be reasonable or natural."
+    - def: "to be reasonable or natural"
   conj: [당연하다, 당연해, 당연해요, 당연합니다]
 
 - word: 당연히
@@ -20501,23 +20488,23 @@ Used to illustrate the degree or intensity of a situation.
   romaja: daeda
   pos: v
   defs:
-    - def: "To arrive at a given time, to make it on time"
-    - def: "To target, to face"
-    - def: "To touch"
-    - def: "To work by using tools or something"
-    - def: "To stop a vehicle"
-    - def: "To provide"
-    - def: "To overlap, to support"
-    - def: "To aim a gun or a hose, etc."
-    - def: "To put money on gambling or a bet, etc."
-    - def: "To look for somebody and introduce him/her"
-    - def: "To irrigate"
-    - def: "To liaise, to enter into a relation"
-    - def: "To have physical contact"
-    - def: "To compare"
-    - def: "To give a reason"
-    - def: "To tell the truth"
-    - def: "To oppose each about"
+    - def: "to arrive at a given time, to make it on time"
+    - def: "to target, to face"
+    - def: "to touch"
+    - def: "to work by using tools or something"
+    - def: "to stop a vehicle"
+    - def: "to provide"
+    - def: "to overlap, to support"
+    - def: "to aim a gun or a hose, etc."
+    - def: "to put money on gambling or a bet, etc."
+    - def: "to look for somebody and introduce him/her"
+    - def: "to irrigate"
+    - def: "to liaise, to enter into a relation"
+    - def: "to have physical contact"
+    - def: "to compare"
+    - def: "to give a reason"
+    - def: "to tell the truth"
+    - def: "to oppose each about"
   conj: [댄다, 대, 대요/대어요, 댑니다]
 
 - word: 대다
@@ -21051,7 +21038,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: daepokjeok
   pos: n
   defs:
-    - def: "Something which is drastic or substantial."
+    - def: "something which is drastic or substantial"
 
 - word: 대표
   romaja: daepyo
@@ -21076,7 +21063,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: daepyojeok
   pos: n
   defs:
-    - def: "Something which is representative; supreme."
+    - def: "something which is representative; supreme"
 
 - word: 대프리카
   romaja: Daepeurika
@@ -21148,7 +21135,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: daehyeong
   pos: n
   defs:
-    - def: "Large; on a large scale."
+    - def: "large; on a large scale"
 
 - word: 대화
   romaja: daehwa
@@ -21179,7 +21166,7 @@ Used to illustrate the degree or intensity of a situation.
   romaja: daek
   pos: pron
   defs:
-    - def: "a respectful term of address for someone of equal or lower status."
+    - def: "a respectful term of address for someone of equal or lower status"
 
 - word: 댄서
   pos: n
@@ -21341,14 +21328,14 @@ Used to illustrate the degree or intensity of a situation.
   romaja: deohada
   pos: a
   defs:
-    - def: "To be more than."
+    - def: "to be more than"
   conj: [더하다, 더해, 더해요, 더합니다]
 
 - word: 더하다
   romaja: deohada
   pos: v
   defs:
-    - def: "To add."
+    - def: "to add"
   conj: [더하다, 더해, 더해요, 더합니다]
 
 - word: 덕
@@ -21574,7 +21561,7 @@ after adjective stems, indicates a state which no longer exists"
   romaja: derida
   pos: v
   defs:
-    - def: "To bring or take along an animal or lower-status person, such as a child."
+    - def: "to bring or take along an animal or lower-status person, such as a child"
 
 - word: 데메테르
   romaja: demetereu
@@ -21762,7 +21749,7 @@ after adjective stems, indicates a state which no longer exists"
 - word: 도다
   pos: suf
   defs:
-    - def: "An intensifying, emphatic/exclamatory ending."
+    - def: "an intensifying, emphatic/exclamatory ending"
 
 - word: 도다리
   romaja: dodari
@@ -21855,7 +21842,7 @@ after adjective stems, indicates a state which no longer exists"
   romaja: domabaem
   pos: n
   defs:
-    - def: "Any lizard."
+    - def: "any lizard"
     - def: "Specifically the Tsushima ground skink, Scincella vandenburghi."
 
 - word: 도망
@@ -21918,8 +21905,8 @@ after adjective stems, indicates a state which no longer exists"
   romaja: dosi
   pos: n
   defs:
-    - def: "city."
-    - def: "A village serving as the cultural or economic center of a region."
+    - def: "city"
+    - def: "village serving as the cultural or economic center of a region"
 
 - word: 도시
   romaja: dosi
@@ -22216,7 +22203,7 @@ after adjective stems, indicates a state which no longer exists"
   romaja: dokteukhada
   pos: a
   defs:
-    - def: "To be unique."
+    - def: "to be unique"
   conj: [독특하다, 독특해, 독특해요, 독특합니다]
 
 - word: 돈
@@ -22653,7 +22640,7 @@ after adjective stems, indicates a state which no longer exists"
   pos: n
   defs:
     - def: "friend, mate, pal, comrade"
-    - def: "comrade (title used by a Communist regime),  friend"
+    - def: "comrade (title used by a Communist regime), friend"
 
 - word: 동물
   romaja: dongmul
@@ -23140,15 +23127,15 @@ after adjective stems, indicates a state which no longer exists"
   romaja: duda
   pos: v
   defs:
-    - def: "To put"
-    - def: "To leave (behind), let there be"
+    - def: "to put"
+    - def: "to leave (behind), let there be"
       examples:
         - example: "당신에게 그것들을 남겨 둘까요?"
           transliteration: "Dangsinege geugeotdeureul namgyeo dulkkayo?"
           translation: "Should I just leave them with you?"
-    - def: "To keep (from), preserve"
-    - def: "To have (in mind)"
-    - def: "To set up"
+    - def: "to keep (from), preserve"
+    - def: "to have (in mind)"
+    - def: "to set up"
   conj: [둔다, 두어, 두어요/둬요, 둡니다]
 
 - word: 두더지
@@ -23379,7 +23366,7 @@ after adjective stems, indicates a state which no longer exists"
   romaja: dunchida
   pos: v
   defs:
-    - def: "To inhabit; fortify, camp, station"
+    - def: "to inhabit; fortify, camp, station"
   conj: [둔친다, 둔쳐, 둔쳐요/둔치어요, 둔칩니다]
 
 - word: 둘
@@ -23418,8 +23405,8 @@ after adjective stems, indicates a state which no longer exists"
   romaja: dulleossada
   pos: v
   defs:
-    - def: "To surround."
-    - def: "To focus on something."
+    - def: "to surround"
+    - def: "to focus on something"
   conj: [둘러싼다, 둘러싸, 둘러싸요, 둘러쌉니다]
 
 - word: 둥간어
@@ -23888,7 +23875,7 @@ after adjective stems, indicates a state which no longer exists"
   romaja: deullyeooda
   pos: v
   defs:
-    - def: "To be bruited about; to have come to hearing."
+    - def: "to be bruited about; to have come to hearing"
   conj: [들려온다, 들려와, 들려와요, 들려옵니다]
 
 - word: 들르다
@@ -23987,16 +23974,16 @@ after adjective stems, indicates a state which no longer exists"
   romaja: deuryeodaboda
   pos: v
   defs:
-    - def: "To look into"
-    - def: "To look in on"
+    - def: "to look into"
+    - def: "to look in on"
   conj: [들여다본다, 들여다봐, 들여다봐요/들여다보아요, 들여다봅니다]
 
 - word: 들이다
   romaja: deurida
   pos: v
   defs:
-    - def: "To let in someone or something."
-    - def: "To spend or expend, as money or effort."
+    - def: "to let in someone or something"
+    - def: "to spend or expend, as money or effort"
   conj: [들인다, 들여, 들여요/들이어요, 들입니다]
 
 - word: 들치기
@@ -24645,14 +24632,14 @@ after adjective stems, indicates a state which no longer exists"
   romaja: ttaerida
   pos: v
   defs:
-    - def: "To beat or strike."
+    - def: "to beat or strike"
   conj: [때린다, 때려, 때려요/때리어요, 때립니다]
 
 - word: 때리다
   romaja: ttaerida
   pos: v
   defs:
-    - def: "To beat or strike."
+    - def: "to beat or strike"
       examples:
         - example: "나는 화가 너무 많이 나서 나도 모르게 친구의 얼굴을 때려버렸다. "
           transliteration: "Naneun hwaga neomu mani naseo nado moreuge chin-guui eolgureul ttaeryeobeoryeotda. "
@@ -24772,8 +24759,8 @@ after adjective stems, indicates a state which no longer exists"
   romaja: tteoollida
   pos: v
   defs:
-    - def: "To make someone think of something; to bring to mind."
-    - def: "To cause to appear."
+    - def: "to make someone think of something; to bring to mind"
+    - def: "to cause to appear"
   conj: [떠올린다, 떠올려, 떠올려요/떠올리어요, 떠올립니다]
 
 - word: 떡
@@ -25280,7 +25267,7 @@ after adjective stems, indicates a state which no longer exists"
   romaja: ttuida
   pos: v
   defs:
-    - def: "To be visible or seen"
+    - def: "to be visible or seen"
   conj: [띈다, 띄어, 띄어요, 띕니다]
 
 - word: 띠
@@ -27472,10 +27459,10 @@ after adjective stems, indicates a state which no longer exists"
   romaja: makda
   pos: v
   defs:
-    - def: "To stop up"
-    - def: "To enclose, fence, screen off, shield"
-    - def: "To curb, defend, protect"
-    - def: "To keep (from doing), hinder, prevent"
+    - def: "to stop up"
+    - def: "to enclose, fence, screen off, shield"
+    - def: "to curb, defend, protect"
+    - def: "to keep (from doing), hinder, prevent"
     - def: ""
       examples:
         - example: "혈관이 막히다."
@@ -27872,13 +27859,13 @@ specifically Potamogeton oxyphyllus."
   pos: n
   defs:
     - def: "final period; terminal period; last stage"
-    - def: ": terminal; approaching death"
+    - def: "terminal; approaching death"
 
 - word: 말다
   romaja: malda
   pos: v
   defs:
-    - def: ", used to negate imperatives, with —지 (ji)) to not do something, to stop doing"
+    - def: "used to negate imperatives, with —지 (ji)) to not do something, to stop doing"
       examples:
         - example: "잔디에 앉지 마시오."
           transliteration: "Jandie anji masio."
@@ -27902,7 +27889,7 @@ specifically Potamogeton oxyphyllus."
   romaja: malttonggari
   pos: n
   defs:
-    - def: "The common buzzard, Buteo buteo."
+    - def: "the common buzzard, Buteo buteo"
 
 - word: 말똥구리
   romaja: malttongguri
@@ -28110,7 +28097,7 @@ specifically Potamogeton oxyphyllus."
           transliteration: "Nega yeogi itdago geunyeo-ege malhae."
           translation: "Tell her you’re here."
         - example: "어제 일은 미안하다고 말하고 싶어요. — 괜찮아요. 아나."
-          transliteration: "Eoje ireun mianhadago malhago sipeoyo.  gwaenchanayo. Ana."
+          transliteration: "Eoje ireun mianhadago malhago sipeoyo. Gwaenchanayo. Ana."
           translation: "I want to say I’m sorry for yesterday. — It’s okay, Anna."
     - def: "to explain (by talking)"
       examples:
@@ -28459,7 +28446,7 @@ to get a blow, to be struck"
   romaja: matgida
   pos: v
   defs:
-    - def: "To entrust someone with something."
+    - def: "to entrust someone with something"
   conj: [맡긴다, 맡겨, 맡겨요/맡기어요, 맡깁니다]
 
 - word: 맡다
@@ -28551,14 +28538,14 @@ to get a blow, to be struck"
   romaja: maeda
   pos: v
   defs:
-    - def: "To bind, fasten, tie, hang"
+    - def: "to bind, fasten, tie, hang"
   conj: [맨다, 매, 매요/매어요, 맵니다]
 
 - word: 매다
   romaja: maeda
   pos: v
   defs:
-    - def: "To weed (unwanted grasses out of a cultivated area)."
+    - def: "to weed (unwanted grasses out of a cultivated area)"
   conj: [맨다, 매, 매요/매어요, 맵니다]
 
 - word: 매달
@@ -28894,7 +28881,7 @@ to get a blow, to be struck"
 - word: 머루
   pos: n
   defs:
-    - def: "wild grape,  grape"
+    - def: "wild grape, grape"
 
 - word: 머리
   romaja: meori
@@ -29125,7 +29112,7 @@ to get a blow, to be struck"
   romaja: meomchuda
   pos: v
   defs:
-    - def: "To stop; to halt."
+    - def: "to stop; to halt"
   conj: [멈춘다, 멈추어, 멈추어요/멈춰요, 멈춥니다]
 
 - word: 멈칫
@@ -29898,7 +29885,7 @@ to get a blow, to be struck"
     - def: "which number"
       examples:
         - example: "몇 층에 사세요?"
-          transliteration: " Myeot cheung-e saseyo?"
+          transliteration: "Myeot cheung-e saseyo?"
           translation: "What floor do you live on?"
     - def: "some"
   rels: [며칠]
@@ -30209,7 +30196,7 @@ to get a blow, to be struck"
   romaja: mosida
   pos: v
   defs:
-    - def: "To serve or wait on a higher-status person."
+    - def: "to serve or wait on a higher-status person"
   conj: [모신다, 모셔, 모셔요/모시어요, 모십니다]
 
 - word: 모양
@@ -31043,8 +31030,8 @@ to get a blow, to be struck"
   romaja: muneojida
   pos: v
   defs:
-    - def: "To collapse."
-    - def: "To crumble or decay. (of a physical or social structure)"
+    - def: "to collapse"
+    - def: "to crumble or decay. (of a physical or social structure)"
   conj: [무너진다, 무너져, 무너져요/무너지어요, 무너집니다]
 
 - word: 무늬
@@ -31400,7 +31387,7 @@ to get a blow, to be struck"
   romaja: mujamaekjilhada
   pos: v
   defs:
-    - def: "To dip, dive, duck, submerge, swim under water"
+    - def: "to dip, dive, duck, submerge, swim under water"
   conj: [무자맥질한다, 무자맥질해, 무자맥질해요, 무자맥질합니다]
 
 - word: 무제한
@@ -31913,13 +31900,13 @@ to get a blow, to be struck"
   romaja: mulda
   pos: v
   defs:
-    - def: "To bite, gnaw"
-    - def: "To bite, sting"
-    - def: "To bite, swallow (bait)"
-    - def: "To bite, take hold (in the mouth)"
-    - def: "To bite, mate, mesh, gear"
-    - def: "To bite, mate, couple (unduly, deceptively)"
-    - def: "To pay (tax, fine, penalty, etc.), compensate, make up (for the loss)"
+    - def: "to bite, gnaw"
+    - def: "to bite, sting"
+    - def: "to bite, swallow (bait)"
+    - def: "to bite, take hold (in the mouth)"
+    - def: "to bite, mate, mesh, gear"
+    - def: "to bite, mate, couple (unduly, deceptively)"
+    - def: "to pay (tax, fine, penalty, etc.), compensate, make up (for the loss)"
   conj: [문다, 물어, 물어요, 뭅니다]
 
 - word: 물두꺼비
@@ -32040,21 +32027,21 @@ to get a blow, to be struck"
   romaja: mureotteda
   pos: v
   defs:
-    - def: "To bite off"
+    - def: "to bite off"
   conj: [물어뗀다, 물어떼, 물어떼요/물어떼어요, 물어뗍니다]
 
 - word: 물어뜯다
   romaja: mureotteutda
   pos: v
   defs:
-    - def: "To bite off"
+    - def: "to bite off"
   conj: [물어뜯는다, 물어뜯어, 물어뜯어요, 물어뜯습니다]
 
 - word: 물어보다
   romaja: mureoboda
   pos: v
   defs:
-    - def: "To ask (about something)."
+    - def: "to ask (about something)"
   conj: [물어본다, 물어봐, 물어봐요/물어보아요, 물어봅니다]
 
 - word: 물에네르기
@@ -32133,7 +32120,7 @@ to get a blow, to be struck"
   romaja: mwo
   pos: pron
   defs:
-    - def: "contraction of 무엇 (mueot):  what"
+    - def: "contraction of 무엇 (mueot): what"
       examples:
         - example: "이게 뭐예요?"
           transliteration: "Ige mwoyeyo?"
@@ -32496,14 +32483,14 @@ to get a blow, to be struck"
   romaja: mia
   pos: propn
   defs:
-    - def: "A female given name: Mia"
+    - def: "a female given name: Mia"
 
 - word: 미안하다
   romaja: mianhada
   pos: a
   defs:
-    - def: "To be ashamed of oneself."
-    - def: "To be sorry."
+    - def: "to be ashamed of oneself"
+    - def: "to be sorry"
   conj: [미안하다, 미안해, 미안해요, 미안합니다]
   tags: [topik1]
 
@@ -33386,7 +33373,6 @@ to get a blow, to be struck"
         - example: "지금 바로 시작합니다!"
           transliteration: "Jigeum baro sijakhamnida!"
           translation: "It will start right now."
-    - def: "↑    "
 
 - word: 바로가기
   romaja: barogagi
@@ -33564,7 +33550,7 @@ to get a blow, to be struck"
   defs:
     - def: "uncommon, insufficient; rarely encountered"
       examples:
-        - example: " 1992,  “두만강 (Duman-gang) [Tumen River]”, in  조선말대사전 (Joseonmaldaesajeon) [Dictionary of Korean language]:"
+        - example: "1992, “두만강 (Duman-gang) [Tumen River]”, in  조선말대사전 (Joseonmaldaesajeon) [Dictionary of Korean language]:"
           translation: "사랑채는 동향으로 앉아서 여름에는 해가 발랐다.Sarangchaeneun donghyang-euro anjaseo yeoreumeneun haega ballatda.The building used as a salon is placed in the east and the sun was shining in the summer which is uncommon."
   conj: [바른다, 발라, 발라요, 바릅니다]
 
@@ -33786,7 +33772,7 @@ to get a blow, to be struck"
   defs:
     - def: "A  surname​."
       examples:
-        - example: " c. 1280 AD,  Il-yeon, 일연(一然) (iryeon)),  “기이 권제1(紀異卷第一), 신라시조 혁거세왕(新羅始祖 赫居世王) (gii gwonje1, sillasijo hyeokgeosewang(新羅始祖 赫居世王))”, in  Samguk yusa, 삼국유사(三國遺事) (samgugyusa):"
+        - example: "c. 1280 AD, Il-yeon, 일연(一然) (iryeon)), “기이 권제1(紀異卷第一), 신라시조 혁거세왕(新羅始祖 赫居世王) (gii gwonje1, sillasijo hyeokgeosewang(新羅始祖 赫居世王))”, in  Samguk yusa, 삼국유사(三國遺事) (samgugyusa):"
           translation: "사내는 박〔瓠〕과 같이 생긴 알에서 나왔고, 향인들은 박을 박(朴)이라 이르므로, 그 성을 박으로 하였다.(The boy came from an egg that looked like a gourd, and countrymen named him Bak because gourd was called Bak.)Sanaeneun   bak〔瓠〕gwa gachi saenggin areseo nawatgo, hyang-indeureun bageul bagira ireumeuro, geu seong-eul bageuro hayeotda.(The boy came from an egg that looked like a gourd, and countrymen named him Bak because gourd was called Bak.)(please add an English translation of this quote)"
 
 - word: 박
@@ -34477,7 +34463,7 @@ to get a blow, to be struck"
   romaja: balgyeondoeda
   pos: v
   defs:
-    - def: "To be discovered."
+    - def: "to be discovered"
   conj: [발견된다, 발견돼, 발견돼요/발견되어요, 발견됩니다]
 
 - word: 발견하다
@@ -34814,7 +34800,7 @@ to get a blow, to be struck"
   romaja: balkyeojida
   pos: v
   defs:
-    - def: "To be discovered, revealed."
+    - def: "to be discovered, revealed"
   conj: [밝혀진다, 밝혀져, 밝혀져요/밝혀지어요, 밝혀집니다]
 
 - word: 밝히다
@@ -35035,7 +35021,7 @@ to get a blow, to be struck"
     - def: "just a moment ago; just now"
       examples:
         - example: "방금 왔어요."
-          transliteration: " Banggeum wasseoyo."
+          transliteration: "Banggeum wasseoyo."
           translation: "[He] arrived just a moment ago."
 
 - word: 방기
@@ -35325,8 +35311,8 @@ to get a blow, to be struck"
   romaja: banghaehada
   pos: v
   defs:
-    - def: "To hinder or obstruct."
-    - def: "To interfere with."
+    - def: "to hinder or obstruct"
+    - def: "to interfere with"
   conj: [방해한다, 방해해, 방해해요, 방해합니다]
 
 - word: 방향
@@ -36366,10 +36352,10 @@ to get a blow, to be struck"
   romaja: beoreojida
   pos: v
   defs:
-    - def: "To occur or take place."
-    - def: "To become separated."
-    - def: "To become estranged."
-    - def: "To differ."
+    - def: "to occur or take place"
+    - def: "to become separated"
+    - def: "to become estranged"
+    - def: "to differ"
   conj: [벌어진다, 벌어져, 벌어져요/벌어지어요, 벌어집니다]
 
 - word: 벌이다
@@ -37085,12 +37071,12 @@ to get a blow, to be struck"
     - def: "very (in a negative context)"
       examples:
         - example: "별로 많이 기다리지 않았어요."
-          transliteration: " Byeollo mani gidariji anasseoyo."
+          transliteration: "Byeollo mani gidariji anasseoyo."
           translation: "[I] have not been waiting very long."
     - def: "not really (sometimes used with a negative)"
       examples:
         - example: "별로 많지 않아요."
-          transliteration: " Byeollo manchi anayo."
+          transliteration: "Byeollo manchi anayo."
           translation: "There is really not a lot."
     - def: "not matching"
       examples:
@@ -37325,7 +37311,7 @@ to get a blow, to be struck"
 - word: 보관하다
   pos: v
   defs:
-    - def: "To keep."
+    - def: "to keep"
   conj: [보관한다, 보관해, 보관해요, 보관합니다]
 
 - word: 보급
@@ -38131,8 +38117,8 @@ to get a blow, to be struck"
   romaja: bokda
   pos: v
   defs:
-    - def: "To parch food."
-    - def: "To annoy someone."
+    - def: "to parch food"
+    - def: "to annoy someone"
   conj: [볶는다, 볶아, 볶아요, 볶습니다]
 
 - word: 볶이
@@ -38653,7 +38639,7 @@ to get a blow, to be struck"
   romaja: bureojida
   pos: v
   defs:
-    - def: "To break (as of an arm, leg, wing, sword, stick, etc.)"
+    - def: "to break (as of an arm, leg, wing, sword, stick, etc.)"
   conj: [부러진다, 부러져, 부러져요/부러지어요, 부러집니다]
 
 - word: 부럼
@@ -38708,22 +38694,22 @@ to get a blow, to be struck"
   romaja: bureuda
   pos: v
   defs:
-    - def: "To call, name"
+    - def: "to call, name"
       examples:
         - example: "제가 당신의 상사, 케이시 위버입니다. 그렇지만, 그저 저를 케이시라고 불러주세요. ― 감사합니다. 위버 님. ― 그저 케이시요. ― 네. 위버 님. ― 그럼, 알겠어요."
           transliteration: "Jega dangsinui sangsa, keisi wibeoimnida. Geureochiman, geujeo jeoreul keisirago bulleojuseyo. ― gamsahamnida. Wibeo nim. ― geujeo keisiyo. ― ne. Wibeo nim. ― geureom, algesseoyo."
           translation: "I am your boss, Caty Weaver. But, please call me Caty. ― Thank you, Ms. Weaver. ― Just Caty. ― Sure thing, Ms. Weaver. ― Okay then."
-    - def: "To bid, offer (price)"
+    - def: "to bid, offer (price)"
       examples:
         - example: "부르는 게 값"
           transliteration: "bureuneun ge gap"
           translation: "Whatever is offered is the price. (as when supply of goods is extremely limited)"
-    - def: "To cry, shout, yell"
+    - def: "to cry, shout, yell"
       examples:
         - example: "난 그녀의 이름을 불렀다."
           transliteration: "Nan geunyeoui ireumeul bulleotda."
           translation: "I called out her name."
-    - def: "To sing, chant"
+    - def: "to sing, chant"
   conj: [부른다, 불러, 불러요, 부릅니다]
 
 - word: 부르다
@@ -38880,10 +38866,10 @@ to get a blow, to be struck"
   romaja: buseojida
   pos: v
   defs:
-    - def: "To be shattered (For something hard to break into small pieces. )"
-    - def: "To break (For waves or light to dash against something, spread out, and then be scattered. )"
-    - def: "be broken; break down (For something that has a certain structure to be destroyed so much as to be useless. )"
-    - def: "be broken; be shattered (For one's hope or expectation to be destroyed. )"
+    - def: "to be shattered (for something hard to break into small pieces)"
+    - def: "to break (for waves or light to dash against something, spread out, and then be scattered)"
+    - def: "be broken; break down (for something that has a certain structure to be destroyed so much as to be useless)"
+    - def: "be broken; be shattered (for one's hope or expectation to be destroyed)"
   conj: [부서진다, 부서져, 부서져요/부서지어요, 부서집니다]
 
 - word: 부수
@@ -39176,7 +39162,7 @@ to get a blow, to be struck"
   romaja: bujokhada
   pos: a
   defs:
-    - def: "To be insufficient; not enough."
+    - def: "to be insufficient; not enough"
   conj: [부족하다, 부족해, 부족해요, 부족합니다]
 
 - word: 부줌부라
@@ -39731,7 +39717,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: bunseokhada
   pos: v
   defs:
-    - def: "To analyze."
+    - def: "to analyze"
   conj: [분석한다, 분석해, 분석해요, 분석합니다]
 
 - word: 분수
@@ -39896,7 +39882,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: bulganeunghada
   pos: a
   defs:
-    - def: "To be impossible."
+    - def: "to be impossible"
   conj: [불가능하다, 불가능해, 불가능해요, 불가능합니다]
 
 - word: 불가리아
@@ -40098,7 +40084,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: bullida
   pos: v
   defs:
-    - def: "To be called."
+    - def: "to be called"
   conj: [불린다, 불려, 불려요/불리어요, 불립니다]
 
 - word: 불만
@@ -40441,7 +40427,7 @@ Used to illustrate the time that a certain action or situation began or will beg
       examples:
         - example: "시험에 붙다."
           transliteration: "Siheome butda."
-          translation: "To pass the test."
+          translation: "to pass the test"
     - def: "to be near"
     - def: "to catch fire"
       examples:
@@ -40850,14 +40836,14 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: bida
   pos: a
   defs:
-    - def: "To be empty, hollow, vacant"
+    - def: "to be empty, hollow, vacant"
   conj: [비다, 벼, 벼요/비어요, 빕니다]
 
 - word: 비다
   romaja: bida
   pos: v
   defs:
-    - def: "To empty, drain; evacuate, vacate"
+    - def: "to empty, drain; evacuate, vacate"
   conj: [비다, 벼, 벼요/비어요, 빕니다]
 
 - word: 비단
@@ -41515,8 +41501,8 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: billida
   pos: v
   defs:
-    - def: "To borrow."
-    - def: "To lend."
+    - def: "to borrow"
+    - def: "to lend"
   conj: [빌린다, 빌려, 빌려요/빌리어요, 빌립니다]
 
 - word: 빗
@@ -41633,7 +41619,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: binnada
   pos: v
   defs:
-    - def: "To shine."
+    - def: "to shine"
       examples:
         - example: "너의 눈이 달빛 밑에 빛나."
           transliteration: "Neoui nuni dalbit mite binna."
@@ -41745,14 +41731,14 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: ppalda
   pos: v
   defs:
-    - def: "To sip, suck; to fellate"
+    - def: "to sip, suck; to fellate"
   conj: [빤다, 빨아, 빨아요, 빱니다]
 
 - word: 빨다
   romaja: ppalda
   pos: v
   defs:
-    - def: "To wash (clothes), launder"
+    - def: "to wash (clothes), launder"
   conj: [빤다, 빨아, 빨아요, 빱니다]
 
 - word: 빨다
@@ -42839,7 +42825,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: sayongdoeda
   pos: v
   defs:
-    - def: "To be used (for some purpose)."
+    - def: "to be used (for some purpose)"
   conj: [사용된다, 사용돼, 사용돼요/사용되어요, 사용됩니다]
 
 - word: 사용자
@@ -43660,9 +43646,9 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: saraoda
   pos: v
   defs:
-    - def: "To have been living."
-    - def: "To survive; to have survived."
-    - def: "To have made a living at a certain job over a long time."
+    - def: "to have been living"
+    - def: "to survive; to have survived"
+    - def: "to have made a living at a certain job over a long time"
   conj: [살아온다, 살아와, 살아와요, 살아옵니다]
 
 - word: 살인
@@ -43722,7 +43708,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: salpida
   pos: v
   defs:
-    - def: "To look closely; to observe."
+    - def: "to look closely; to observe"
   conj: [살핀다, 살펴, 살펴요/살피어요, 살핍니다]
 
 - word: 삵
@@ -43841,7 +43827,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: samseong
   pos: n
   defs:
-    - def: "To introspect three times daily."
+    - def: "to introspect three times daily"
 
 - word: 삼성
   romaja: samseong
@@ -43907,17 +43893,17 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: samkida
   pos: v
   defs:
-    - def: "To swallow. (to cause to pass from the mouth into the stomach)"
+    - def: "to swallow. (to cause to pass from the mouth into the stomach)"
       examples:
         - example: "아이가 무엇을 삼켰는지 자꾸 토한다."
           transliteration: "Aiga mueoseul samkyeonneunji jakku tohanda."
           translation: "The kid keeps gagging, like he swallowed something."
-    - def: "To suppress or stifle an expression of emotion."
+    - def: "to suppress or stifle an expression of emotion"
       examples:
         - example: "막 쏟아지려는 눈물을 못내 삼키며 집을 뛰쳐나갔다."
           transliteration: "Mak ssodajiryeoneun nunmureul monnae samkimyeo jibeul ttwichyeonagatda."
           translation: "I ran out of the house, holding back the tears that were ready to flow."
-    - def: "To secretly make something one's own; to steal."
+    - def: "to secretly make something one's own; to steal"
       examples:
         - example: "남의 돈을 슬쩍 삼키고는 오리발을 내밀었다."
           transliteration: "Namui doneul seuljjeok samkigoneun oribareul naemireotda."
@@ -44269,7 +44255,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: sanghwandoeda
   pos: v
   defs:
-    - def: "To be repaid; be redeemed"
+    - def: "to be repaid; be redeemed"
       examples:
         - example: "네, 그것들은 다시 상환됩니다."
           transliteration: "Ne, geugeotdeureun dasi sanghwandoemnida."
@@ -44636,7 +44622,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: saenggakdoeda
   pos: v
   defs:
-    - def: "To occur or come to mind."
+    - def: "to occur or come to mind"
   conj: [생각된다, 생각돼, 생각돼요/생각되어요, 생각됩니다]
 
 - word: 생각하다
@@ -44683,7 +44669,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: saenggyeonada
   pos: v
   defs:
-    - def: "To emerge; to be generated."
+    - def: "to emerge; to be generated"
   conj: [생겨난다, 생겨나, 생겨나요, 생겨납니다]
 
 - word: 생기다
@@ -44784,7 +44770,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: saengsanhada
   pos: v
   defs:
-    - def: "To produce."
+    - def: "to produce"
   conj: [생산한다, 생산해, 생산해요, 생산합니다]
 
 - word: 생생하다
@@ -45420,7 +45406,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: seokda
   pos: v
   defs:
-    - def: "To mix"
+    - def: "to mix"
   conj: [섞는다, 섞어, 섞어요, 섞습니다]
 
 - word: 섞이다
@@ -45615,7 +45601,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: seontaekhada
   pos: v
   defs:
-    - def: "To choose or select."
+    - def: "to choose or select"
   conj: [선택한다, 선택해, 선택해요, 선택합니다]
 
 - word: 선풍
@@ -47317,7 +47303,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: sojunghada
   pos: a
   defs:
-    - def: "To be precious."
+    - def: "to be precious"
   conj: [소중하다, 소중해, 소중해요, 소중합니다]
 
 - word: 소지품
@@ -47552,7 +47538,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: sokhada
   pos: v
   defs:
-    - def: "To be part of; to be a member of."
+    - def: "to be part of; to be a member of"
   conj: [속한다, 속해, 속해요, 속합니다]
 
 - word: 손
@@ -48309,14 +48295,14 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: surihada
   pos: v
   defs:
-    - def: "To repair or fix."
+    - def: "to repair or fix"
   conj: [수리한다, 수리해, 수리해요, 수리합니다]
 
 - word: 수많다
   romaja: sumanta
   pos: a
   defs:
-    - def: "To be many; numerous."
+    - def: "to be many; numerous"
 
 - word: 수말
   romaja: sumal
@@ -50227,7 +50213,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: sida
   pos: a
   defs:
-    - def: "To be sour"
+    - def: "to be sour"
   conj: [시다, 셔, 셔요/시어요, 십니다]
 
 - word: 시달리다
@@ -51512,9 +51498,9 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: sillida
   pos: v
   defs:
-    - def: "To be planted"
-    - def: "To be loaded"
-    - def: "To be printed"
+    - def: "to be planted"
+    - def: "to be loaded"
+    - def: "to be printed"
   conj: [실린다, 실려, 실려요/실리어요, 실립니다]
 
 - word: 실린더
@@ -51652,7 +51638,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: silcheonhada
   pos: v
   defs:
-    - def: "To implement; to carry out in practice."
+    - def: "to implement; to carry out in practice"
   conj: [실천한다, 실천해, 실천해요, 실천합니다]
 
 - word: 실체
@@ -51767,17 +51753,17 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: simda
   pos: v
   defs:
-    - def: "To plant, sow (seed or plants)"
+    - def: "to plant, sow (seed or plants)"
       examples:
         - example: "정원에 사과나무를 심다"
           transliteration: "jeong-wone sagwanamureul simda"
           translation: "to plant an apple tree in a garden"
-    - def: "To plant, implant, instill, inculcate (a thought or a sentiment)"
+    - def: "to plant, implant, instill, inculcate (a thought or a sentiment)"
       examples:
         - example: "나는 학생들에게 올바른 사상을 심어 주려고 했다."
           transliteration: "Naneun haksaengdeurege olbareun sasang-eul simeo juryeogo haetda."
           translation: "I tried to inculcate a right thought in [my] student."
-    - def: "To plant (a person) secretly as a spy"
+    - def: "to plant (a person) secretly as a spy"
   conj: [심는다, 심어, 심어요, 심습니다]
 
 - word: 심리
@@ -52301,8 +52287,8 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: ssaida
   pos: v
   defs:
-    - def: "To be scattered, sown."
-    - def: "To be constructed."
+    - def: "to be scattered, sown"
+    - def: "to be constructed"
   conj: [쌓인다, 쌓여, 쌓여요/쌓이어요, 쌓입니다]
 
 - word: 쌤
@@ -52437,7 +52423,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: ssodajida
   pos: v
   defs:
-    - def: "To splash out, to be spilled or poured."
+    - def: "to splash out, to be spilled or poured"
   conj: [쏟아진다, 쏟아져, 쏟아져요/쏟아지어요, 쏟아집니다]
 
 - word: 쏠다
@@ -52590,8 +52576,8 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: sseu-ida
   pos: v
   defs:
-    - def: "To be used."
-    - def: "To be written."
+    - def: "to be used"
+    - def: "to be written"
   conj: [쓰인다, 쓰여, 쓰여요/쓰이어요, 쓰입니다]
 
 - word: 쓰촨
@@ -52925,8 +52911,8 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: akkida
   pos: v
   defs:
-    - def: "To cherish"
-    - def: "To save or conserve something."
+    - def: "to cherish"
+    - def: "to save or conserve something"
   conj: [아낀다, 아껴, 아껴요/아끼어요, 아낍니다]
 
 - word: 아나운서
@@ -53337,7 +53323,7 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "maybe"
       examples:
         - example: "좋아, 나중에 봐, 아마도. — 아마도, 나중에 봐."
-          transliteration: "Joa, najung-e bwa, amado.  amado, najung-e bwa."
+          transliteration: "Joa, najung-e bwa, amado. Amado, najung-e bwa."
           translation: "Okay. See you later, maybe. — Maybe I’ll see you later."
 
 - word: 아마추어
@@ -54117,7 +54103,7 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "an apartment, a flat"
       examples:
         - example: "난 조나단이야. 난 아파트 b4호에 살아. — 난 아파트 c2에 살아."
-          transliteration: "Nan jonadaniya. Nan apateu b4ho-e sara.  nan apateu c2e sara."
+          transliteration: "Nan jonadaniya. Nan apateu b4ho-e sara. Nan apateu c2e sara."
           translation: "I am Jonathan. I am in apartment B4. — I am in apartment C2."
 
 - word: 아포스트로피
@@ -54871,8 +54857,8 @@ Used to illustrate the time that a certain action or situation began or will beg
           translation: "Tell her you’re here.—Right, thanks, Pete."
     - def: "to know (To have met someone before or get along with him/her as an acquaintance.)"
       examples:
-        - example: "마샤가 제 룸메이트이에요.  — 저는 마샤를 알고 지내요. 좋은 분이지요."
-          transliteration: "Masyaga je rummeiteu-ieyo.  — jeoneun masyareul algo jinaeyo. Joeun bunijiyo."
+        - example: "마샤가 제 룸메이트이에요. — 저는 마샤를 알고 지내요. 좋은 분이지요."
+          transliteration: "Masyaga je rummeiteu-ieyo. — Jeoneun masyareul algo jinaeyo. Joeun bunijiyo."
           translation: "Marsha is my roommate. — I know Marsha. She is nice."
     - def: "to regard; think of"
     - def: "to know; think (To consider or assume a fact as being of a certain quality.)"
@@ -55362,7 +55348,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: apduda
   pos: v
   defs:
-    - def: "To have lying ahead of one; to look toward"
+    - def: "to have lying ahead of one; to look toward"
   conj: [앞둔다, 앞두어, 앞두어요/앞둬요, 앞둡니다]
 
 - word: 앞뒤
@@ -55442,7 +55428,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   defs:
     - def: "Aegukka, the North Korean national anthem."
     - def: "Aegukga, the South Korean national anthem."
-    - def: "Any patriotic song."
+    - def: "any patriotic song"
 
 - word: 애국심
   romaja: aeguksim
@@ -55552,7 +55538,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: aesseuda
   pos: v
   defs:
-    - def: "To exert or strain oneself to reach a goal."
+    - def: "to exert or strain oneself to reach a goal"
   conj: [애쓴다, 애써, 애써요, 애씁니다]
 
 - word: 애완동물
@@ -55831,7 +55817,7 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "vegetable"
       examples:
         - example: "야채와 과일에는 비타민이 많이 들어 있다."
-          transliteration: " Yachaewa gwaireneun bitamini mani deureo itda."
+          transliteration: "Yachaewa gwaireneun bitamini mani deureo itda."
           translation: "There are many vitamins in vegetables and fruit."
 
 - word: 야쿠자
@@ -56594,8 +56580,8 @@ Used to illustrate the time that a certain action or situation began or will beg
           transliteration: "Gonghangkkaji jihacheoreul tamyeon doel geot gateunde hoksi jihacheori eodi inneunji aseyo?"
           translation: "I think I can take the subway to the airport. Do you know where the subway is?"
         - example: "헬스클럽이 어디 맞은편이라고? — 헬스클럽은 라운지 맞은 편이야. — 라운지 맞은편이라… 알겠어. 고마워."
-          transliteration: "Helseukeulleobi eodi majeunpyeonirago?  helseukeulleobeun raunji majeun pyeoniya.  raunji majeunpyeonira… algesseo. Gomawo."
-          translation: "The gym is across from … what? — The gym is across from the lounge. — Across from the lounge.  Right. Thanks!"
+          transliteration: "Helseukeulleobi eodi majeunpyeonirago? Helseukeulleobeun raunji majeun pyeoniya. Raunji majeunpyeonira… algesseo. Gomawo."
+          translation: "The gym is across from … what? — The gym is across from the lounge. — Across from the lounge. Right. Thanks!"
     - def: "somewhere (to refer to a place without saying exactly where you mean)"
     - def: "somewhere (to refer to an unfixed place)"
     - def: "somehow, some way, something (to refer to a something that is hard to express)"
@@ -56799,7 +56785,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   pos: a
   defs:
     - def: "to be young, infantile, juvenile"
-    - def: "to be inexperienced, ignorant,  foolish"
+    - def: "to be inexperienced, ignorant, foolish"
   conj: [어리다, 어려, 어려요/어리어요, 어립니다]
 
 - word: 어리다
@@ -57042,10 +57028,10 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "hey! (for calling a person of the same status or lower in an informal way)"
       examples:
         - example: "어이, 나 좀 도와줘."
-          transliteration: " Eoi, na jom dowajwo."
+          transliteration: "Eoi, na jom dowajwo."
           translation: "Hey, help me out a bit."
         - example: "어이, 여기 간식이라도 있냐?"
-          transliteration: " Eoi, yeogi gansigirado innya?"
+          transliteration: "Eoi, yeogi gansigirado innya?"
           translation: "Hey, are there even any snacks in here?"
 
 - word: 어저께
@@ -57143,9 +57129,9 @@ Used to illustrate the time that a certain action or situation began or will beg
   defs:
     - def: "How, in what way or for what purpose."
       examples:
-        - example: "아나: 피트 안녕. 안녕. 우리 여기 있어. — 피트: 안녕, 아나. 안녕. 마샤. —아나: 안녕. —피트: 너희 둘은 어찌 지내? —마샤: 난 좋아."
-          transliteration: "Ana: piteu annyeong. Annyeong. Uri yeogi isseo.  piteu: annyeong, ana. Annyeong. Masya. Ana: annyeong. Piteu: neohui dureun eojji jinae? Masya: nan joa."
-          translation: "Anna: Pete, hi! Hi, we are here! —Pete: Hi, Anna! Hi, Marsha! —Anna: Hi! —Pete: How are you two? —Marsha: I am great!"
+        - example: "아나: 피트 안녕. 안녕. 우리 여기 있어. — 피트: 안녕, 아나. 안녕. 마샤. — 아나: 안녕. — 피트: 너희 둘은 어찌 지내? — 마샤: 난 좋아."
+          transliteration: "Ana: piteu annyeong. Annyeong. Uri yeogi isseo. — Piteu: annyeong, ana. Annyeong. Masya. — Ana: annyeong. — Piteu: neohui dureun eojji jinae? — Masya: nan joa."
+          translation: "Anna: Pete, hi! Hi, we are here! — Pete: Hi, Anna! Hi, Marsha! — Anna: Hi! — Pete: How are you two? — Marsha: I am great!"
 
 - word: 어찌하다
   romaja: eojjihada
@@ -57307,7 +57293,7 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "When"
       examples:
         - example: "언제가 네 생일이니?"
-          transliteration: " Eonjega ne saeng-irini?"
+          transliteration: "Eonjega ne saeng-irini?"
           translation: "When is your birthday?"
 
 - word: 언제
@@ -57318,7 +57304,7 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "sometime, any time"
       examples:
         - example: "언제 한 번 만나 소주 한 잔 합시다."
-          transliteration: " Eonje han beon manna soju han jan hapsida."
+          transliteration: "Eonje han beon manna soju han jan hapsida."
           translation: "Let's get together and have a glass of soju some time."
         - example: "할머니댁은 언제 가도 마음이 편하다."
           transliteration: "Halmeonidaegeun eonje gado ma-eumi pyeonhada."
@@ -57697,8 +57683,8 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: eopsaeda
   pos: v
   defs:
-    - def: "To eliminate."
-    - def: "To kill"
+    - def: "to eliminate"
+    - def: "to kill"
   conj: [없앤다, 없애, 없애요/없애어요, 없앱니다]
 
 - word: 없어지다
@@ -58737,7 +58723,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: yeon-gudoeda
   pos: v
   defs:
-    - def: "To be researched; be studied"
+    - def: "to be researched; be studied"
       examples:
         - example: "2015년, 과학자들은, 중국에서 연구된 빙하의 82퍼센트의 크기가 감소하였다는 것을 발견하였다."
           transliteration: "2015nyeon, gwahakjadeureun, junggugeseo yeon-gudoen binghaui 82peosenteuui keugiga gamsohayeotdaneun geoseul balgyeonhayeotda."
@@ -58782,7 +58768,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: yeon-guhada
   pos: v
   defs:
-    - def: "To conduct research."
+    - def: "to conduct research"
   conj: [연구한다, 연구해, 연구해요, 연구합니다]
 
 - word: 연극
@@ -59932,7 +59918,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: yesangdoeda
   pos: v
   defs:
-    - def: "To be predicted or anticipated."
+    - def: "to be predicted or anticipated"
   conj: [예상된다, 예상돼, 예상돼요/예상되어요, 예상됩니다]
 
 - word: 예상하다
@@ -60200,7 +60186,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: oda
   pos: v
   defs:
-    - def: "To come"
+    - def: "to come"
       examples:
         - example: "파티에 와서 고마워."
           transliteration: "Patie waseo gomawo."
@@ -60321,7 +60307,7 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "the first occurrence after a long absence"
       examples:
         - example: "오래간만 입니다!"
-          transliteration: " Oraeganman imnida!"
+          transliteration: "Oraeganman imnida!"
           translation: "Long time, no see! (literally, \"It has been a long time!\")"
 
 - word: 오래다
@@ -60372,7 +60358,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: oraetdong-an
   pos: n
   defs:
-    - def: "A long time."
+    - def: "a long time"
 
 - word: 오렌지
   romaja: orenji
@@ -60519,7 +60505,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: oda
   pos: v
   defs:
-    - def: "To come"
+    - def: "to come"
       examples:
         - example: "파티에 와서 고마워."
           transliteration: "Patie waseo gomawo."
@@ -60836,8 +60822,8 @@ Used to illustrate the time that a certain action or situation began or will beg
   defs:
     - def: "p.m."
       examples:
-        - example: "아나. — 네, 위버님. — 바빠요? —네, 위버님. 바쁩니다. — 내 사무실로 오후 5시에 오세요. — 오후 5시요."
-          transliteration: "Ana.  ne, wibeonim.  bappayo? Ne, wibeonim. Bappeumnida.  nae samusillo ohu 5sie oseyo.  ohu 5siyo."
+        - example: "아나. — 네, 위버님. — 바빠요? — 네, 위버님. 바쁩니다. — 내 사무실로 오후 5시에 오세요. — 오후 5시요."
+          transliteration: "Ana. — Ne, wibeonim. — Bappayo? — Ne, wibeonim. Bappeumnida. — Nae samusillo ohu 5sie oseyo. — Ohu 5siyo."
           translation: "Anna. — Yes, Ms. Weaver. — Are you busy? — Yes, Ms. Weaver. I am busy. — My office. 5:00 p.m. —  5:00 p.m."
     - def: "afternoon"
 
@@ -61098,9 +61084,9 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: ollaoda
   pos: v
   defs:
-    - def: "To come up; to ascend."
-    - def: "To come to the capital, especially to Seoul."
-    - def: "To be set on the table."
+    - def: "to come up; to ascend"
+    - def: "to come to the capital, especially to Seoul"
+    - def: "to be set on the table"
   conj: [올라온다, 올라와, 올라와요, 올라옵니다]
 
 - word: 올려놓다
@@ -61369,7 +61355,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: oda
   pos: v
   defs:
-    - def: "To come"
+    - def: "to come"
       examples:
         - example: "파티에 와서 고마워."
           transliteration: "Patie waseo gomawo."
@@ -61873,8 +61859,8 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: oechida
   pos: v
   defs:
-    - def: "To shout or cry out."
-    - def: "To proclaim."
+    - def: "to shout or cry out"
+    - def: "to proclaim"
   conj: [외친다, 외쳐, 외쳐요/외치어요, 외칩니다]
 
 - word: 외침
@@ -61952,7 +61938,7 @@ Used to illustrate the time that a certain action or situation began or will beg
           transliteration: "Jega dowadeurijiyo."
           translation: "I can give you a hand."
         - example: "만나서 반가웠어요. — 저도요. 잘 가요."
-          transliteration: "Mannaseo ban-gawosseoyo.  jeodoyo. Jal gayo."
+          transliteration: "Mannaseo ban-gawosseoyo. — Jeodoyo. Jal gayo."
           translation: "Nice to meet you! — You too, Bye."
   notes:
     - In the 해요체 (haeyoche, “polite”) speech level, there is no explicit marker to distinguish between indicative, interrogative, imperative, and hortative moods. The mood distinction is made with punctuation (e.g. “?”, “!”) and pitch (e.g. rising for interrogative) only.
@@ -62801,7 +62787,7 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "post office"
       examples:
         - example: "우체국이 어디입니까?"
-          transliteration: " Uchegugi eodiimnikka?"
+          transliteration: "Uchegugi eodiimnikka?"
           translation: "Where is the post-office?"
   tags: [topik1]
 
@@ -62836,7 +62822,7 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "post office"
       examples:
         - example: "우펀국이 어디입니까?"
-          transliteration: " Upeon-gugi eodiimnikka?"
+          transliteration: "Upeon-gugi eodiimnikka?"
           translation: "Where is the post-office?"
 
 - word: 우편
@@ -63106,9 +63092,9 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: ullida
   pos: v
   defs:
-    - def: "To sound or ring, or make a sound."
-    - def: "To sound or ring something, or cause something to make a sound."
-    - def: "To cause to weep."
+    - def: "to sound or ring, or make a sound"
+    - def: "to sound or ring something, or cause something to make a sound"
+    - def: "to cause to weep"
   conj: [울린다, 울려, 울려요/울리어요, 울립니다]
 
 - word: 울산
@@ -64192,14 +64178,14 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: yumyeonghada
   pos: a
   defs:
-    - def: "To be famous."
+    - def: "to be famous"
   conj: [유명하다, 유명해, 유명해요, 유명합니다]
 
 - word: 유명한
   romaja: yumyeonghada
   pos: a
   defs:
-    - def: "To be famous."
+    - def: "famous"
   conj: [유명하다, 유명해, 유명해요, 유명합니다]
 
 - word: 유모
@@ -64708,7 +64694,7 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "은 (eun) marks the topic of the sentence. The topic of a sentence is not to be confused with the subject of the sentence."
       examples:
         - example: "그것은 큰 책이야. — 맞아, 맞아, 피트."
-          transliteration: "Geugeoseun keun chaegiya.  maja, maja, piteu."
+          transliteration: "Geugeoseun keun chaegiya. — maja, maja, piteu."
           translation: "It is a big book. — Yes. Yes it is, Pete."
         - example: "네, 어제 일은 얘기하지 않기로 하지요."
           transliteration: "Ne, eoje ireun yaegihaji ankiro hajiyo."
@@ -65268,7 +65254,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: uimun
   pos: n
   defs:
-    - def: "Doubt."
+    - def: "doubt"
 
 - word: 의문사
   pos: n
@@ -65350,7 +65336,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: uisikhada
   pos: v
   defs:
-    - def: "To be aware or conscious of something."
+    - def: "to be aware or conscious of something"
   conj: [의식한다, 의식해, 의식해요, 의식합니다]
 
 - word: 의심
@@ -65728,7 +65714,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: ikkeulda
   pos: v
   defs:
-    - def: "To pull or lead."
+    - def: "to pull or lead"
   conj: [이끈다, 이끌어, 이끌어요, 이끕니다]
 
 - word: 이끼
@@ -65784,14 +65770,14 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: inyeom
   pos: n
   defs:
-    - def: "The ideology or principle underlying an intellectual position."
+    - def: "the ideology or principle underlying an intellectual position"
     - def: "idea; Idea"
 
 - word: 이다
   romaja: ida
   pos: a
   defs:
-    - def: "To be (something); to equal"
+    - def: "to be (something); to equal"
   conj: [이다, 이야, 이에요/예요, 입니다]
   syns: [다]
   tags: [topik1]
@@ -65853,7 +65839,7 @@ Used to illustrate the time that a certain action or situation began or will beg
     - def: "a little later; after a while; a short time later"
       examples:
         - example: "이따가 만나자."
-          transliteration: " Ittaga mannaja."
+          transliteration: "Ittaga mannaja."
           translation: "See you later."
 
 - word: 이때
@@ -65938,8 +65924,8 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: ireoda
   pos: v
   defs:
-    - def: "To do this; to act in this way."
-    - def: "To say this."
+    - def: "to do this; to act in this way"
+    - def: "to say this"
   conj: [이런다, 이래, 이래요, 이럽니다]
 
 - word: 이러쿵저러쿵
@@ -66106,8 +66092,8 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: iri
   pos: adv
   defs:
-    - def: "To this place, hither, here"
-    - def: "In this way, like this, so"
+    - def: "to this place, hither, here"
+    - def: "in this way, like this, so"
 
 - word: 이리
   romaja: iri
@@ -66898,9 +66884,9 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: ikhida
   pos: v
   defs:
-    - def: "To become habituated to something."
-    - def: "To ripen something."
-    - def: "To cook something through."
+    - def: "to become habituated to something"
+    - def: "to ripen something"
+    - def: "to cook something through"
   conj: [익힌다, 익혀, 익혀요/익히어요, 익힙니다]
 
 - word: 인
@@ -67240,7 +67226,7 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: insikhada
   pos: v
   defs:
-    - def: "To recognize or understand."
+    - def: "to recognize or understand"
   conj: [인식한다, 인식해, 인식해요, 인식합니다]
 
 - word: 인어
@@ -67784,12 +67770,12 @@ Used to illustrate the time that a certain action or situation began or will beg
   romaja: ireoseoda
   pos: v
   defs:
-    - def: "To stand up."
+    - def: "to stand up"
       examples:
         - example: "그 여자는 군중 너머를 보려고 일어섰다."
           transliteration: "Geu yeojaneun gunjung neomeoreul boryeogo ireoseotda."
           translation: "She stood in order to see over the crowd."
-    - def: "To take place; to arise."
+    - def: "to take place; to arise"
   conj: [일어선다, 일어서어, 일어서어요, 일어섭니다]
 
 - word: 일여덟
@@ -68310,7 +68296,7 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "물속에 물고기가 있다."
           transliteration: "Mulsoge mulgogiga itda."
           translation: "There are fish in the water."
-    - def: "To be (in a state)"
+    - def: "to be (in a state)"
       examples:
         - example: "서 있다"
           transliteration: "seo itda"
@@ -68321,7 +68307,7 @@ Used to illustrate the time that a certain action or situation began or will beg
         - example: "모여 있다"
           transliteration: "moyeo itda"
           translation: "to be gathered"
-    - def: "To have"
+    - def: "to have"
       examples:
         - example: "그녀는 남자 친구가 있다."
           transliteration: "Geunyeoneun namja chin-guga itda."
@@ -68941,7 +68927,7 @@ rat (Chinese zodiac sign)"
   romaja: jayuropda
   pos: a
   defs:
-    - def: "To be free; unfettered."
+    - def: "to be free; unfettered"
   conj: [자유롭다, 자유로워, 자유로워요, 자유롭습니다]
 
 - word: 자유적
@@ -69214,7 +69200,7 @@ rat (Chinese zodiac sign)"
   romaja: jagyonghada
   pos: v
   defs:
-    - def: "To act on or affect something."
+    - def: "to act on or affect something"
   conj: [작용한다, 작용해, 작용해요, 작용합니다]
 
 - word: 작은
@@ -69388,9 +69374,9 @@ rat (Chinese zodiac sign)"
   romaja: jaldoeda
   pos: v
   defs:
-    - def: "To do well; to prosper."
-    - def: "To turn out well."
-    - def: "To be just great."
+    - def: "to do well; to prosper"
+    - def: "to turn out well"
+    - def: "to be just great"
   conj: [잘된다, 잘돼, 잘돼요/잘되어요, 잘됩니다]
 
 - word: 잘못
@@ -69414,16 +69400,16 @@ rat (Chinese zodiac sign)"
   romaja: jalmotdoeda
   pos: v
   defs:
-    - def: "To go wrong, to go awry."
-    - def: "To die unexpectedly, of accident or disease."
+    - def: "to go wrong, to go awry"
+    - def: "to die unexpectedly, of accident or disease"
   conj: [잘못된다, 잘못돼, 잘못돼요/잘못되어요, 잘못됩니다]
 
 - word: 잘못하다
   romaja: jalmothada
   pos: v
   defs:
-    - def: "To err; to make a mistake."
-    - def: "To do something incorrectly."
+    - def: "to err; to make a mistake"
+    - def: "to do something incorrectly"
   conj: [잘못한다, 잘못해, 잘못해요, 잘못합니다]
 
 - word: 잘생기다
@@ -69490,7 +69476,7 @@ rat (Chinese zodiac sign)"
     - def: "(for a) short time, for a moment, awhile, briefly"
       examples:
         - example: "잠깐 기다리세요."
-          transliteration: " Jamkkan gidariseyo."
+          transliteration: "Jamkkan gidariseyo."
           translation: "Please wait a minute."
 
 - word: 잠꼬대
@@ -69643,7 +69629,7 @@ rat (Chinese zodiac sign)"
   romaja: japhida
   pos: v
   defs:
-    - def: "To be caught."
+    - def: "to be caught"
   conj: [잡힌다, 잡혀, 잡혀요/잡히어요, 잡힙니다]
 
 - word: 잣
@@ -70423,7 +70409,7 @@ rat (Chinese zodiac sign)"
     - def: "um; uh; erm (An exclamation used when one finds it awkward and uncomfortable to bring up something.)"
       examples:
         - example: "저기. 내가 미안해. — 괜찮아. 아나."
-          transliteration: "Jeogi. Naega mianhae.  gwaenchana. Ana."
+          transliteration: "Jeogi. Naega mianhae. — Gwaenchana. Ana."
           translation: "Well, I am sorry. — It’s okay, Anna."
 
 - word: 저널리스트
@@ -70574,7 +70560,7 @@ rat (Chinese zodiac sign)"
   romaja: jeojireuda
   pos: v
   defs:
-    - def: "To commit (wrongdoing)"
+    - def: "to commit (wrongdoing)"
   conj: [저지른다, 저질러, 저질러요, 저지릅니다]
 
 - word: 저지하다
@@ -70776,7 +70762,7 @@ rat (Chinese zodiac sign)"
   romaja: jeokjeolhada
   pos: a
   defs:
-    - def: "To be suited; to be appropriate"
+    - def: "to be suited; to be appropriate"
   conj: [적절하다, 적절해, 적절해요, 적절합니다]
 
 - word: 적정량
@@ -71415,7 +71401,7 @@ rat (Chinese zodiac sign)"
     - def: "telephone number"
       examples:
         - example: "전화번호가 몇 번이에요?"
-          transliteration: " Jeonhwabeonhoga myeot beonieyo?"
+          transliteration: "Jeonhwabeonhoga myeot beonieyo?"
           translation: "what's your phone number?"
 
 - word: 전화하다
@@ -71754,12 +71740,12 @@ rat (Chinese zodiac sign)"
   romaja: jeopsuhada
   pos: v
   defs:
-    - def: "To receive, take (To get applications, reports, etc., through verbal or written means.)"
+    - def: "to receive, take (To get applications, reports, etc., through verbal or written means.)"
       examples:
         - example: "존슨 씨가 당신의 상세한 얘기를 접수할 겁니다."
           transliteration: "Jonseun ssiga dangsinui sangsehan yaegireul jeopsuhal geomnida."
           translation: "Mr. Johnson will take your detail."
-    - def: "To receive (To get money, items, etc.)"
+    - def: "to receive (to get money, items, etc.)"
   conj: [접수한다, 접수해, 접수해요, 접수합니다]
 
 - word: 접시
@@ -72465,8 +72451,8 @@ rat (Chinese zodiac sign)"
   romaja: jeotda
   pos: v
   defs:
-    - def: "To become wet."
-    - def: "To indulge in."
+    - def: "to become wet"
+    - def: "to indulge in"
   conj: [젖는다, 젖어, 젖어요, 젖습니다]
 
 - word: 젖당못견딤증
@@ -72527,7 +72513,7 @@ rat (Chinese zodiac sign)"
   romaja: jegonghada
   pos: v
   defs:
-    - def: "To provide or furnish."
+    - def: "to provide or furnish"
   conj: [제공한다, 제공해, 제공해요, 제공합니다]
 
 - word: 제과점
@@ -72723,7 +72709,7 @@ rat (Chinese zodiac sign)"
   romaja: je-oehada
   pos: v
   defs:
-    - def: "To exclude (from consideration)."
+    - def: "to exclude (from consideration)"
   conj: [제외한다, 제외해, 제외해요, 제외합니다]
 
 - word: 제우스
@@ -72818,10 +72804,10 @@ rat (Chinese zodiac sign)"
     - def: "Jeju (island, province and its capital in South Korea)"
       examples:
         - example: "제주도"
-          transliteration: " Jejudo"
+          transliteration: "Jejudo"
           translation: "Jeju island, Jejudo"
         - example: "제주시"
-          transliteration: " Jejusi"
+          transliteration: "Jejusi"
           translation: "Jeju city"
 
 - word: 제주도
@@ -73051,7 +73037,7 @@ rat (Chinese zodiac sign)"
     - def: "a little; a bit"
       examples:
         - example: "조금만 기다리십시오."
-          transliteration: " Jogeumman gidarisipsio."
+          transliteration: "Jogeumman gidarisipsio."
           translation: "Please wait a little."
 
 - word: 조금씩
@@ -73837,7 +73823,7 @@ rat (Chinese zodiac sign)"
           transliteration: "Geurigo, oneul eotteoseumnikka?  aju joayo, gamsahamnida. Makeu."
           translation: "And how are you today? - Very well thank you Mark."
         - example: "오늘 오후에 들러요. — 좋아요."
-          transliteration: "Oneul ohue deulleoyo.  joayo."
+          transliteration: "Oneul ohue deulleoyo. — Joayo."
           translation: "Come by this afternoon. — Okay."
     - def: "good; nice (Well-rounded and kind in personality.)"
     - def: "good; kind (Kind and gentle in the way one speaks and acts.)"
@@ -74320,7 +74306,7 @@ rat (Chinese zodiac sign)"
   romaja: jusik
   pos: n
   defs:
-    - def: "Food and alcohol."
+    - def: "food and alcohol"
 
 - word: 주어
   pos: n
@@ -74336,7 +74322,7 @@ rat (Chinese zodiac sign)"
   romaja: jueojida
   pos: v
   defs:
-    - def: "To be provided; given."
+    - def: "to be provided; given"
   conj: [주어진다, 주어져, 주어져요/주어지어요, 주어집니다]
 
 - word: 주연
@@ -74668,8 +74654,8 @@ rat (Chinese zodiac sign)"
   romaja: jugida
   pos: v
   defs:
-    - def: "To kill; to cause to die."
-    - def: "To extinguish."
+    - def: "to kill; to cause to die"
+    - def: "to extinguish"
   conj: [죽인다, 죽여, 죽여요/죽이어요, 죽입니다]
 
 - word: 죽지
@@ -74788,14 +74774,14 @@ rat (Chinese zodiac sign)"
   romaja: jureodeulda
   pos: v
   defs:
-    - def: "To diminish or decrease."
+    - def: "to diminish or decrease"
   conj: [줄어든다, 줄어들어, 줄어들어요, 줄어듭니다]
 
 - word: 줄이다
   romaja: jurida
   pos: v
   defs:
-    - def: "To reduce something."
+    - def: "to reduce something"
   conj: [줄인다, 줄여, 줄여요/줄이어요, 줄입니다]
 
 - word: 줄종개
@@ -75181,8 +75167,8 @@ rat (Chinese zodiac sign)"
   romaja: jwida
   pos: v
   defs:
-    - def: "To clench"
-    - def: "To grasp, to grab, to hold, to squeeze"
+    - def: "to clench"
+    - def: "to grasp, to grab, to hold, to squeeze"
       examples:
         - example: "손으로 쥐고 놓지 않다."
           transliteration: "Soneuro jwigo nochi anta."
@@ -75190,9 +75176,9 @@ rat (Chinese zodiac sign)"
         - example: "그래서 그는 격자 무늬 어깨걸이를 벗고, 몸을 구부려 양 꼬리를 쥐고 당겼다."
           transliteration: "Geuraeseo geuneun gyeokja munui eokkaegeorireul beotgo, momeul guburyeo yang kkorireul jwigo danggyeotda."
           translation: "So he took off his plaid, and bent down and took hold of the sheep's tail, and he pulled!"
-    - def: "To grab, to take hold of, to control. (To have power to do as one wishes.)"
-    - def: "To have (To have evidence, etc.)"
-    - def: "To make, to have (To earn or have money, wealth, etc.)"
+    - def: "to grab, to take hold of, to control. (to have power to do as one wishes)"
+    - def: "to have (to have evidence, etc.)"
+    - def: "to make, to have (to earn or have money, wealth, etc.)"
   conj: [쥔다, 쥐어, 쥐어요, 쥡니다]
 
 - word: 쥐며느리
@@ -75270,7 +75256,7 @@ rat (Chinese zodiac sign)"
   romaja: jeunggahada
   pos: v
   defs:
-    - def: "To increase or add."
+    - def: "to increase or add"
       examples:
         - example: "인구가 130(백삼십)만 명에서 140(백사십)만 명으로 증가했다."
           transliteration: "In-guga 130(baeksamsip)man myeong-eseo 140(baeksasip)man myeong-euro jeunggahaetda."
@@ -75873,7 +75859,7 @@ rat (Chinese zodiac sign)"
   romaja: jibaehada
   pos: v
   defs:
-    - def: "To rule; to control"
+    - def: "to rule; to control"
   conj: [지배한다, 지배해, 지배해요, 지배합니다]
 
 - word: 지복직관
@@ -76653,7 +76639,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: jinjja
   pos: n
   defs:
-    - def: "That which is real or actual."
+    - def: "that which is real or actual"
     - def: ""
       examples:
         - example: "퍼피볼은 진짜 슈퍼볼에 대한 대체물입니다."
@@ -76712,7 +76698,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: jinhaengdoeda
   pos: v
   defs:
-    - def: "To progress; to come to progress"
+    - def: "to progress; to come to progress"
   conj: [진행된다, 진행돼, 진행돼요/진행되어요, 진행됩니다]
 
 - word: 진행자
@@ -77199,15 +77185,15 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: jipda
   pos: v
   defs:
-    - def: "To rely, rest (on a cane, stick, etc.)"
+    - def: "to rely, rest (on a cane, stick, etc.)"
       examples:
         - example: "땅 짚고 헤엄치기"
           transliteration: "ttang jipgo heeomchigi"
           translation: "as easy or safe as swimming (with the arms) resting on the ground"
-    - def: "To dip (a dipstick to stand on the bottom)"
-    - def: "To point (at something specific as (if) with a finger)"
-    - def: "To touch, feel (at some body part to examine the temperature, pulses, etc.)"
-    - def: "To guess, estimate (relying on, or starting from, some baseline)"
+    - def: "to dip (a dipstick to stand on the bottom)"
+    - def: "to point (at something specific as (if) with a finger)"
+    - def: "to touch, feel (at some body part to examine the temperature, pulses, etc.)"
+    - def: "to guess, estimate (relying on, or starting from, some baseline)"
   conj: [짚는다, 짚어, 짚어요, 짚습니다]
 
 - word: 짜
@@ -77997,7 +77983,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: chamdoeda
   pos: a
   defs:
-    - def: "To be true, truthful, correct, right"
+    - def: "to be true, truthful, correct, right"
   conj: [참되다, 참돼, 참돼요/참되어요, 참됩니다]
 
 - word: 참둑중개
@@ -78058,7 +78044,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: chamseokhada
   pos: v
   defs:
-    - def: "To attend a meeting or other gathering."
+    - def: "to attend a meeting or other gathering"
   conj: [참석한다, 참석해, 참석해요, 참석합니다]
 
 - word: 참수리
@@ -78209,7 +78195,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
     - def: "window"
       examples:
         - example: "창문의 유리가 반짝거린다."
-          transliteration: " Changmunui yuriga banjjakgeorinda."
+          transliteration: "Changmunui yuriga banjjakgeorinda."
           translation: "The glass of the window is gleaming."
         - example: "도둑이 창문을 통해 들어온 것 같다."
           transliteration: "Dodugi changmuneul tonghae deureoon geot gatda."
@@ -78307,8 +78293,8 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: chajagada
   pos: v
   defs:
-    - def: "To go to see or meet someone."
-    - def: "To retrieve or recover something."
+    - def: "to go to see or meet someone"
+    - def: "to retrieve or recover something"
   conj: [찾아간다, 찾아가, 찾아가요, 찾아갑니다]
 
 - word: 찾아내다
@@ -78402,9 +78388,9 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: chae-uda
   pos: v
   defs:
-    - def: "To fill; to cause to be filled."
-    - def: "To complete or fulfill."
-    - def: "To satisfy."
+    - def: "to fill; to cause to be filled"
+    - def: "to complete or fulfill"
+    - def: "to satisfy"
   conj: [채운다, 채워, 채워요, 채웁니다]
 
 - word: 채찍
@@ -78519,13 +78505,13 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: chaenggida
   pos: v
   defs:
-    - def: "To collect or pack."
+    - def: "to collect or pack"
       examples:
         - example: "비행기에서 내리시기 전에 모든 소지품을 챙기셨는지 확인해 주시기 바랍니다."
           transliteration: "Bihaenggieseo naerisigi jeone modeun sojipumeul chaenggisyeonneunji hwaginhae jusigi baramnida."
           translation: "Before getting off the airplane, please ensure that all your belongings are with you."
-    - def: "To put aright; to set in order."
-    - def: "To keep for oneself; to appropriate."
+    - def: "to put aright; to set in order"
+    - def: "to keep for oneself; to appropriate"
   conj: [챙긴다, 챙겨, 챙겨요/챙기어요, 챙깁니다]
 
 - word: 처남
@@ -78621,7 +78607,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: cheok
   pos: n
   defs:
-    - def: "隻:  boat"
+    - def: "隻: boat"
     - def: "尺: Synonym of 자 (ja), the Korean foot of about 30.3 cm"
 
 - word: 척량
@@ -79395,7 +79381,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: chyeodaboda
   pos: v
   defs:
-    - def: "To look at or glance."
+    - def: "to look at or glance"
   conj: [쳐다본다, 쳐다봐, 쳐다봐요/쳐다보아요, 쳐다봅니다]
 
 - word: 쳐죽이다
@@ -79953,7 +79939,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: chujinhada
   pos: v
   defs:
-    - def: "To promote or propel an initiative."
+    - def: "to promote or propel an initiative"
   conj: [추진한다, 추진해, 추진해요, 추진합니다]
 
 - word: 추천
@@ -80120,7 +80106,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: chulbalhada
   pos: v
   defs:
-    - def: "To depart"
+    - def: "to depart"
   conj: [출발한다, 출발해, 출발해요, 출발합니다]
 
 - word: 출산
@@ -80295,7 +80281,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: chungbunhada
   pos: a
   defs:
-    - def: "To be sufficient or adequate."
+    - def: "to be sufficient or adequate"
   conj: [충분하다, 충분해, 충분해요, 충분합니다]
 
 - word: 충분히
@@ -81502,7 +81488,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: keojida
   pos: v
   defs:
-    - def: "To become large or larger; to expand."
+    - def: "to become large or larger; to expand"
   conj: [커진다, 커져, 커져요/커지어요, 커집니다]
 
 - word: 커튼
@@ -81634,7 +81620,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: kenggida
   pos: v
   defs:
-    - def: "To be drawn tight; to become strained"
+    - def: "to be drawn tight; to become strained"
     - def: "to strain, tighten"
   conj: [켕긴다, 켕겨, 켕겨요/켕기어요, 켕깁니다]
 
@@ -81647,54 +81633,54 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: kyeoda
   pos: v
   defs:
-    - def: "To light an oil lamp or candle; strike a match or lighter"
-    - def: "To turn something on"
+    - def: "to light an oil lamp or candle; strike a match or lighter"
+    - def: "to turn something on"
   conj: [켠다, 켜어, 켜어요, 켭니다]
 
 - word: 켜다
   romaja: kyeoda
   pos: v
   defs:
-    - def: "To split a wood lengthwise with a saw"
-    - def: "To play the string instrument"
-    - def: "To reel silk off cocoons"
-    - def: "To make a taffy white"
+    - def: "to split a wood lengthwise with a saw"
+    - def: "to play the string instrument"
+    - def: "to reel silk off cocoons"
+    - def: "to make a taffy white"
   conj: [켠다, 켜어, 켜어요, 켭니다]
 
 - word: 켜다
   romaja: kyeoda
   pos: v
   defs:
-    - def: "To drink at a gulp"
-    - def: "To drink water very often because of thirst"
+    - def: "to drink at a gulp"
+    - def: "to drink water very often because of thirst"
   conj: [켠다, 켜어, 켜어요, 켭니다]
 
 - word: 켜다
   romaja: kyeoda
   pos: v
   defs:
-    - def: "To stretch"
+    - def: "to stretch"
   conj: [켠다, 켜어, 켜어요, 켭니다]
 
 - word: 켜다
   romaja: kyeoda
   pos: v
   defs:
-    - def: "To corrugate"
+    - def: "to corrugate"
   conj: [켠다, 켜어, 켜어요, 켭니다]
 
 - word: 켜다
   romaja: kyeoda
   pos: v
   defs:
-    - def: "To make a sound using something like ure"
+    - def: "to make a sound using something like ure"
   conj: [켠다, 켜어, 켜어요, 켭니다]
 
 - word: 켜다
   romaja: kyeoda
   pos: v
   defs:
-    - def: "To fan"
+    - def: "to fan"
   conj: [켠다, 켜어, 켜어요, 켭니다]
 
 - word: 켤레
@@ -82006,7 +81992,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
     - def: "OK, agreed (on a proposal)."
       examples:
         - example: "— 치맥 어때?— 콜!"
-          transliteration: " chimaek eottae? kol!"
+          transliteration: "chimaek eottae? kol!"
           translation: "— How about chicken and beer?— OK!"
 
 - word: 콜라
@@ -84341,8 +84327,8 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   defs:
     - def: "Compost."
       examples:
-        - example: "그 시설은 단지 8주만에 음식물 쓰레기를,  가정용 및 농업용으로 적합한 풍부하고 깨끗한 퇴비로 만들 것입니다."
-          transliteration: "Geu siseoreun danji 8jumane eumsingmul sseuregireul,  gajeong-yong mit nong-eobyong-euro jeokhaphan pungbuhago kkaekkeuthan toebiro mandeul geosimnida."
+        - example: "그 시설은 단지 8주만에 음식물 쓰레기를, 가정용 및 농업용으로 적합한 풍부하고 깨끗한 퇴비로 만들 것입니다."
+          transliteration: "Geu siseoreun danji 8jumane eumsingmul sseuregireul, gajeong-yong mit nong-eobyong-euro jeokhaphan pungbuhago kkaekkeuthan toebiro mandeul geosimnida."
           translation: "[The] facility […] in just eight weeks, turns [the food waste] into a rich, clean compost suitable for home and agricultural use."
 
 - word: 퇴직금
@@ -84686,7 +84672,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
       examples:
         - example: "트림(이) 나오다"
           transliteration: "teurim(i) naoda"
-          translation: " to come out"
+          translation: "to come out"
         - example: "트림(을) 시키다"
           transliteration: "teurim(eul) sikida"
           translation: "to cause (someone) to burp"
@@ -84735,13 +84721,13 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: teukbyeol
   pos: n
   defs:
-    - def: "The state or quality of being special."
+    - def: "the state or quality of being special"
 
 - word: 특별하다
   romaja: teukbyeolhada
   pos: a
   defs:
-    - def: "To be special or exceptional."
+    - def: "to be special or exceptional"
   conj: [특별하다, 특별해, 특별해요, 특별합니다]
 
 - word: 특별히
@@ -84974,14 +84960,14 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: pagoedoeda
   pos: v
   defs:
-    - def: "To be destroyed or demolished."
+    - def: "to be destroyed or demolished"
   conj: [파괴된다, 파괴돼, 파괴돼요/파괴되어요, 파괴됩니다]
 
 - word: 파괴하다
   romaja: pagoehada
   pos: v
   defs:
-    - def: "To destroy or demolish."
+    - def: "to destroy or demolish"
   conj: [파괴한다, 파괴해, 파괴해요, 파괴합니다]
 
 - word: 파나마
@@ -85091,7 +85077,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: paryeomchihada
   pos: a
   defs:
-    - def: "To be brazen or shameless."
+    - def: "to be brazen or shameless"
   conj: [파렴치하다, 파렴치해, 파렴치해요, 파렴치합니다]
 
 - word: 파리
@@ -85116,7 +85102,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: parihada
   pos: a
   defs:
-    - def: "To be thin or emaciated"
+    - def: "to be thin or emaciated"
   conj: [파리하다, 파리해, 파리해요, 파리합니다]
 
 - word: 파마
@@ -85334,14 +85320,14 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: pahada
   pos: v
   defs:
-    - def: "To crush or prevail over an enemy."
+    - def: "to crush or prevail over an enemy"
   conj: [파한다, 파해, 파해요, 파합니다]
 
 - word: 파하다
   romaja: pahada
   pos: v
   defs:
-    - def: "To end."
+    - def: "to end"
   conj: [파한다, 파해, 파해요, 파합니다]
 
 - word: 파행
@@ -85513,13 +85499,13 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: pandan
   pos: n
   defs:
-    - def: "Judgment; decision."
+    - def: "judgment; decision"
 
 - word: 판단하다
   romaja: pandanhada
   pos: v
   defs:
-    - def: "To adjudge; to determine"
+    - def: "to adjudge; to determine"
   conj: [판단한다, 판단해, 판단해요, 판단합니다]
 
 - word: 판도
@@ -85872,14 +85858,14 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: peojeul
   pos: n
   defs:
-    - def: "puzzle ((type of game)"
+    - def: "puzzle (type of game)"
 
 - word: 퍼지다
   romaja: peojida
   pos: v
   defs:
-    - def: "To spread outwards."
-    - def: "To diffuse."
+    - def: "to spread outwards"
+    - def: "to diffuse"
   conj: [퍼진다, 퍼져, 퍼져요/퍼지어요, 퍼집니다]
 
 - word: 펄럭
@@ -86547,7 +86533,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: pogihada
   pos: v
   defs:
-    - def: "To give up or abandon."
+    - def: "to give up or abandon"
   conj: [포기한다, 포기해, 포기해요, 포기합니다]
 
 - word: 포도
@@ -87208,8 +87194,8 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: pullida
   pos: v
   defs:
-    - def: "To be untied."
-    - def: "To be solved."
+    - def: "to be untied"
+    - def: "to be solved"
   conj: [풀린다, 풀려, 풀려요/풀리어요, 풀립니다]
 
 - word: 풀망둑
@@ -87394,7 +87380,7 @@ such a municipality in North Korea, the Republic of China, the People's Republic
   romaja: pungbuhada
   pos: a
   defs:
-    - def: "To be rich, plentiful, abundant, ample"
+    - def: "to be rich, plentiful, abundant, ample"
   conj: [풍부하다, 풍부해, 풍부해요, 풍부합니다]
 
 - word: 풍선
@@ -88847,7 +88833,7 @@ to say, to talk"
   romaja: hayata
   pos: a
   defs:
-    - def: "To be pure white"
+    - def: "to be pure white"
   conj: [하얗다, 하얘, 하얘요, 하얗습니다]
 
 - word: 하얀색
@@ -88866,7 +88852,7 @@ to say, to talk"
   romaja: hayata
   pos: a
   defs:
-    - def: "To be pure white"
+    - def: "to be pure white"
   conj: [하얗다, 하얘, 하얘요, 하얗습니다]
 
 - word: 하얼빈
@@ -90263,7 +90249,7 @@ to say, to talk
   romaja: haegyeolhada
   pos: v
   defs:
-    - def: "To resolve a dispute or confusion."
+    - def: "to resolve a dispute or confusion"
       examples:
         - example: "문제를 해결하는 데에는 여러 가지의 방법이 있다."
           transliteration: "Munjereul haegyeolhaneun deeneun yeoreo gajiui bangbeobi itda."
@@ -91549,7 +91535,7 @@ to say, to talk
   romaja: hyeon-geum
   pos: n
   defs:
-    - def: "Mistaken name for the 거문고 (geomun-go).  "
+    - def: "Mistaken name for the 거문고 (geomun-go)."
 
 - word: 현대
   romaja: hyeondae
@@ -91849,7 +91835,7 @@ to say, to talk
   romaja: hyeongseongdoeda
   pos: v
   defs:
-    - def: "To be formed or shaped."
+    - def: "to be formed or shaped"
   conj: [형성된다, 형성돼, 형성돼요/형성되어요, 형성됩니다]
 
 - word: 형성하다
@@ -92776,7 +92762,7 @@ to say, to talk
   romaja: hwaksilhada
   pos: a
   defs:
-    - def: "To be certain or definite."
+    - def: "to be certain or definite"
   conj: [확실하다, 확실해, 확실해요, 확실합니다]
 
 - word: 확실히
@@ -92992,8 +92978,8 @@ to say, to talk
   romaja: hwaryonghada
   pos: v
   defs:
-    - def: "To apply; to make use of."
-    - def: "To conjugate."
+    - def: "to apply; to make use of"
+    - def: "to conjugate"
   conj: [활용한다, 활용해, 활용해요, 활용합니다]
 
 - word: 황
@@ -93144,7 +93130,7 @@ to say, to talk
   pos: n
   defs:
     - def: "膾: sliced raw fish; sashimi"
-    - def: "回:  time, occurence, occasion"
+    - def: "回: time, occurence, occasion"
 
 - word: 회견
   romaja: hoegyeon
@@ -93308,7 +93294,7 @@ to say, to talk
   romaja: hoeeumbu
   pos: n
   defs:
-    - def: "The perineal region; the perineum."
+    - def: "the perineal region; the perineum"
 
 - word: 회의
   romaja: hoe-ui
@@ -93401,7 +93387,7 @@ to say, to talk
   romaja: hyogwajeok
   pos: n
   defs:
-    - def: "Something which is effective."
+    - def: "something which is effective"
 
 - word: 효모
   romaja: hyomo
@@ -93500,7 +93486,7 @@ to say, to talk
   romaja: huban
   pos: n
   defs:
-    - def: "The latter or second half."
+    - def: "the latter or second half"
 
 - word: 후배
   romaja: hubae
@@ -93607,7 +93593,7 @@ to say, to talk
 - word: 훈
   pos: n
   defs:
-    - def: "Teaching, instruction, guidance."
+    - def: "teaching, instruction, guidance"
     - def: "meaning of a hanja (Chinese character)"
     - def: "hun (塤), an ancient flute made of clay or ceramic"
 
@@ -93884,15 +93870,15 @@ to say, to talk
   romaja: heuk
   pos: n
   defs:
-    - def: "The color black."
-    - def: "A black stone used in the game of go."
+    - def: "the color black"
+    - def: "a black stone used in the game of go"
 
 - word: 흑
   romaja: heuk
   pos: intj
   defs:
-    - def: "Sobbing."
-    - def: "Expressing shock or disappointment."
+    - def: "sobbing"
+    - def: "expressing shock or disappointment"
 
 - word: 흑고니
   pos: n
@@ -93903,7 +93889,7 @@ to say, to talk
   romaja: heukgireogi
   pos: n
   defs:
-    - def: "The brent goose, Branta bernicla."
+    - def: "The brent goose, Branta bernicla"
 
 - word: 흑기사
   romaja: heukgisa
@@ -93916,7 +93902,7 @@ to say, to talk
   romaja: heukdurumi
   pos: n
   defs:
-    - def: "The hooded crane, Grus monacha."
+    - def: "The hooded crane, Grus monacha"
 
 - word: 흑로
   romaja: heungno
@@ -93946,7 +93932,7 @@ to say, to talk
   romaja: heugyeoksa
   pos: n
   defs:
-    - def: "a past thing that would like to make it didn't happen."
+    - def: "a past thing that would like to make it didn't happen"
 
 - word: 흑인
   romaja: heugin
@@ -93970,8 +93956,8 @@ to say, to talk
   romaja: heukheuk
   pos: adv
   defs:
-    - def: "The sound of sobbing."
-    - def: "The sound a person makes when feeling a cold shiver through their spine."
+    - def: "the sound of sobbing"
+    - def: "the sound a person makes when feeling a cold shiver through their spine"
 
 - word: 흔들다
   romaja: heundeulda
@@ -94003,8 +93989,8 @@ to say, to talk
   romaja: heunhada
   pos: a
   defs:
-    - def: "To be frequent or common."
-    - def: "To be commonplace; ordinary."
+    - def: "to be frequent or common"
+    - def: "to be commonplace; ordinary"
   conj: [흔하다, 흔해, 흔해요, 흔합니다]
 
 - word: 흔히
@@ -94040,8 +94026,8 @@ to say, to talk
   romaja: heullida
   pos: v
   defs:
-    - def: "To flow with, or spill."
-    - def: "To drop something."
+    - def: "to flow with, or spill"
+    - def: "to drop something"
   conj: [흘린다, 흘려, 흘려요/흘리어요, 흘립니다]
 
 - word: 흙
@@ -94103,7 +94089,7 @@ to say, to talk
   romaja: heunggyeopda
   pos: a
   defs:
-    - def: "to be delightful; to be full of merriment."
+    - def: "to be delightful; to be full of merriment"
   conj: [흥겹다, 흥겨워, 흥겨워요, 흥겹습니다]
 
 - word: 흥륭
@@ -94293,7 +94279,7 @@ to say, to talk
   romaja: huihanhada
   pos: a
   defs:
-    - def: "To be rare or unusual"
+    - def: "to be rare or unusual"
   conj: [희한하다, 희한해, 희한해요, 희한합니다]
 
 - word: 희한히
@@ -94408,7 +94394,7 @@ to say, to talk
   romaja: huinsaek
   pos: n
   defs:
-    - def: "The color white."
+    - def: "the color white"
 
 - word: 흰수마자
   romaja: huinsumaja
@@ -94486,8 +94472,8 @@ to say, to talk
   romaja: hi
   pos: suf
   defs:
-    - def: "a suffix deriving a passive verb."
-    - def: "a suffix deriving a causative verb."
+    - def: "a suffix deriving a passive verb"
+    - def: "a suffix deriving a causative verb"
 
 - word: 히드록시기
   romaja: hideuroksigi
@@ -94535,7 +94521,7 @@ to say, to talk
   romaja: hipeu
   pos: n
   defs:
-    - def: "The hips"
+    - def: "the hips"
 
 - word: 힌두교
   romaja: hindugyo
@@ -94613,8 +94599,8 @@ to say, to talk
   romaja: himjul
   pos: v
   defs:
-    - def: "Which will concentrate"
-    - def: "Which will be concentrated on"
+    - def: "which will concentrate"
+    - def: "which will be concentrated on"
 
 - word: 힙합
   romaja: hiphap
